@@ -1,0 +1,503 @@
+[
+  {
+    "id": "tamara-city",
+    "slug": "tamara-city-georgia",
+    "category": "georgia-mega",
+    "featured": true,
+    "title": {
+      "en": "Tamara City Integrated Master Development",
+      "ar": "مدينة تامارا سيتي المتكاملة (جورجيا)"
+    },
+    "location": {
+      "en": "Sagarejo, Kakheti Region, Georgia (40 mins from Tbilisi)",
+      "ar": "ساغاريجو، جورجيا (40 دقيقة من العاصمة تبليسي)"
+    },
+    "client": {
+      "en": "Golden Tower Group & Retaj Hotels & Hospitality",
+      "ar": "مجموعة البرج الذهبي ومجموعة فنادق رتاج العالمية"
+    },
+    "area": "100,000 SQM",
+    "roi": "High Capital Growth & Hospitality Yield",
+    "brochureUrl": "#brochure-tamara",
+    "image": "/images/projects/tamara-city.jpg",
+    "description": {
+      "en": "A transformative flagship master development spanning 100,000 m². Thoughtfully planned with only 16% built-up footprint and 84% dedicated to lush botanical open spaces and recreational amenities. An integrated modern smart city featuring luxurious villas, serviced residences, an international school, a hospital, swimming lagoons, a luxury spa and sauna, health clubs, and 3 prestigious international hotels operated under the management of Qatar's Retaj Hotels & Hospitality.",
+      "ar": "مشروع استثماري وحضري عملاق على مساحة 100 ألف متر مربع. يتميز بتخصيص 16% فقط للبناء و 84% للمساحات الخضراء والحدائق المفتوحة. مدينة ذكية متكاملة تضم فللاً فاخرة، شققاً فندقية، مدرسة دولية، مستشفى متطور، مسابح، سبا ونادياً صحياً، و 3 فنادق عالمية تحت الإدارة والتشغيل الحصري لمجموعة رتاج للضيافة، على بعد 40 دقيقة فقط من العاصمة تبليسي."
+    },
+    "workPackages": [
+      { "en": "Turnkey Master Development & Urban Planning", "ar": "التخطيط العمراني والتطوير الشامل للمدينة" },
+      { "en": "3 International Hotels Operated by Retaj", "ar": "3 فنادق عالمية بإدارة وتشغيل مجموعة رتاج" },
+      { "en": "Luxury Villas & Residential Apartments", "ar": "فيلات فاخرة ووحدات سكنية فندقية" },
+      { "en": "Hospital, International School & Sports Complex", "ar": "مستشفى متكامل ومدرسة دولية ومجمع رياضي" }
+    ],
+    "specs": {
+      "Total Area": "100,000 m²",
+      "Built-up Ratio": "16% Built / 84% Greenery & Parks",
+      "Distance to Capital": "40 Minutes to Tbilisi",
+      "Operator": "Retaj Hotels & Hospitality"
+    }
+  },
+  {
+    "id": "didi-dighomi-tower",
+    "slug": "didi-dighomi-tower-tbilisi",
+    "category": "georgia-mega",
+    "featured": true,
+    "title": {
+      "en": "Didi Dighomi Luxury Hotel-Apartment Tower",
+      "ar": "برج ديدي ديغومي للشقق الفندقية (تبليسي)"
+    },
+    "location": {
+      "en": "Didi Dighomi District, Tbilisi, Georgia",
+      "ar": "حي ديدي ديغومي، العاصمة تبليسي، جورجيا"
+    },
+    "client": {
+      "en": "Golden Tower Real Estate Investment",
+      "ar": "شركة البرج الذهبي للاستثمار العقاري"
+    },
+    "area": "16 Floors | Units from 46 SQM",
+    "roi": "12% - 17% Expected Annual Appreciation",
+    "brochureUrl": "#brochure-dididighomi",
+    "image": "/images/projects/didi-dighomi.jpg",
+    "description": {
+      "en": "A premier 16-storey residential and hotel-apartment tower in high-growth Tbilisi. Incorporating 24/7 security, high-tech surveillance, an exclusive 1,800 m² landscaped private park surrounding the tower, and a dedicated children's playroom. Offering units starting from 46 m² with market-leading flexible repayment terms, minimal down payment, and projected annual value appreciation of 12% to 17%.",
+      "ar": "برج سكني وفندقي فاخر يتكون من 16 طابقاً في أرقى مناطق تبليسي الواعدة استثمارياً. يضم حراسة أمنية متواصلة، كاميرات مراقبة، حديقة خضراء خاصة بمساحة 1,800 متر مربع تحيط بالبرج، ونادياً ترفيهياً للأطفال. تبدأ المساحات من 46 م² بأنظمة سداد ميسرة وأقل دفعة أولى مع عائد استثماري متوقع وزيادة سنوية في القيمة السوقية تتراوح بين 12% و 17%."
+    },
+    "workPackages": [
+      { "en": "16-Storey Structural & Civil Construction", "ar": "أعمال الإنشاءات المدنية والهيكلية لبرج من 16 دوراً" },
+      { "en": "Hotel Apartments & Turnkey Architectural Finishing", "ar": "تشطيبات فندقية كاملة للشقق والمداخل الفاخرة" },
+      { "en": "1,800 m² Private Park & Landscaping", "ar": "حديقة خاصة ولاندسكيب بمساحة 1800 م²" },
+      { "en": "Smart Security, Surveillance & ELV Networks", "ar": "أنظمة الأمن الذكية والمراقبة والتحكم بالدخول" }
+    ],
+    "specs": {
+      "Number of Floors": "16 Floors",
+      "Unit Sizes": "From 46 m² upwards",
+      "Private Gardens": "1,800 m² Surrounding Park",
+      "Expected ROI": "12% to 17% Annual Growth"
+    }
+  },
+  {
+    "id": "grigoleti-beach-resort",
+    "slug": "grigoleti-beach-resort-black-sea",
+    "category": "georgia-mega",
+    "featured": true,
+    "title": {
+      "en": "Grigoleti Beach Hotel & Resort Residences",
+      "ar": "منتجع وفندق غريغوليتي الفاخر على البحر الأسود"
+    },
+    "location": {
+      "en": "Grigoleti Coastline, Black Sea, Georgia",
+      "ar": "ساحل غريغوليتي، البحر الأسود، جورجيا"
+    },
+    "client": {
+      "en": "Golden Tower Group & Retaj Hotels & Hospitality",
+      "ar": "مجموعة البرج الذهبي بالشراكة مع رتاج للضيافة"
+    },
+    "area": "2,001 SQM Beachfront Plot",
+    "roi": "Premium Hospitality Seafront Yield",
+    "brochureUrl": "#brochure-grigoleti",
+    "image": "/images/projects/grigoleti-resort.jpg",
+    "description": {
+      "en": "A prestigious beachfront hotel-apartment retreat situated directly on the iconic Black Sea coastline, operated under Retaj Hotel Management. Positioned in a pristine strategic location 45 minutes from Batumi Airport, 15 minutes from the port city of Poti, 80 minutes from Kutaisi and the Turkish border, and only 5 km from the famous Ureki magnetic sand dunes station.",
+      "ar": "شقق فندقية فاخرة بإطلالة مباشرة على شاطئ البحر الأسود، تحت إدارة وتشغيل مجموعة فنادق رتاج. يتميز المنتجع بموقع استراتيجي استثنائي على بعد 45 دقيقة من مطار باتومي، و 15 دقيقة من ميناء بوتي، وساعة و 20 دقيقة من الحدود التركية ومطار كوتايسي، وعلى بعد 5 كم فقط من محطة أوريكي الشهيرة برمالها المغناطيسية العلاجية."
+    },
+    "workPackages": [
+      { "en": "Seafront Hotel & Resort Construction", "ar": "إنشاء الفندق والمنتجع الساحلي المباشر" },
+      { "en": "Retaj 4-Star Standard Fit-out & Interior", "ar": "تشطيبات فندقية مطابقة لمعايير رتاج العالمية" },
+      { "en": "Coastal Structural Engineering & MEP Infrastructure", "ar": "الأعمال الإنشائية المقاومة للرطوبة البحرية والكهروميكانيك" },
+      { "en": "Beach Club, Pools & Leisure Amenities", "ar": "مرافق النادي الشاطئي والمسابح والمطاعم" }
+    ],
+    "specs": {
+      "Plot Size": "2,001 m² Directly on Sea",
+      "Drive to Batumi": "45 Minutes",
+      "Drive to Poti Port": "15 Minutes",
+      "Hospitality Operator": "Retaj Hotels & Hospitality"
+    }
+  },
+  {
+    "id": "green-line-metro",
+    "slug": "doha-metro-green-line",
+    "category": "qatar-infrastructure",
+    "featured": true,
+    "title": {
+      "en": "Doha Metro – Green Line (Elevated & At-Grade)",
+      "ar": "مترو الدوحة – الخط الأخضر (الجسور والمسار الأرضي)"
+    },
+    "location": {
+      "en": "Doha, Qatar",
+      "ar": "الدوحة، دولة قطر"
+    },
+    "client": {
+      "en": "HBK Contracting Company / Qatar Rail",
+      "ar": "شركة حمد بن خالد للمقاولات (HBK) / سكك حديد قطر (الريل)"
+    },
+    "area": "Multi-Kilometer Metro Transit Corridor",
+    "image": "/images/projects/metro-green-line.jpg",
+    "description": {
+      "en": "A cornerstone of Qatar's FIFA World Cup 2022 transport infrastructure. GTTC executed critical structural civil packages and precision erection of structural steel viaduct assemblies for the elevated and at-grade sections of the Doha Metro Green Line corridor.",
+      "ar": "أحد أهم مشاريع البنية التحتية القومية لشبكة قطارات قطر (الريل) لبطولة كأس العالم 2022. نفذت GTTC حزم الأعمال المدنية المعقدة وتركيب الهياكل الفولاذية الإنشائية للجسور العلوية والمحطات السطحية للخط الأخضر بأعلى درجات السلامة والدقة."
+    },
+    "workPackages": [
+      { "en": "Civil Engineering & Ground Substructure Works", "ar": "الأعمال المدنية والإنشائية للمسارات والجسور" },
+      { "en": "Precision Erection of Heavy Steel Structures", "ar": "تركيب الهياكل الفولاذية الثقيلة لجسور ومحطات المترو" },
+      { "en": "Infrastructure Safety & Quality Auditing", "ar": "تطبيق أعلى اشتراطات الأمان المعتمدة من قطر ريل" }
+    ],
+    "specs": {
+      "Project Type": "Mega Transit Infrastructure",
+      "Main Contractor": "HBK Contracting Company",
+      "Authority": "Qatar Railways Company (Qatar Rail)"
+    }
+  },
+  {
+    "id": "msheireb-downtown",
+    "slug": "msheireb-downtown-doha",
+    "category": "qatar-infrastructure",
+    "featured": true,
+    "title": {
+      "en": "Msheireb Downtown Doha – Phase Regeneration",
+      "ar": "مشيرب قلب الدوحة – المدينة المستدامة الرائدة"
+    },
+    "location": {
+      "en": "Downtown Doha, Qatar",
+      "ar": "مشيرب، وسط الدوحة، قطر"
+    },
+    "client": {
+      "en": "Msheireb Properties / Gulf Steel & Engineering (GSE)",
+      "ar": "مشيرب العقارية / جلف ستيل للهندسة (GSE)"
+    },
+    "area": "Smart Sustainable Urban District",
+    "image": "/images/projects/msheireb.jpg",
+    "description": {
+      "en": "Execution of specialized structural steel erection works within Msheireb Downtown Doha — the world's premier certified sustainable downtown regeneration project, blending traditional Qatari heritage with futuristic smart building technologies.",
+      "ar": "تنفيذ أعمال تركيب الهياكل الإنشائية الفولاذية المعقدة في مشروع مشيرب قلب الدوحة، أول مشروع مستدام لتطوير وسط المدينة في العالم، والذي يجمع بين التراث المعماري القطري الأصيل وأحدث تقنيات المدن الذكية."
+    },
+    "workPackages": [
+      { "en": "Erection of Intricate Structural Steel Frameworks", "ar": "تركيب الهياكل الفولاذية المعمارية الدقيقة" },
+      { "en": "Heritage-Integrated Structural Connections", "ar": "ربط الهياكل الإنشائية بالواجهات التراثية المستدامة" }
+    ],
+    "specs": {
+      "Project Type": "World-First Sustainable Downtown",
+      "Green Rating": "LEED Platinum Standards"
+    }
+  },
+  {
+    "id": "lusail-plaza-lrt",
+    "slug": "lusail-plaza-and-lrt-stations",
+    "category": "qatar-infrastructure",
+    "featured": true,
+    "title": {
+      "en": "Lusail Plaza Infrastructure & LRT Public Car Park",
+      "ar": "بنية لوسيل بلازا ومحطات القطار الخفيف والمواقف العامة"
+    },
+    "location": {
+      "en": "Lusail City, Qatar",
+      "ar": "مدينة لوسيل، الدوحة، قطر"
+    },
+    "client": {
+      "en": "Blue Steel / Lusail Real Estate Development",
+      "ar": "بلو ستيل / شركة لوسيل للتطوير العقاري"
+    },
+    "area": "Multi-Level Underground & Surface Hub",
+    "image": "/images/projects/lusail-plaza.jpg",
+    "description": {
+      "en": "Execution and precision installation of structural steel frameworks, architectural canopies, and multi-tier cladding stories across the landmark Lusail Plaza Infrastructure and Light Rail Transit (LRT) station multi-level public car parks.",
+      "ar": "توريد وتركيب الهياكل الفولاذية الضخمة والمظلات وطبقات الكسوة المعمارية (Cladding Stories) لمحطات القطار الخفيف (LRT) والمواقف المتعددة الطوابق في لوسيل بلازا قلب مدينة المستقبل."
+    },
+    "workPackages": [
+      { "en": "Erection of Structural Steel & Space Frames", "ar": "تركيب الهياكل الفولاذية الإنشائية والإطارات الفضائية" },
+      { "en": "Architectural Metal Cladding Stories", "ar": "تركيب واجهات وتكسيات الكلادينج المتطورة" }
+    ],
+    "specs": {
+      "Location": "Lusail Financial Center",
+      "Application": "LRT Station & Multi-Level Public Transit"
+    }
+  },
+  {
+    "id": "katara-cultural-village",
+    "slug": "katara-cultural-village",
+    "category": "qatar-infrastructure",
+    "featured": false,
+    "title": {
+      "en": "Katara Cultural Village Landmark Packages",
+      "ar": "القرية الثقافية كتارا – حزم التطوير المدني"
+    },
+    "location": {
+      "en": "Katara Cultural Village, Doha, Qatar",
+      "ar": "كتارا، الحي الثقافي، الدوحة، قطر"
+    },
+    "client": {
+      "en": "Boom Construction & Abdulnoor Partners",
+      "ar": "شركة بوم للمقاولات ومجموعة عبد النور"
+    },
+    "area": "Cultural & Heritage Epicenter",
+    "image": "/images/projects/katara.jpg",
+    "description": {
+      "en": "Execution of specialized civil engineering works within Katara Cultural Village, ensuring immaculate adherence to traditional cultural architecture combined with modern civil durability.",
+      "ar": "تنفيذ حزم الأعمال المدنية التخصصية في القرية الثقافية كتارا، مع مراعاة أعلى معايير الحفاظ على الهوية المعمارية القطرية التراثية وجودة المنشآت المدنية."
+    },
+    "workPackages": [
+      { "en": "Civil Engineering & Structural Works", "ar": "الأعمال المدنية والإنشائية التخصصية" },
+      { "en": "Heritage-Grade Substructure Finishing", "ar": "تشطيبات الأساسات والهياكل المتوافقة مع الكود التراثي" }
+    ],
+    "specs": {
+      "Project Type": "National Cultural Landmark",
+      "Client": "Boom Construction / Katara Management"
+    }
+  },
+  {
+    "id": "lekhwiya-city",
+    "slug": "lekhwiya-city-military-complex",
+    "category": "qatar-infrastructure",
+    "featured": false,
+    "title": {
+      "en": "Lekhwiya City Security Forces Complex",
+      "ar": "مدينة لخويا – المجمع الأمني لقوة الأمن الداخلي"
+    },
+    "location": {
+      "en": "Duhail, Doha, Qatar",
+      "ar": "الدحيل، الدوحة، قطر"
+    },
+    "client": {
+      "en": "Saudi Binladin Group (SBG)",
+      "ar": "مجموعة بن لادن السعودية (SBG)"
+    },
+    "area": "National Defense & Security Campus",
+    "image": "/images/projects/lekhwiya.jpg",
+    "description": {
+      "en": "Erection of high-security structural steel frameworks and massive tactical infrastructure assemblies for the iconic Lekhwiya City security headquarters campus.",
+      "ar": "تركيب الهياكل الفولاذية الإنشائية المتينة للمباني الإدارية والمنشآت اللوجستية في مدينة لخويا لقوات الأمن الداخلي بالتعاون مع كبرى شركات المقاولات الإقليمية."
+    },
+    "workPackages": [
+      { "en": "Erection of Heavy Structural Steel Assemblies", "ar": "تركيب الهياكل الفولاذية الإنشائية فائقة المتانة" },
+      { "en": "Security-Grade Structural Rigidity Protocols", "ar": "تطبيق أعلى اشتراطات الصلابة والأمان الإنشائي" }
+    ],
+    "specs": {
+      "Client": "Saudi Binladin Group",
+      "Domain": "Security & Defense Mega Campus"
+    }
+  },
+  {
+    "id": "thuraya-tower",
+    "slug": "thuraya-tower-west-bay",
+    "category": "qatar-commercial",
+    "featured": false,
+    "title": {
+      "en": "Thuraya Tower High-Rise Development",
+      "ar": "برج الثريا التجاري الفاخر (الخليج الغربي)"
+    },
+    "location": {
+      "en": "West Bay, Doha, Qatar",
+      "ar": "منطقة الأبراج، الخليج الغربي، الدوحة، قطر"
+    },
+    "client": {
+      "en": "Al Bandary Real Estate / GSE",
+      "ar": "البندري للعقارات / جلف ستيل للهندسة"
+    },
+    "area": "Skyline High-Rise Tower",
+    "image": "/images/projects/thuraya-tower.jpg",
+    "description": {
+      "en": "Full structural steel installation, crown frameworks, and podium structural elements for the prominent Thuraya Tower on the Doha skyline.",
+      "ar": "تنفيذ أعمال تركيب الهياكل الإنشائية الفولاذية وهياكل تاج البرج والقاعدة الإنشائية (Podium) لأحد أبرز الأبراج التجارية في قلب العاصمة الدوحة."
+    },
+    "workPackages": [
+      { "en": "Erection of High-Rise Steel Structures", "ar": "تركيب الهياكل الفولاذية للأبراج الشاهقة" },
+      { "en": "Top Crown Steel & Façade Anchorage", "ar": "تثبيت الهيكل العلوي وتاج البرج وأعمال التدعيم" }
+    ],
+    "specs": {
+      "Tower Type": "Commercial & High-Rise",
+      "Client": "Al Bandary Real Estate"
+    }
+  },
+  {
+    "id": "lexus-showroom",
+    "slug": "lexus-luxury-automotive-showroom",
+    "category": "qatar-commercial",
+    "featured": false,
+    "title": {
+      "en": "Lexus Luxury Automotive Showroom",
+      "ar": "معرض سيارات لكزس الفاخر (عبد الله عبد الغني وإخوانه)"
+    },
+    "location": {
+      "en": "C-Ring Road, Doha, Qatar",
+      "ar": "طريق الدائري الثالث، الدوحة، قطر"
+    },
+    "client": {
+      "en": "Salam Enterprises / AAB Lexus",
+      "ar": "شركة السلام إنتربرايزس / لكزس قطر"
+    },
+    "area": "Luxury Commercial Showroom",
+    "image": "/images/projects/lexus-showroom.jpg",
+    "description": {
+      "en": "Supply, bespoke fabrication, and precision installation of specialized architectural steelworks, sleek mezzanines, and display fixtures for the flagship Lexus Qatar showroom.",
+      "ar": "تصنيع وتوريد وتركيب الأعمال الفولاذية المعمارية والميزانين المخصص والديكورات المعدنية الفاخرة لواجهة وصالة عرض سيارات لكزس الفارهة وفق أدق المعايير اليابانية."
+    },
+    "workPackages": [
+      { "en": "Supply & Installation of Architectural Steel Works", "ar": "توريد وتركيب الأعمال الفولاذية المعمارية" },
+      { "en": "Curved Canopies & Polished Showcase Framing", "ar": "المظلات المنحنية وإطارات العرض المصقولة" }
+    ],
+    "specs": {
+      "Client": "Salam Enterprises",
+      "Brand": "Lexus International"
+    }
+  },
+  {
+    "id": "muaither-sports-club",
+    "slug": "muaither-sports-club-ministry-of-sports",
+    "category": "qatar-infrastructure",
+    "featured": false,
+    "title": {
+      "en": "Muaither Sports Club – Ministry of Culture & Sports",
+      "ar": "نادي معيذر الرياضي – وزارة الثقافة والرياضة"
+    },
+    "location": {
+      "en": "Muaither, Al Rayyan, Qatar",
+      "ar": "معيذر، الريان، قطر"
+    },
+    "client": {
+      "en": "Ministry of Culture & Sports, Qatar",
+      "ar": "وزارة الثقافة والرياضة، دولة قطر"
+    },
+    "area": "Athletic Stadium & Club Facilities",
+    "image": "/images/projects/muaither.jpg",
+    "description": {
+      "en": "Civil works alongside the complete supply and precision erection of long-span structural steel roof trusses and grandstand assemblies for Muaither Sports Club.",
+      "ar": "تنفيذ الأعمال المدنية وتوريد وتركيب الهياكل الفولاذية وجملونات الأسقف للمدرجات والمرافق الرياضية المتكاملة في نادي معيذر التابع لوزارة الرياضة."
+    },
+    "workPackages": [
+      { "en": "Civil Construction of Club Facilities", "ar": "الأعمال المدنية لمباني النادي والمدرجات" },
+      { "en": "Supply & Erection of Long-Span Steel Roofs", "ar": "توريد وتركيب أسقف الهياكل الفولاذية للصالات" }
+    ],
+    "specs": {
+      "Authority": "Ministry of Culture & Sports Qatar",
+      "Type": "Sports Complex & Stadium"
+    }
+  },
+  {
+    "id": "qatar-national-library",
+    "slug": "new-national-library-qatar-foundation",
+    "category": "qatar-infrastructure",
+    "featured": false,
+    "title": {
+      "en": "New National Library (Education City)",
+      "ar": "مكتبة قطر الوطنية الجديدة (مؤسسة قطر)"
+    },
+    "location": {
+      "en": "Education City, Al Rayyan, Qatar",
+      "ar": "المدينة التعليمية، الريان، قطر"
+    },
+    "client": {
+      "en": "GSE / Qatar Foundation (QF)",
+      "ar": "جلف ستيل للهندسة / مؤسسة قطر للتربية والعلوم"
+    },
+    "area": "1,500 LM Car Park Guard Rail & Enclosure",
+    "image": "/images/projects/qf-library.jpg",
+    "description": {
+      "en": "Erection of architectural sandwich panels, insulated cladding, and specialized steel wire mesh, flat bars, and steel angle guard rails across 1,500 linear meters for the car park facilities.",
+      "ar": "تركيب ألواح الساندوتش بانل والكسوات المعمارية والشبك الفولاذي والدرابزينات الحديدية على امتداد 1,500 متر طولي لمواقف السيارات بمكتبة قطر الوطنية العالمية."
+    },
+    "workPackages": [
+      { "en": "Erection of Insulated Sandwich Panels & Cladding", "ar": "تركيب ألواح الساندوتش بانل والتكسيات العازلة" },
+      { "en": "Erection of 1,500 LM Steel Guard Rails & Mesh", "ar": "تركيب 1500 متر طولي من حواجز الشبك والدرابزين الفولاذي" }
+    ],
+    "specs": {
+      "Institution": "Qatar Foundation",
+      "Quantity": "1,500 Linear Meters Guard Rails"
+    }
+  },
+  {
+    "id": "rayyan-plaza",
+    "slug": "rayyan-plaza-hotel-and-office-complex",
+    "category": "qatar-commercial",
+    "featured": false,
+    "title": {
+      "en": "Rayyan Plaza Hotel & Office Complex",
+      "ar": "مجمع فندق ومكاتب الريان بلازا"
+    },
+    "location": {
+      "en": "Al Rayyan, Qatar",
+      "ar": "الريان، الدوحة، قطر"
+    },
+    "client": {
+      "en": "Arabtec Construction",
+      "ar": "شركة أرابتك للإنشاءات"
+    },
+    "area": "Hospitality & Corporate Complex",
+    "image": "/images/projects/rayyan-plaza.jpg",
+    "description": {
+      "en": "End-to-end material supply, workshop fabrication, multi-coat protective painting, and on-site erection of architectural steel handrails and safety barriers.",
+      "ar": "توريد المواد والتصنيع بمصانعنا وأعمال الدهانات المقاومة وتركيب درابزينات الفولاذ الإنشائي وحواجز الأمان لمجمع فندق ومكاتب الريان بلازا."
+    },
+    "workPackages": [
+      { "en": "Supply, Fabrication & Erection of Steel Handrails", "ar": "توريد وتصنيع وتركيب الدرابزينات الفولاذية" },
+      { "en": "Anti-Corrosion Painting & Surface Finishing", "ar": "الدهانات المعمارية المقاومة للعوامل الجوية" }
+    ],
+    "specs": {
+      "Main Contractor": "Arabtec Construction",
+      "Type": "Mixed-Use Hotel & Offices"
+    }
+  },
+  {
+    "id": "salam-tower",
+    "slug": "salam-tower-and-tunnel-infrastructure",
+    "category": "qatar-commercial",
+    "featured": false,
+    "title": {
+      "en": "Salam Tower & Tunnel Utility Infrastructure",
+      "ar": "برج السلام وبنية نفق الخدمات الميكانيكية"
+    },
+    "location": {
+      "en": "West Bay, Doha, Qatar",
+      "ar": "الخليج الغربي، الدوحة، قطر"
+    },
+    "client": {
+      "en": "GSE Salam",
+      "ar": "جلف ستيل للهندسة / مجموعة السلام"
+    },
+    "area": "Commercial Tower & Underground Tunnel",
+    "image": "/images/projects/salam-tower.jpg",
+    "description": {
+      "en": "Erection of structural steel frames, heavy structural steel supports, and industrial chequer plate tunnel covers protecting underground utility pipelines.",
+      "ar": "تركيب الهياكل الفولاذية الإنشائية والإطارات الحاملة وألواح الغطاء الصناعية (Chaqure Plates) لحماية مسارات أنابيب وأنفاق الخدمات الهندسية لبرج السلام."
+    },
+    "workPackages": [
+      { "en": "Erection of Structural Steel Frames & Supports", "ar": "تركيب الإطارات الفولاذية والدعامات الهيكلية" },
+      { "en": "Tunnel Pipe Chequer Plates & Utility Bridges", "ar": "ألواح التغطية الفولاذية للأنفاق وأنابيب الخدمات" }
+    ],
+    "specs": {
+      "Location": "West Bay Financial District",
+      "Application": "Tower Framing & Underground Pipeline Bridges"
+    }
+  },
+  {
+    "id": "industrial-workshop",
+    "slug": "industrial-area-workshops-and-offices",
+    "category": "steel-industrial",
+    "featured": false,
+    "title": {
+      "en": "Industrial Area Workshops & Office Extensions",
+      "ar": "ورش ومكاتب التوسعة بالمنطقة الصناعية (Gulf Steel & Meta)"
+    },
+    "location": {
+      "en": "Street 15 & Street 24, Industrial Area, Doha, Qatar",
+      "ar": "شارع 15 والمنطقة الصناعية، الدوحة، قطر"
+    },
+    "client": {
+      "en": "Gulf Steel / GSE Meta",
+      "ar": "جلف ستيل / ميتا للصناعات المعدنية"
+    },
+    "area": "Heavy Industrial Facilities",
+    "image": "/images/projects/industrial-workshop.jpg",
+    "description": {
+      "en": "Turnkey civil construction and heavy structural steel erection including high-capacity industrial tanks, monorail crane gantries, and automated conveyor support gantries.",
+      "ar": "تنفيذ الأعمال المدنية المتكاملة وتركيب الهياكل الفولاذية الثقيلة للصالات الصناعية وخزانات الوقود الضخمة وروافع المونوريل ودعامات السيور الناقلة."
+    },
+    "workPackages": [
+      { "en": "Civil Works & Deep Industrial Foundations", "ar": "الأعمال المدنية والأساسات الخرسانية الثقيلة" },
+      { "en": "Monorail Structure & Conveyor Supports", "ar": "هياكل روافع المونوريل ودعامات خطوط الإنتاج" },
+      { "en": "Heavy Steel Storage Tanks & Structural Erection", "ar": "خزانات فولاذية ثقيلة وهياكل جمالونات صناعية" }
+    ],
+    "specs": {
+      "Facility Type": "Heavy Steel Manufacturing & Storage",
+      "Location": "Doha Industrial Area"
+    }
+  }
+]

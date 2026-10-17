@@ -1,0 +1,75 @@
+{
+  "offices": [
+    {
+      "id": "executive-hq",
+      "type": "headquarters",
+      "title": {
+        "en": "Executive Headquarters (Qatar)",
+        "ar": "المقر الرئيسي التنفيذي (دولة قطر)"
+      },
+      "address": {
+        "en": "7th Floor, Barwa Tower 1, C-Ring Road, Al Sadd Area, Doha, Qatar",
+        "ar": "الطابق السابع، برج بروة 1، طريق الدائري الثالث، منطقة السد، الدوحة، قطر"
+      },
+      "poBox": "PO Box 9217, Doha - Qatar",
+      "tel": "+974 4450 8659",
+      "fax": "+974 4450 8673",
+      "mob": "+974 3326 7280",
+      "email": "info@gttc.co",
+      "workingHours": {
+        "en": "Sunday - Thursday: 8:00 AM - 5:30 PM",
+        "ar": "الأحد - الخميس: 8:00 صباحاً - 5:30 مساءً"
+      },
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2008.3437547993806!2d51.503183858425054!3d25.28680568069388!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e45dad00e15ee29%3A0xac7fec181909d09b!2sGTTC+-+Golden+Tower+Trading+%26+Cont.+Office!5e0!3m2!1sen!2s!4v1505683828585"
+    },
+    {
+      "id": "fabrication-workshop",
+      "type": "workshop",
+      "title": {
+        "en": "Fabrication Plant & Industrial Workshops",
+        "ar": "مصانع وورش تصنيع الهياكل الفولاذية"
+      },
+      "address": {
+        "en": "Street No. 15, Industrial Area, Doha, Qatar",
+        "ar": "الشارع رقم 15، المنطقة الصناعية، الدوحة، قطر"
+      },
+      "poBox": "PO Box 9217, Doha - Qatar",
+      "tel": "+974 4495 8904",
+      "fax": "+974 4450 8673",
+      "mob": "+974 3326 7280",
+      "email": "workshop@gttc.co",
+      "workingHours": {
+        "en": "Saturday - Thursday: 7:00 AM - 5:00 PM",
+        "ar": "السبت - الخميس: 7:00 صباحاً - 5:00 مساءً"
+      },
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115456.63412532454!2d51.353457!3d25.185638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e45d17961952f41%3A0x948332915832a829!2sIndustrial%20Area%2C%20Doha%2C%20Qatar!5e0!3m2!1sen!2s"
+    },
+    {
+      "id": "georgia-office",
+      "type": "regional",
+      "title": {
+        "en": "Regional Development Office (Georgia)",
+        "ar": "المكتب الإقليمي للاستثمار والتطوير (جورجيا)"
+      },
+      "address": {
+        "en": "Tbilisi Central Business District, Georgia",
+        "ar": "منطقة الأعمال المركزية، العاصمة تبليسي، جورجيا"
+      },
+      "poBox": "Tbilisi 0162, Georgia",
+      "tel": "+995 32 200 4580",
+      "mob": "+995 599 123 456",
+      "email": "georgia@gttc.co",
+      "workingHours": {
+        "en": "Monday - Friday: 9:00 AM - 6:00 PM",
+        "ar": "الاثنين - الجمعة: 9:00 صباحاً - 6:00 مساءً"
+      },
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d95267.44318731388!2d44.7171488!3d41.7326084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40440cd7e64f626b%3A0x61d084ede2576ea3!2sTbilisi%2C%20Georgia!5e0!3m2!1sen!2s"
+    }
+  ],
+  "inquiryTypes": [
+    { "id": "tenders", "en": "EPC & Construction Tendering", "ar": "مناقصات ومشاريع المقاولات" },
+    { "id": "georgia-invest", "en": "Georgia Real Estate & Hotel Investment", "ar": "الاستثمار العقاري والفندقي بجورجيا" },
+    { "id": "steel-orders", "en": "Steel & Metal Fabrication Orders", "ar": "طلبيات وتصنيع الهياكل الحديدية" },
+    { "id": "general", "en": "General Executive Inquiries", "ar": "استفسارات عامة وإدارة" }
+  ]
+}
