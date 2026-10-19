@@ -1,0 +1,168 @@
+{
+  "ar": {
+    "home": {
+      "title": "البرج الذهبي ورتاج للضيافة | استثمارات فندقية فاخرة في جورجيا وقطر",
+      "description": "استثمر في فندق ومنتجع جي-رتاج ومشاريع جورجيا الفندقية الكبرى. تملك حر 100% للأجانب، عوائد دولارية دورية، وإدارة وتشغيل فندقي معتمد من مجموعة فنادق رتاج.",
+      "keywords": "البرج الذهبي,فنادق رتاج,رتاج للضيافة,جي رتاج,استثمار في جورجيا,عقارات جورجيا,فنادق جورجيا,تملك حر جورجيا,شاطئ الرمال المغناطيسية,غريغوليتي,منتجع رتاج,تبليسي,تسخالتوبو,عوائد بالدولار,سياحة حلال جورجيا,Golden Tower,Retaj Hotels",
+      "ogTitle": "البرج الذهبي ورتاج للضيافة | استثمارات فندقية فاخرة في جورجيا",
+      "ogDescription": "تملك جناحك الفندقي على ساحل البحر الأسود في فندق ومنتجع جي-رتاج بعوائد دورية بالدولار الأمريكي وإدارة رتاج العالمية.",
+      "ogImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419202/g-retaj/gretaj_p5_2_1536x1024.png",
+      "path": "/"
+    },
+    "g-retaj": {
+      "title": "فندق ومنتجع جي-رتاج (غريغوليتي) | استثمار فندقي ساحلي على البحر الأسود",
+      "description": "امتلك وحدتك الفندقية المفروشة بالكامل في فندق ومنتجع جي-رتاج على شاطئ الرمال المغناطيسية العلاجية بالبحر الأسود. تملك حر 100%، تسليم منتصف 2027، عوائد دورية بالدولار الأمريكي.",
+      "keywords": "جي رتاج,فندق جي رتاج,منتجع جي رتاج,غريغوليتي,البحر الاسود,عقارات جورجيا الساحلية,الرمال المغناطيسية جورجيا,فنادق رتاج جورجيا,استثمار فندقي البحر الاسود,G-Retaj,Grigoleti,Black Sea Resort Georgia",
+      "ogTitle": "فندق ومنتجع جي-رتاج (غريغوليتي) | استثمار فندقي ساحلي على البحر الأسود",
+      "ogDescription": "واجهة بحرية مباشرة على رمال الماغنيتيت العلاجية، أجنحة فندقية مفروشة بالكامل تسليم منتصف 2027 وعوائد دورية بالدولار.",
+      "ogImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419202/g-retaj/gretaj_p5_2_1536x1024.png",
+      "path": "/g-retaj"
+    },
+    "didi-dighomi": {
+      "title": "برج ديدي ديغومي الفندقي (تبليسي) | شقق فندقية عصرية في العاصمة الجورجية",
+      "description": "شقق فندقية ذكية في برج ديدي ديغومي الفاخر بالعاصمة تبليسي بمساحات تبدأ من 46 م²، عائد تأجيري استثنائي وطلب مرتفع طوال العام.",
+      "keywords": "ديدي ديغومي,برج ديدي ديغومي,عقارات تبليسي,شقق فندقية تبليسي,استثمار عقاري تبليسي,Didi Dighomi,Tbilisi Hotel Tower",
+      "ogTitle": "برج ديدي ديغومي الفندقي (تبليسي) | البرج الذهبي",
+      "ogDescription": "برج فندقي ذكي بارتفاع 16 طابقاً في أسرع مناطق العاصمة تبليسي نمواً مع خطط سداد ميسرة.",
+      "ogImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419253/golden-tower/gt_p10_1_3000x2000.jpg",
+      "path": "/didi-dighomi"
+    },
+    "montbella": {
+      "title": "منتجع مونتبلا رتاج الصحي (تسخالتوبو) | عاصمة الاستشفاء بالمياه المعدنية",
+      "description": "صرح استشفائي تاريخي عملاق يضم 350 مفتاحاً في موطن الينابيع المعدنية الطبيعية الدافئة بتسخالتوبو. إدارة فندقية عالمية من رتاج.",
+      "keywords": "مونتبلا,منتجع مونتبلا,تسخالتوبو,السياحة العلاجية جورجيا,ينابيع الرادون جورجيا,Montbella Resort By Retaj,Tskaltubo Sanatorium",
+      "ogTitle": "منتجع مونتبلا رتاج الصحي (تسخالتوبو) | سياحة علاجية عالمية",
+      "ogDescription": "استثمر في أرقى منتجع استشفائي تاريخي في القوقاز مع 350 مفتاحاً ونسب إشغال على مدار العام.",
+      "ogImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419281/golden-tower/gt_p16_1_3279x2186.jpg",
+      "path": "/montbella"
+    },
+    "sera-retaj": {
+      "title": "منتجع سيرا رتاج الجبلي | شاليهات وفيلات بيئية فاخرة في جبال جورجيا",
+      "description": "شاليهات خشبية أوروبية فاخرة ومستدامة توفر خصوصية عائلية مطلقة وسط أحضان الطبيعة الجبلية الساحرة، بإدارة وتشغيل رتاج للضيافة.",
+      "keywords": "سيرا رتاج,منتجع سيرا رتاج,شاليهات جورجيا,شاليهات جبلية جورجيا,فيلات جورجيا الجبلية,Sera Retaj Mountain Resort",
+      "ogTitle": "منتجع سيرا رتاج الجبلي | خصوصية عائلية مطلقة وسط الجبال",
+      "ogDescription": "شاليهات بيئية فاخرة بجاكوزي خاص وإطلالات جبلية ساحرة مع خدمات رتاج الفندقية المتكاملة.",
+      "ogImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419330/golden-tower/gt_p28_1_2316x3192.jpg",
+      "path": "/sera-retaj"
+    },
+    "gallery": {
+      "title": "معرض صور مشروعات البرج الذهبي ورتاج للضيافة في جورجيا",
+      "description": "شاهد صور وتصميمات مشروعاتنا الفندقية الكبرى في جورجيا: جي-رتاج على البحر الأسود، برج ديدي ديغومي، مونتبلا الصحي، وسييرا رتاج الجبلي.",
+      "keywords": "صور جي رتاج,صور فنادق جورجيا,صور منتجع رتاج,جاليري البرج الذهبي",
+      "ogTitle": "معرض الصور | مشروعات البرج الذهبي ورتاج للضيافة",
+      "ogDescription": "تصفح أحدث صور التصاميم المعمارية والمرافق الفندقية لمشروعاتنا في جورجيا.",
+      "ogImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419202/g-retaj/gretaj_p5_2_1536x1024.png",
+      "path": "/gallery"
+    },
+    "portfolio": {
+      "title": "سابقة الأعمال والمشاريع | البرج الذهبي ورتاج للضيافة",
+      "description": "استكشف مشروعاتنا الفندقية الكبرى في جورجيا وسابقة أعمال البنية التحتية الوطنية الكبرى بدولة قطر.",
+      "keywords": "مشاريع البرج الذهبي,مشاريع رتاج,فنادق جورجيا,سابقة اعمال قطر,مترو الدوحة,مشيرب,جي رتاج,مونتبلا,ديدي ديغومي,سيرا رتاج",
+      "ogTitle": "سابقة الأعمال والمشاريع | البرج الذهبي ورتاج",
+      "ogDescription": "محفظة عقارية فندقية وبنية تحتية كبرى تمتد بين دولة قطر وجمهورية جورجيا.",
+      "ogImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419202/g-retaj/gretaj_p5_2_1536x1024.png",
+      "path": "/portfolio"
+    },
+    "about": {
+      "title": "من نحن | تحالف البرج الذهبي ورتاج العالمية للضيافة",
+      "description": "تعرف على مسيرة مجموعة البرج الذهبي للتجارة والمقاولات (GTTC) وشراكتها الاستراتيجية مع فنادق رتاج لتطوير مشروعات فندقية واستشفائية عالمية.",
+      "keywords": "عن البرج الذهبي,فنادق رتاج,المهندس سعيد صلاح الرفاعي,GTTC Qatar,Retaj Hotels,استثمار فندقي دولي",
+      "ogTitle": "من نحن | البرج الذهبي ورتاج للضيافة",
+      "ogDescription": "خبرة هندسية واستثمارية تمتد لأكثر من عقدين في تنفيذ المعالم الإنشائية والفندقية.",
+      "ogImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419202/g-retaj/gretaj_p5_2_1536x1024.png",
+      "path": "/about"
+    },
+    "contact": {
+      "title": "اتصل بنا | المكاتب الاستشارية في قطر وجورجيا",
+      "description": "تواصل مباشرة مع المستشارين التنفيذيين لمجموعة البرج الذهبي ورتاج في الدوحة وتبليسي لطلب الاستشارة والاستثمار.",
+      "keywords": "اتصل بنا البرج الذهبي,مكتب قطر,مكتب جورجيا,استشارة عقارية جورجيا,حجز فندق جي رتاج",
+      "ogTitle": "اتصل بنا | البرج الذهبي ورتاج للضيافة",
+      "ogDescription": "تواصل معنا لحجز وحدتك الفندقية أو الاستفسار عن كراسة الشروط والمخططات.",
+      "ogImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419202/g-retaj/gretaj_p5_2_1536x1024.png",
+      "path": "/contact"
+    }
+  },
+  "en": {
+    "home": {
+      "title": "Golden Tower & Retaj Hospitality | Luxury Hotel Real Estate in Georgia & Qatar",
+      "description": "Invest in G-RETAJ Resort & prime Georgia hotel developments. 100% Freehold ownership for all nationalities, periodic USD rental yields, operated by Retaj Hotels.",
+      "keywords": "Golden Tower,Retaj Hotels,G-Retaj,Georgia Real Estate,Black Sea Resort,Freehold Georgia,Magnetic Sand Beach,Grigoleti,Tbilisi Hotel Tower,Montbella,Sera Retaj,Halal Tourism Georgia",
+      "ogTitle": "Golden Tower & Retaj Hospitality | Luxury Hotel Real Estate in Georgia",
+      "ogDescription": "Own your beachfront hotel suite on the Black Sea coast with foreign currency USD returns and world-class Retaj hospitality.",
+      "ogImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419202/g-retaj/gretaj_p5_2_1536x1024.png",
+      "path": "/en"
+    },
+    "g-retaj": {
+      "title": "G-RETAJ Resort & Spa (Grigoleti) | Beachfront Hotel Investment on Black Sea",
+      "description": "Own a 100% fully furnished hotel suite at G-RETAJ on the world-renowned therapeutic magnetic sands of the Black Sea. Freehold title, handover Mid-2027, periodic USD yields.",
+      "keywords": "G-Retaj,G-Retaj Resort,Grigoleti Resort,Black Sea Hotel Investment,Magnetic Sands Georgia,Retaj Georgia,Georgia Beachfront Real Estate",
+      "ogTitle": "G-RETAJ Resort & Spa (Grigoleti) | Beachfront Hotel Investment on Black Sea",
+      "ogDescription": "Direct beachfront hotel suites on therapeutic magnetic sands, 100% turnkey delivery Mid-2027, high annual USD yields under Retaj management.",
+      "ogImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419202/g-retaj/gretaj_p5_2_1536x1024.png",
+      "path": "/en/g-retaj"
+    },
+    "didi-dighomi": {
+      "title": "Didi Dighomi Hotel Tower (Tbilisi) | Contemporary Serviced Apartments",
+      "description": "Smart serviced apartments in Tbilisi prime growth district starting from 46 m2. High year-round capital appreciation and tenant demand.",
+      "keywords": "Didi Dighomi,Tbilisi Serviced Apartments,Tbilisi Real Estate,Golden Tower Georgia",
+      "ogTitle": "Didi Dighomi Hotel Tower (Tbilisi) | Golden Tower",
+      "ogDescription": "16-storey smart hotel tower in central Tbilisi with flexible payment schedules.",
+      "ogImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419253/golden-tower/gt_p10_1_3000x2000.jpg",
+      "path": "/en/didi-dighomi"
+    },
+    "montbella": {
+      "title": "Montbella Resort By Retaj (Tskaltubo) | Natural Radon Thermal Sanatorium",
+      "description": "Landmark health and thermal healing sanatorium featuring 350 keys in historic Tskaltubo, 20 mins from Kutaisi Airport. Managed by Retaj.",
+      "keywords": "Montbella Resort,Tskaltubo Spa,Medical Tourism Georgia,Radon Springs Georgia,Retaj Tskaltubo",
+      "ogTitle": "Montbella Resort By Retaj (Tskaltubo) | Natural Thermal Sanatorium",
+      "ogDescription": "Invest in the Caucasus premier thermal healing destination with 350 keys and year-round medical tourism.",
+      "ogImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419281/golden-tower/gt_p16_1_3279x2186.jpg",
+      "path": "/en/montbella"
+    },
+    "sera-retaj": {
+      "title": "Sera Retaj Mountain Resort | Eco-Luxury Timber Chalets in Georgia",
+      "description": "Boutique timber chalets providing absolute family privacy, panoramic pine mountain views, and full Retaj 5-star hospitality.",
+      "keywords": "Sera Retaj,Georgia Mountain Chalets,Eco Luxury Chalets,Retaj Mountain Resort",
+      "ogTitle": "Sera Retaj Mountain Resort | Absolute Alpine Seclusion",
+      "ogDescription": "Sustainable alpine chalets with private outdoor Jacuzzis and turnkey rental operation.",
+      "ogImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419330/golden-tower/gt_p28_1_2316x3192.jpg",
+      "path": "/en/sera-retaj"
+    },
+    "gallery": {
+      "title": "Gallery | Golden Tower & Retaj Hospitality Developments",
+      "description": "Explore high-resolution photography and masterplans of our Georgia hotel projects: G-Retaj, Didi Dighomi, Montbella, and Sera Retaj.",
+      "keywords": "G-Retaj Gallery,Georgia Hotel Photos,Retaj Georgia Architecture",
+      "ogTitle": "Gallery | Golden Tower & Retaj",
+      "ogDescription": "Browse our hotel architectural designs, suite interiors, and amenities.",
+      "ogImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419202/g-retaj/gretaj_p5_2_1536x1024.png",
+      "path": "/en/gallery"
+    },
+    "portfolio": {
+      "title": "Portfolio & Track Record | Golden Tower & Retaj Hospitality",
+      "description": "Discover our major hospitality developments in Georgia and national infrastructure megaprojects delivered in Qatar.",
+      "keywords": "Golden Tower Portfolio,Retaj Projects,Georgia Hotels,Qatar Infrastructure,Doha Metro,Msheireb,G-Retaj",
+      "ogTitle": "Portfolio & Track Record | Golden Tower & Retaj",
+      "ogDescription": "Enduring commercial, civil infrastructure, and hospitality assets across Qatar and Georgia.",
+      "ogImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419202/g-retaj/gretaj_p5_2_1536x1024.png",
+      "path": "/en/portfolio"
+    },
+    "about": {
+      "title": "About Us | Golden Tower & Retaj Hospitality Alliance",
+      "description": "Learn about Golden Tower Trading & Contracting (GTTC) and our strategic alliance with Retaj Hotels & Hospitality developing landmark hospitality in Georgia.",
+      "keywords": "About GTTC,Eng. Said Salah El Refaay,Retaj Hotels,Qatar Engineering,Georgia Investments",
+      "ogTitle": "About Us | Golden Tower & Retaj Alliance",
+      "ogDescription": "Two decades of construction excellence and international hospitality development.",
+      "ogImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419202/g-retaj/gretaj_p5_2_1536x1024.png",
+      "path": "/en/about"
+    },
+    "contact": {
+      "title": "Contact Us | Executive Desks in Qatar & Georgia",
+      "description": "Contact our senior advisory teams in Doha and Tbilisi for hotel investment inquiries, pricing, and masterplans.",
+      "keywords": "Contact Golden Tower,GTTC Qatar Office,Tbilisi Office,Invest in G-Retaj",
+      "ogTitle": "Contact Us | Golden Tower & Retaj",
+      "ogDescription": "Get in touch directly with our executive sales and investment desk.",
+      "ogImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419202/g-retaj/gretaj_p5_2_1536x1024.png",
+      "path": "/en/contact"
+    }
+  }
+}

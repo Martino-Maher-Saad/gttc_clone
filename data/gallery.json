@@ -1,0 +1,3533 @@
+{
+  "filters": [
+    {
+      "id": "all",
+      "name": {
+        "ar": "جميع المشروعات (100+ صورة)",
+        "en": "All Projects"
+      }
+    },
+    {
+      "id": "g-retaj",
+      "name": {
+        "ar": "فندق ومنتجع جي-رتاج (البحر الأسود)",
+        "en": "G-Retaj Resort (Black Sea)"
+      }
+    },
+    {
+      "id": "didi-dighomi",
+      "name": {
+        "ar": "برج ديدي ديغومي (تبليسي)",
+        "en": "Didi Dighomi Tower (Tbilisi)"
+      }
+    },
+    {
+      "id": "montbella",
+      "name": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Sanatorium"
+      }
+    },
+    {
+      "id": "sera-retaj",
+      "name": {
+        "ar": "منتجع سيرا رتاج الجبلي",
+        "en": "Sera Retaj Mountain Chalets"
+      }
+    },
+    {
+      "id": "qatar-landmarks",
+      "name": {
+        "ar": "مشاريع البنية التحتية بقطر",
+        "en": "Qatar Infrastructure Landmarks"
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "gallery-item-1",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "أجنحة فندقية مفروشة بالكامل 100%",
+        "en": "100% Fully Furnished Hotel Suites"
+      },
+      "tag": {
+        "ar": "أجنحة ديلوكس",
+        "en": "Deluxe Suites"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419023/g-retaj/gretaj_p10_1_410x410.png"
+    },
+    {
+      "id": "gallery-item-2",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "أجنحة فندقية مفروشة بالكامل 100%",
+        "en": "100% Fully Furnished Hotel Suites"
+      },
+      "tag": {
+        "ar": "أجنحة ديلوكس",
+        "en": "Deluxe Suites"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419043/g-retaj/gretaj_p10_2_1403x1121.png"
+    },
+    {
+      "id": "gallery-item-3",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "أجنحة فندقية مفروشة بالكامل 100%",
+        "en": "100% Fully Furnished Hotel Suites"
+      },
+      "tag": {
+        "ar": "أجنحة ديلوكس",
+        "en": "Deluxe Suites"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419045/g-retaj/gretaj_p11_2_410x410.png"
+    },
+    {
+      "id": "gallery-item-4",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "أجنحة فندقية مفروشة بالكامل 100%",
+        "en": "100% Fully Furnished Hotel Suites"
+      },
+      "tag": {
+        "ar": "أجنحة ديلوكس",
+        "en": "Deluxe Suites"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419062/g-retaj/gretaj_p11_3_1151x1108.png"
+    },
+    {
+      "id": "gallery-item-5",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "المرافق الفندقية والاستشفائية المتكاملة",
+        "en": "5-Star Hotel & Spa Facilities"
+      },
+      "tag": {
+        "ar": "مرافق فندقية",
+        "en": "Hotel Amenities"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419063/g-retaj/gretaj_p12_1_410x410.png"
+    },
+    {
+      "id": "gallery-item-6",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "المرافق الفندقية والاستشفائية المتكاملة",
+        "en": "5-Star Hotel & Spa Facilities"
+      },
+      "tag": {
+        "ar": "مرافق فندقية",
+        "en": "Hotel Amenities"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419065/g-retaj/gretaj_p12_3_367x362.png"
+    },
+    {
+      "id": "gallery-item-7",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "المرافق الفندقية والاستشفائية المتكاملة",
+        "en": "5-Star Hotel & Spa Facilities"
+      },
+      "tag": {
+        "ar": "مرافق فندقية",
+        "en": "Hotel Amenities"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419066/g-retaj/gretaj_p13_1_410x410.png"
+    },
+    {
+      "id": "gallery-item-8",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "المرافق الفندقية والاستشفائية المتكاملة",
+        "en": "5-Star Hotel & Spa Facilities"
+      },
+      "tag": {
+        "ar": "مرافق فندقية",
+        "en": "Hotel Amenities"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419079/g-retaj/gretaj_p13_3_1178x1335.png"
+    },
+    {
+      "id": "gallery-item-9",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "أجنحة فندقية مفروشة بالكامل 100%",
+        "en": "100% Fully Furnished Hotel Suites"
+      },
+      "tag": {
+        "ar": "أجنحة ديلوكس",
+        "en": "Deluxe Suites"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419080/g-retaj/gretaj_p14_1_410x410.png"
+    },
+    {
+      "id": "gallery-item-10",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "أجنحة فندقية مفروشة بالكامل 100%",
+        "en": "100% Fully Furnished Hotel Suites"
+      },
+      "tag": {
+        "ar": "أجنحة ديلوكس",
+        "en": "Deluxe Suites"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419093/g-retaj/gretaj_p14_2_1402x1122.png"
+    },
+    {
+      "id": "gallery-item-11",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "إطلالات بانورامية على غروب البحر الأسود",
+        "en": "Sunset Panoramas & Ocean Terraces"
+      },
+      "tag": {
+        "ar": "إطلالات بحرية",
+        "en": "Panoramic"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419103/g-retaj/gretaj_p15_1_1536x1024.png"
+    },
+    {
+      "id": "gallery-item-12",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "إطلالات بانورامية على غروب البحر الأسود",
+        "en": "Sunset Panoramas & Ocean Terraces"
+      },
+      "tag": {
+        "ar": "إطلالات بحرية",
+        "en": "Panoramic"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419104/g-retaj/gretaj_p15_2_410x410.png"
+    },
+    {
+      "id": "gallery-item-13",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "إطلالات بانورامية على غروب البحر الأسود",
+        "en": "Sunset Panoramas & Ocean Terraces"
+      },
+      "tag": {
+        "ar": "إطلالات بحرية",
+        "en": "Panoramic"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419106/g-retaj/gretaj_p16_1_1024x683.png"
+    },
+    {
+      "id": "gallery-item-14",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "إطلالات بانورامية على غروب البحر الأسود",
+        "en": "Sunset Panoramas & Ocean Terraces"
+      },
+      "tag": {
+        "ar": "إطلالات بحرية",
+        "en": "Panoramic"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419118/g-retaj/gretaj_p16_3_1536x1024.png"
+    },
+    {
+      "id": "gallery-item-15",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "الواجهة البحرية والمسابح الفندقية المباشرة",
+        "en": "Beachfront & Resort Pools"
+      },
+      "tag": {
+        "ar": "شاطئ ومسابح",
+        "en": "Beachfront"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419130/g-retaj/gretaj_p1_2_1536x1024.png"
+    },
+    {
+      "id": "gallery-item-16",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "الواجهة البحرية والمسابح الفندقية المباشرة",
+        "en": "Beachfront & Resort Pools"
+      },
+      "tag": {
+        "ar": "شاطئ ومسابح",
+        "en": "Beachfront"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419130/g-retaj/gretaj_p1_3_410x410.png"
+    },
+    {
+      "id": "gallery-item-17",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "الواجهة البحرية والمسابح الفندقية المباشرة",
+        "en": "Beachfront & Resort Pools"
+      },
+      "tag": {
+        "ar": "شاطئ ومسابح",
+        "en": "Beachfront"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419142/g-retaj/gretaj_p2_2_1536x1024.png"
+    },
+    {
+      "id": "gallery-item-18",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "الواجهة البحرية والمسابح الفندقية المباشرة",
+        "en": "Beachfront & Resort Pools"
+      },
+      "tag": {
+        "ar": "شاطئ ومسابح",
+        "en": "Beachfront"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419143/g-retaj/gretaj_p2_3_410x410.png"
+    },
+    {
+      "id": "gallery-item-19",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "الواجهة البحرية والمسابح الفندقية المباشرة",
+        "en": "Beachfront & Resort Pools"
+      },
+      "tag": {
+        "ar": "شاطئ ومسابح",
+        "en": "Beachfront"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419147/g-retaj/gretaj_p2_4_701x561.png"
+    },
+    {
+      "id": "gallery-item-20",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "الواجهة البحرية والمسابح الفندقية المباشرة",
+        "en": "Beachfront & Resort Pools"
+      },
+      "tag": {
+        "ar": "شاطئ ومسابح",
+        "en": "Beachfront"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419151/g-retaj/gretaj_p2_5_768x512.png"
+    },
+    {
+      "id": "gallery-item-21",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "المخططات المعمارية والتصميم العام",
+        "en": "Masterplans & Architectural Layouts"
+      },
+      "tag": {
+        "ar": "مخططات هندسية",
+        "en": "Masterplan"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419161/g-retaj/gretaj_p3_2_1304x978.png"
+    },
+    {
+      "id": "gallery-item-22",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "المخططات المعمارية والتصميم العام",
+        "en": "Masterplans & Architectural Layouts"
+      },
+      "tag": {
+        "ar": "مخططات هندسية",
+        "en": "Masterplan"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419162/g-retaj/gretaj_p3_3_410x410.png"
+    },
+    {
+      "id": "gallery-item-23",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "المخططات المعمارية والتصميم العام",
+        "en": "Masterplans & Architectural Layouts"
+      },
+      "tag": {
+        "ar": "مخططات هندسية",
+        "en": "Masterplan"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419167/g-retaj/gretaj_p3_4_2979x2106.jpg"
+    },
+    {
+      "id": "gallery-item-24",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "شاطئ الرمال المغناطيسية العلاجية وغابات الصنوبر",
+        "en": "Medicinal Magnetic Sands & Pine Woods"
+      },
+      "tag": {
+        "ar": "رمال استشفائية",
+        "en": "Healing Beach"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419169/g-retaj/gretaj_p4_2_410x410.png"
+    },
+    {
+      "id": "gallery-item-25",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "شاطئ الرمال المغناطيسية العلاجية وغابات الصنوبر",
+        "en": "Medicinal Magnetic Sands & Pine Woods"
+      },
+      "tag": {
+        "ar": "رمال استشفائية",
+        "en": "Healing Beach"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419183/g-retaj/gretaj_p4_3_1402x1122.png"
+    },
+    {
+      "id": "gallery-item-26",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "الواجهة البحرية والمسابح الفندقية المباشرة",
+        "en": "Beachfront & Resort Pools"
+      },
+      "tag": {
+        "ar": "شاطئ ومسابح",
+        "en": "Beachfront"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419184/g-retaj/gretaj_p5_1_410x410.png"
+    },
+    {
+      "id": "gallery-item-27",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "الواجهة البحرية والمسابح الفندقية المباشرة",
+        "en": "Beachfront & Resort Pools"
+      },
+      "tag": {
+        "ar": "شاطئ ومسابح",
+        "en": "Beachfront"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419202/g-retaj/gretaj_p5_2_1536x1024.png"
+    },
+    {
+      "id": "gallery-item-28",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "المخططات المعمارية والتصميم العام",
+        "en": "Masterplans & Architectural Layouts"
+      },
+      "tag": {
+        "ar": "مخططات هندسية",
+        "en": "Masterplan"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419203/g-retaj/gretaj_p6_2_410x410.png"
+    },
+    {
+      "id": "gallery-item-29",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "المخططات المعمارية والتصميم العام",
+        "en": "Masterplans & Architectural Layouts"
+      },
+      "tag": {
+        "ar": "مخططات هندسية",
+        "en": "Masterplan"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419212/g-retaj/gretaj_p6_3_1092x923.png"
+    },
+    {
+      "id": "gallery-item-30",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "شاطئ الرمال المغناطيسية العلاجية وغابات الصنوبر",
+        "en": "Medicinal Magnetic Sands & Pine Woods"
+      },
+      "tag": {
+        "ar": "رمال استشفائية",
+        "en": "Healing Beach"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419218/g-retaj/gretaj_p7_1_717x1076.png"
+    },
+    {
+      "id": "gallery-item-31",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "شاطئ الرمال المغناطيسية العلاجية وغابات الصنوبر",
+        "en": "Medicinal Magnetic Sands & Pine Woods"
+      },
+      "tag": {
+        "ar": "رمال استشفائية",
+        "en": "Healing Beach"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419219/g-retaj/gretaj_p7_2_410x410.png"
+    },
+    {
+      "id": "gallery-item-32",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "شاطئ الرمال المغناطيسية العلاجية وغابات الصنوبر",
+        "en": "Medicinal Magnetic Sands & Pine Woods"
+      },
+      "tag": {
+        "ar": "رمال استشفائية",
+        "en": "Healing Beach"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419226/g-retaj/gretaj_p7_3_761x1014.png"
+    },
+    {
+      "id": "gallery-item-33",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "المطاعم الفاخرة ومرافق الضيافة الحلال",
+        "en": "Gourmet Dining & Halal Hospitality"
+      },
+      "tag": {
+        "ar": "مطاعم وضيافة",
+        "en": "Dining & Retaj"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419227/g-retaj/gretaj_p8_2_410x410.png"
+    },
+    {
+      "id": "gallery-item-34",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "المطاعم الفاخرة ومرافق الضيافة الحلال",
+        "en": "Gourmet Dining & Halal Hospitality"
+      },
+      "tag": {
+        "ar": "مطاعم وضيافة",
+        "en": "Dining & Retaj"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419240/g-retaj/gretaj_p8_3_1536x1024.png"
+    },
+    {
+      "id": "gallery-item-35",
+      "project": "g-retaj",
+      "projectName": {
+        "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+        "en": "G-RETAJ Resort (Grigoleti)"
+      },
+      "title": {
+        "ar": "المطاعم الفاخرة ومرافق الضيافة الحلال",
+        "en": "Gourmet Dining & Halal Hospitality"
+      },
+      "tag": {
+        "ar": "مطاعم وضيافة",
+        "en": "Dining & Retaj"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419248/g-retaj/gretaj_p9_1_1536x1024.png"
+    },
+    {
+      "id": "gallery-item-36",
+      "project": "didi-dighomi",
+      "projectName": {
+        "ar": "برج ديدي ديغومي للشقق الفندقية",
+        "en": "Didi Dighomi Hotel Tower"
+      },
+      "title": {
+        "ar": "الشقق الفندقية الذكية والتصميم المعماري للبرج",
+        "en": "Smart Serviced Apartments & Tower Architecture"
+      },
+      "tag": {
+        "ar": "أبراج تبليسي",
+        "en": "Tbilisi Tower"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419253/golden-tower/gt_p10_1_3000x2000.jpg"
+    },
+    {
+      "id": "gallery-item-37",
+      "project": "didi-dighomi",
+      "projectName": {
+        "ar": "برج ديدي ديغومي للشقق الفندقية",
+        "en": "Didi Dighomi Hotel Tower"
+      },
+      "title": {
+        "ar": "الشقق الفندقية الذكية والتصميم المعماري للبرج",
+        "en": "Smart Serviced Apartments & Tower Architecture"
+      },
+      "tag": {
+        "ar": "أبراج تبليسي",
+        "en": "Tbilisi Tower"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419254/golden-tower/gt_p10_2_546x443.png"
+    },
+    {
+      "id": "gallery-item-38",
+      "project": "didi-dighomi",
+      "projectName": {
+        "ar": "برج ديدي ديغومي للشقق الفندقية",
+        "en": "Didi Dighomi Hotel Tower"
+      },
+      "title": {
+        "ar": "الشقق الفندقية الذكية والتصميم المعماري للبرج",
+        "en": "Smart Serviced Apartments & Tower Architecture"
+      },
+      "tag": {
+        "ar": "أبراج تبليسي",
+        "en": "Tbilisi Tower"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419254/golden-tower/gt_p10_3_1982x534.jpg"
+    },
+    {
+      "id": "gallery-item-39",
+      "project": "didi-dighomi",
+      "projectName": {
+        "ar": "برج ديدي ديغومي للشقق الفندقية",
+        "en": "Didi Dighomi Hotel Tower"
+      },
+      "title": {
+        "ar": "الشقق الفندقية الذكية والتصميم المعماري للبرج",
+        "en": "Smart Serviced Apartments & Tower Architecture"
+      },
+      "tag": {
+        "ar": "أبراج تبليسي",
+        "en": "Tbilisi Tower"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419259/golden-tower/gt_p11_1_1920x1080.jpg"
+    },
+    {
+      "id": "gallery-item-40",
+      "project": "didi-dighomi",
+      "projectName": {
+        "ar": "برج ديدي ديغومي للشقق الفندقية",
+        "en": "Didi Dighomi Hotel Tower"
+      },
+      "title": {
+        "ar": "الشقق الفندقية الذكية والتصميم المعماري للبرج",
+        "en": "Smart Serviced Apartments & Tower Architecture"
+      },
+      "tag": {
+        "ar": "أبراج تبليسي",
+        "en": "Tbilisi Tower"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419259/golden-tower/gt_p11_2_546x443.png"
+    },
+    {
+      "id": "gallery-item-41",
+      "project": "didi-dighomi",
+      "projectName": {
+        "ar": "برج ديدي ديغومي للشقق الفندقية",
+        "en": "Didi Dighomi Hotel Tower"
+      },
+      "title": {
+        "ar": "الشقق الفندقية الذكية والتصميم المعماري للبرج",
+        "en": "Smart Serviced Apartments & Tower Architecture"
+      },
+      "tag": {
+        "ar": "أبراج تبليسي",
+        "en": "Tbilisi Tower"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419262/golden-tower/gt_p12_1_2000x1250.jpg"
+    },
+    {
+      "id": "gallery-item-42",
+      "project": "didi-dighomi",
+      "projectName": {
+        "ar": "برج ديدي ديغومي للشقق الفندقية",
+        "en": "Didi Dighomi Hotel Tower"
+      },
+      "title": {
+        "ar": "الشقق الفندقية الذكية والتصميم المعماري للبرج",
+        "en": "Smart Serviced Apartments & Tower Architecture"
+      },
+      "tag": {
+        "ar": "أبراج تبليسي",
+        "en": "Tbilisi Tower"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419262/golden-tower/gt_p12_2_546x443.png"
+    },
+    {
+      "id": "gallery-item-43",
+      "project": "didi-dighomi",
+      "projectName": {
+        "ar": "برج ديدي ديغومي للشقق الفندقية",
+        "en": "Didi Dighomi Hotel Tower"
+      },
+      "title": {
+        "ar": "الشقق الفندقية الذكية والتصميم المعماري للبرج",
+        "en": "Smart Serviced Apartments & Tower Architecture"
+      },
+      "tag": {
+        "ar": "أبراج تبليسي",
+        "en": "Tbilisi Tower"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419264/golden-tower/gt_p13_1_1817x1054.jpg"
+    },
+    {
+      "id": "gallery-item-44",
+      "project": "didi-dighomi",
+      "projectName": {
+        "ar": "برج ديدي ديغومي للشقق الفندقية",
+        "en": "Didi Dighomi Hotel Tower"
+      },
+      "title": {
+        "ar": "الشقق الفندقية الذكية والتصميم المعماري للبرج",
+        "en": "Smart Serviced Apartments & Tower Architecture"
+      },
+      "tag": {
+        "ar": "أبراج تبليسي",
+        "en": "Tbilisi Tower"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419265/golden-tower/gt_p13_2_543x594.jpg"
+    },
+    {
+      "id": "gallery-item-45",
+      "project": "didi-dighomi",
+      "projectName": {
+        "ar": "برج ديدي ديغومي للشقق الفندقية",
+        "en": "Didi Dighomi Hotel Tower"
+      },
+      "title": {
+        "ar": "الشقق الفندقية الذكية والتصميم المعماري للبرج",
+        "en": "Smart Serviced Apartments & Tower Architecture"
+      },
+      "tag": {
+        "ar": "أبراج تبليسي",
+        "en": "Tbilisi Tower"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419267/golden-tower/gt_p14_1_1054x1582.jpg"
+    },
+    {
+      "id": "gallery-item-46",
+      "project": "didi-dighomi",
+      "projectName": {
+        "ar": "برج ديدي ديغومي للشقق الفندقية",
+        "en": "Didi Dighomi Hotel Tower"
+      },
+      "title": {
+        "ar": "الشقق الفندقية الذكية والتصميم المعماري للبرج",
+        "en": "Smart Serviced Apartments & Tower Architecture"
+      },
+      "tag": {
+        "ar": "أبراج تبليسي",
+        "en": "Tbilisi Tower"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419269/golden-tower/gt_p14_2_1920x940.jpg"
+    },
+    {
+      "id": "gallery-item-47",
+      "project": "didi-dighomi",
+      "projectName": {
+        "ar": "برج ديدي ديغومي للشقق الفندقية",
+        "en": "Didi Dighomi Hotel Tower"
+      },
+      "title": {
+        "ar": "الشقق الفندقية الذكية والتصميم المعماري للبرج",
+        "en": "Smart Serviced Apartments & Tower Architecture"
+      },
+      "tag": {
+        "ar": "أبراج تبليسي",
+        "en": "Tbilisi Tower"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419269/golden-tower/gt_p14_3_546x443.png"
+    },
+    {
+      "id": "gallery-item-48",
+      "project": "didi-dighomi",
+      "projectName": {
+        "ar": "برج ديدي ديغومي للشقق الفندقية",
+        "en": "Didi Dighomi Hotel Tower"
+      },
+      "title": {
+        "ar": "الشقق الفندقية الذكية والتصميم المعماري للبرج",
+        "en": "Smart Serviced Apartments & Tower Architecture"
+      },
+      "tag": {
+        "ar": "أبراج تبليسي",
+        "en": "Tbilisi Tower"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419273/golden-tower/gt_p15_1_1920x1080.jpg"
+    },
+    {
+      "id": "gallery-item-49",
+      "project": "didi-dighomi",
+      "projectName": {
+        "ar": "برج ديدي ديغومي للشقق الفندقية",
+        "en": "Didi Dighomi Hotel Tower"
+      },
+      "title": {
+        "ar": "الشقق الفندقية الذكية والتصميم المعماري للبرج",
+        "en": "Smart Serviced Apartments & Tower Architecture"
+      },
+      "tag": {
+        "ar": "أبراج تبليسي",
+        "en": "Tbilisi Tower"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419274/golden-tower/gt_p15_2_768x432.jpg"
+    },
+    {
+      "id": "gallery-item-50",
+      "project": "didi-dighomi",
+      "projectName": {
+        "ar": "برج ديدي ديغومي للشقق الفندقية",
+        "en": "Didi Dighomi Hotel Tower"
+      },
+      "title": {
+        "ar": "الشقق الفندقية الذكية والتصميم المعماري للبرج",
+        "en": "Smart Serviced Apartments & Tower Architecture"
+      },
+      "tag": {
+        "ar": "أبراج تبليسي",
+        "en": "Tbilisi Tower"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419275/golden-tower/gt_p15_3_560x420.jpg"
+    },
+    {
+      "id": "gallery-item-51",
+      "project": "didi-dighomi",
+      "projectName": {
+        "ar": "برج ديدي ديغومي للشقق الفندقية",
+        "en": "Didi Dighomi Hotel Tower"
+      },
+      "title": {
+        "ar": "الشقق الفندقية الذكية والتصميم المعماري للبرج",
+        "en": "Smart Serviced Apartments & Tower Architecture"
+      },
+      "tag": {
+        "ar": "أبراج تبليسي",
+        "en": "Tbilisi Tower"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419276/golden-tower/gt_p15_4_551x367.jpg"
+    },
+    {
+      "id": "gallery-item-52",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419281/golden-tower/gt_p16_1_3279x2186.jpg"
+    },
+    {
+      "id": "gallery-item-53",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419282/golden-tower/gt_p16_2_1360x185.jpg"
+    },
+    {
+      "id": "gallery-item-54",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419284/golden-tower/gt_p17_1_1600x1067.jpg"
+    },
+    {
+      "id": "gallery-item-55",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419286/golden-tower/gt_p18_1_1405x778.jpg"
+    },
+    {
+      "id": "gallery-item-56",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419289/golden-tower/gt_p18_2_1800x1200.jpg"
+    },
+    {
+      "id": "gallery-item-57",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419290/golden-tower/gt_p18_3_1173x880.jpg"
+    },
+    {
+      "id": "gallery-item-58",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419292/golden-tower/gt_p19_1_1119x747.jpg"
+    },
+    {
+      "id": "gallery-item-59",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419294/golden-tower/gt_p19_2_1433x807.jpg"
+    },
+    {
+      "id": "gallery-item-60",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419296/golden-tower/gt_p19_3_991x737.jpg"
+    },
+    {
+      "id": "gallery-item-61",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419297/golden-tower/gt_p19_4_1844x1037.jpg"
+    },
+    {
+      "id": "gallery-item-62",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419298/golden-tower/gt_p19_5_546x443.png"
+    },
+    {
+      "id": "gallery-item-63",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419304/golden-tower/gt_p1_1_2500x1548.jpg"
+    },
+    {
+      "id": "gallery-item-64",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419305/golden-tower/gt_p1_2_1024x1024.jpg"
+    },
+    {
+      "id": "gallery-item-65",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419306/golden-tower/gt_p20_1_478x401.jpg"
+    },
+    {
+      "id": "gallery-item-66",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419307/golden-tower/gt_p20_2_355x269.jpg"
+    },
+    {
+      "id": "gallery-item-67",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419307/golden-tower/gt_p20_3_546x443.png"
+    },
+    {
+      "id": "gallery-item-68",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419310/golden-tower/gt_p21_1_2428x1619.jpg"
+    },
+    {
+      "id": "gallery-item-69",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419311/golden-tower/gt_p22_1_788x560.jpg"
+    },
+    {
+      "id": "gallery-item-70",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419311/golden-tower/gt_p22_2_616x492.jpg"
+    },
+    {
+      "id": "gallery-item-71",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419312/golden-tower/gt_p22_3_487x487.jpg"
+    },
+    {
+      "id": "gallery-item-72",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419313/golden-tower/gt_p22_4_599x487.jpg"
+    },
+    {
+      "id": "gallery-item-73",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419314/golden-tower/gt_p22_5_818x500.jpg"
+    },
+    {
+      "id": "gallery-item-74",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419315/golden-tower/gt_p23_1_832x453.jpg"
+    },
+    {
+      "id": "gallery-item-75",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419316/golden-tower/gt_p23_2_819x458.jpg"
+    },
+    {
+      "id": "gallery-item-76",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419317/golden-tower/gt_p23_3_720x576.jpg"
+    },
+    {
+      "id": "gallery-item-77",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419317/golden-tower/gt_p24_1_613x496.jpg"
+    },
+    {
+      "id": "gallery-item-78",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419318/golden-tower/gt_p24_2_615x468.jpg"
+    },
+    {
+      "id": "gallery-item-79",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419319/golden-tower/gt_p25_1_908x513.jpg"
+    },
+    {
+      "id": "gallery-item-80",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419320/golden-tower/gt_p25_3_546x443.png"
+    },
+    {
+      "id": "gallery-item-81",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419320/golden-tower/gt_p26_1_857x474.jpg"
+    },
+    {
+      "id": "gallery-item-82",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419321/golden-tower/gt_p26_3_546x443.png"
+    },
+    {
+      "id": "gallery-item-83",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419322/golden-tower/gt_p27_1_833x461.jpg"
+    },
+    {
+      "id": "gallery-item-84",
+      "project": "montbella",
+      "projectName": {
+        "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+        "en": "Montbella Thermal Resort"
+      },
+      "title": {
+        "ar": "صرح استشفائي تاريخي بـ 350 مفتاحاً والينابيع المعدنية",
+        "en": "350-Key Sanatorium & Radon Springs"
+      },
+      "tag": {
+        "ar": "ينابيع استشفائية",
+        "en": "Thermal Healing"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419323/golden-tower/gt_p27_2_546x443.png"
+    },
+    {
+      "id": "gallery-item-85",
+      "project": "sera-retaj",
+      "projectName": {
+        "ar": "منتجع سيرا رتاج الجبلي",
+        "en": "Sera Retaj Mountain Resort"
+      },
+      "title": {
+        "ar": "شاليهات خشبية أوروبية فاخرة وجاكوزي خاص وسط الجبال",
+        "en": "Alpine Timber Chalets with Private Jacuzzi"
+      },
+      "tag": {
+        "ar": "شاليهات جبلية",
+        "en": "Mountain Chalets"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419330/golden-tower/gt_p28_1_2316x3192.jpg"
+    },
+    {
+      "id": "gallery-item-86",
+      "project": "sera-retaj",
+      "projectName": {
+        "ar": "منتجع سيرا رتاج الجبلي",
+        "en": "Sera Retaj Mountain Resort"
+      },
+      "title": {
+        "ar": "شاليهات خشبية أوروبية فاخرة وجاكوزي خاص وسط الجبال",
+        "en": "Alpine Timber Chalets with Private Jacuzzi"
+      },
+      "tag": {
+        "ar": "شاليهات جبلية",
+        "en": "Mountain Chalets"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419331/golden-tower/gt_p28_2_1970x1133.jpg"
+    },
+    {
+      "id": "gallery-item-87",
+      "project": "sera-retaj",
+      "projectName": {
+        "ar": "منتجع سيرا رتاج الجبلي",
+        "en": "Sera Retaj Mountain Resort"
+      },
+      "title": {
+        "ar": "شاليهات خشبية أوروبية فاخرة وجاكوزي خاص وسط الجبال",
+        "en": "Alpine Timber Chalets with Private Jacuzzi"
+      },
+      "tag": {
+        "ar": "شاليهات جبلية",
+        "en": "Mountain Chalets"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419331/golden-tower/gt_p28_3_546x443.png"
+    },
+    {
+      "id": "gallery-item-88",
+      "project": "sera-retaj",
+      "projectName": {
+        "ar": "منتجع سيرا رتاج الجبلي",
+        "en": "Sera Retaj Mountain Resort"
+      },
+      "title": {
+        "ar": "شاليهات خشبية أوروبية فاخرة وجاكوزي خاص وسط الجبال",
+        "en": "Alpine Timber Chalets with Private Jacuzzi"
+      },
+      "tag": {
+        "ar": "شاليهات جبلية",
+        "en": "Mountain Chalets"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419337/golden-tower/gt_p29_1_2500x1548.jpg"
+    },
+    {
+      "id": "gallery-item-89",
+      "project": "sera-retaj",
+      "projectName": {
+        "ar": "منتجع سيرا رتاج الجبلي",
+        "en": "Sera Retaj Mountain Resort"
+      },
+      "title": {
+        "ar": "شاليهات خشبية أوروبية فاخرة وجاكوزي خاص وسط الجبال",
+        "en": "Alpine Timber Chalets with Private Jacuzzi"
+      },
+      "tag": {
+        "ar": "شاليهات جبلية",
+        "en": "Mountain Chalets"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419338/golden-tower/gt_p29_2_418x418.jpg"
+    },
+    {
+      "id": "gallery-item-90",
+      "project": "sera-retaj",
+      "projectName": {
+        "ar": "منتجع سيرا رتاج الجبلي",
+        "en": "Sera Retaj Mountain Resort"
+      },
+      "title": {
+        "ar": "شاليهات خشبية أوروبية فاخرة وجاكوزي خاص وسط الجبال",
+        "en": "Alpine Timber Chalets with Private Jacuzzi"
+      },
+      "tag": {
+        "ar": "شاليهات جبلية",
+        "en": "Mountain Chalets"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419340/golden-tower/gt_p29_3_1231x693.jpg"
+    },
+    {
+      "id": "gallery-item-91",
+      "project": "sera-retaj",
+      "projectName": {
+        "ar": "منتجع سيرا رتاج الجبلي",
+        "en": "Sera Retaj Mountain Resort"
+      },
+      "title": {
+        "ar": "شاليهات خشبية أوروبية فاخرة وجاكوزي خاص وسط الجبال",
+        "en": "Alpine Timber Chalets with Private Jacuzzi"
+      },
+      "tag": {
+        "ar": "شاليهات جبلية",
+        "en": "Mountain Chalets"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419341/golden-tower/gt_p29_4_1512x850.jpg"
+    },
+    {
+      "id": "gallery-item-92",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419347/golden-tower/gt_p2_1_2500x1548.jpg"
+    },
+    {
+      "id": "gallery-item-93",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419348/golden-tower/gt_p2_2_1024x1024.jpg"
+    },
+    {
+      "id": "gallery-item-94",
+      "project": "sera-retaj",
+      "projectName": {
+        "ar": "منتجع سيرا رتاج الجبلي",
+        "en": "Sera Retaj Mountain Resort"
+      },
+      "title": {
+        "ar": "شاليهات خشبية أوروبية فاخرة وجاكوزي خاص وسط الجبال",
+        "en": "Alpine Timber Chalets with Private Jacuzzi"
+      },
+      "tag": {
+        "ar": "شاليهات جبلية",
+        "en": "Mountain Chalets"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419350/golden-tower/gt_p30_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-95",
+      "project": "sera-retaj",
+      "projectName": {
+        "ar": "منتجع سيرا رتاج الجبلي",
+        "en": "Sera Retaj Mountain Resort"
+      },
+      "title": {
+        "ar": "شاليهات خشبية أوروبية فاخرة وجاكوزي خاص وسط الجبال",
+        "en": "Alpine Timber Chalets with Private Jacuzzi"
+      },
+      "tag": {
+        "ar": "شاليهات جبلية",
+        "en": "Mountain Chalets"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419351/golden-tower/gt_p31_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-96",
+      "project": "sera-retaj",
+      "projectName": {
+        "ar": "منتجع سيرا رتاج الجبلي",
+        "en": "Sera Retaj Mountain Resort"
+      },
+      "title": {
+        "ar": "شاليهات خشبية أوروبية فاخرة وجاكوزي خاص وسط الجبال",
+        "en": "Alpine Timber Chalets with Private Jacuzzi"
+      },
+      "tag": {
+        "ar": "شاليهات جبلية",
+        "en": "Mountain Chalets"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419353/golden-tower/gt_p32_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-97",
+      "project": "sera-retaj",
+      "projectName": {
+        "ar": "منتجع سيرا رتاج الجبلي",
+        "en": "Sera Retaj Mountain Resort"
+      },
+      "title": {
+        "ar": "شاليهات خشبية أوروبية فاخرة وجاكوزي خاص وسط الجبال",
+        "en": "Alpine Timber Chalets with Private Jacuzzi"
+      },
+      "tag": {
+        "ar": "شاليهات جبلية",
+        "en": "Mountain Chalets"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419355/golden-tower/gt_p33_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-98",
+      "project": "sera-retaj",
+      "projectName": {
+        "ar": "منتجع سيرا رتاج الجبلي",
+        "en": "Sera Retaj Mountain Resort"
+      },
+      "title": {
+        "ar": "شاليهات خشبية أوروبية فاخرة وجاكوزي خاص وسط الجبال",
+        "en": "Alpine Timber Chalets with Private Jacuzzi"
+      },
+      "tag": {
+        "ar": "شاليهات جبلية",
+        "en": "Mountain Chalets"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419357/golden-tower/gt_p34_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-99",
+      "project": "sera-retaj",
+      "projectName": {
+        "ar": "منتجع سيرا رتاج الجبلي",
+        "en": "Sera Retaj Mountain Resort"
+      },
+      "title": {
+        "ar": "شاليهات خشبية أوروبية فاخرة وجاكوزي خاص وسط الجبال",
+        "en": "Alpine Timber Chalets with Private Jacuzzi"
+      },
+      "tag": {
+        "ar": "شاليهات جبلية",
+        "en": "Mountain Chalets"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419359/golden-tower/gt_p35_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-100",
+      "project": "sera-retaj",
+      "projectName": {
+        "ar": "منتجع سيرا رتاج الجبلي",
+        "en": "Sera Retaj Mountain Resort"
+      },
+      "title": {
+        "ar": "شاليهات خشبية أوروبية فاخرة وجاكوزي خاص وسط الجبال",
+        "en": "Alpine Timber Chalets with Private Jacuzzi"
+      },
+      "tag": {
+        "ar": "شاليهات جبلية",
+        "en": "Mountain Chalets"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419361/golden-tower/gt_p36_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-101",
+      "project": "sera-retaj",
+      "projectName": {
+        "ar": "منتجع سيرا رتاج الجبلي",
+        "en": "Sera Retaj Mountain Resort"
+      },
+      "title": {
+        "ar": "شاليهات خشبية أوروبية فاخرة وجاكوزي خاص وسط الجبال",
+        "en": "Alpine Timber Chalets with Private Jacuzzi"
+      },
+      "tag": {
+        "ar": "شاليهات جبلية",
+        "en": "Mountain Chalets"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419362/golden-tower/gt_p37_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-102",
+      "project": "sera-retaj",
+      "projectName": {
+        "ar": "منتجع سيرا رتاج الجبلي",
+        "en": "Sera Retaj Mountain Resort"
+      },
+      "title": {
+        "ar": "شاليهات خشبية أوروبية فاخرة وجاكوزي خاص وسط الجبال",
+        "en": "Alpine Timber Chalets with Private Jacuzzi"
+      },
+      "tag": {
+        "ar": "شاليهات جبلية",
+        "en": "Mountain Chalets"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419364/golden-tower/gt_p38_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-103",
+      "project": "sera-retaj",
+      "projectName": {
+        "ar": "منتجع سيرا رتاج الجبلي",
+        "en": "Sera Retaj Mountain Resort"
+      },
+      "title": {
+        "ar": "شاليهات خشبية أوروبية فاخرة وجاكوزي خاص وسط الجبال",
+        "en": "Alpine Timber Chalets with Private Jacuzzi"
+      },
+      "tag": {
+        "ar": "شاليهات جبلية",
+        "en": "Mountain Chalets"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419366/golden-tower/gt_p39_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-104",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419372/golden-tower/gt_p3_1_2500x1548.jpg"
+    },
+    {
+      "id": "gallery-item-105",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419372/golden-tower/gt_p3_2_418x418.jpg"
+    },
+    {
+      "id": "gallery-item-106",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419373/golden-tower/gt_p3_3_413x531.jpg"
+    },
+    {
+      "id": "gallery-item-107",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419373/golden-tower/gt_p3_4_471x706.jpg"
+    },
+    {
+      "id": "gallery-item-108",
+      "project": "sera-retaj",
+      "projectName": {
+        "ar": "منتجع سيرا رتاج الجبلي",
+        "en": "Sera Retaj Mountain Resort"
+      },
+      "title": {
+        "ar": "شاليهات خشبية أوروبية فاخرة وجاكوزي خاص وسط الجبال",
+        "en": "Alpine Timber Chalets with Private Jacuzzi"
+      },
+      "tag": {
+        "ar": "شاليهات جبلية",
+        "en": "Mountain Chalets"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419375/golden-tower/gt_p40_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-109",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419376/golden-tower/gt_p41_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-110",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419378/golden-tower/gt_p42_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-111",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419379/golden-tower/gt_p43_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-112",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419381/golden-tower/gt_p44_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-113",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419383/golden-tower/gt_p45_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-114",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419385/golden-tower/gt_p46_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-115",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419388/golden-tower/gt_p47_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-116",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419390/golden-tower/gt_p48_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-117",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419392/golden-tower/gt_p49_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-118",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419399/golden-tower/gt_p4_1_2500x1548.jpg"
+    },
+    {
+      "id": "gallery-item-119",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419400/golden-tower/gt_p4_2_418x418.jpg"
+    },
+    {
+      "id": "gallery-item-120",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419402/golden-tower/gt_p50_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-121",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419404/golden-tower/gt_p51_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-122",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419406/golden-tower/gt_p52_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-123",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419409/golden-tower/gt_p53_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-124",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419410/golden-tower/gt_p54_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-125",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419412/golden-tower/gt_p55_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-126",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419414/golden-tower/gt_p56_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-127",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419416/golden-tower/gt_p57_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-128",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419417/golden-tower/gt_p58_1_3000x1688.jpg"
+    },
+    {
+      "id": "gallery-item-129",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419422/golden-tower/gt_p59_1_2500x1548.jpg"
+    },
+    {
+      "id": "gallery-item-130",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419423/golden-tower/gt_p59_2_418x418.jpg"
+    },
+    {
+      "id": "gallery-item-131",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419425/golden-tower/gt_p59_3_1536x1024.jpg"
+    },
+    {
+      "id": "gallery-item-132",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419427/golden-tower/gt_p59_4_1536x1024.jpg"
+    },
+    {
+      "id": "gallery-item-133",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419434/golden-tower/gt_p5_1_2500x1548.jpg"
+    },
+    {
+      "id": "gallery-item-134",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419435/golden-tower/gt_p5_2_418x418.jpg"
+    },
+    {
+      "id": "gallery-item-135",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419439/golden-tower/gt_p60_1_1536x1024.jpg"
+    },
+    {
+      "id": "gallery-item-136",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419440/golden-tower/gt_p61_1_1140x565.jpg"
+    },
+    {
+      "id": "gallery-item-137",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419442/golden-tower/gt_p62_1_750x395.jpg"
+    },
+    {
+      "id": "gallery-item-138",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419443/golden-tower/gt_p62_2_743x942.jpg"
+    },
+    {
+      "id": "gallery-item-139",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419445/golden-tower/gt_p62_3_1004x473.jpg"
+    },
+    {
+      "id": "gallery-item-140",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419445/golden-tower/gt_p62_4_709x364.jpg"
+    },
+    {
+      "id": "gallery-item-141",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419446/golden-tower/gt_p62_5_692x575.jpg"
+    },
+    {
+      "id": "gallery-item-142",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419449/golden-tower/gt_p63_1_1536x1024.jpg"
+    },
+    {
+      "id": "gallery-item-143",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419451/golden-tower/gt_p64_1_1354x762.jpg"
+    },
+    {
+      "id": "gallery-item-144",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419452/golden-tower/gt_p64_2_1747x983.jpg"
+    },
+    {
+      "id": "gallery-item-145",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419454/golden-tower/gt_p65_1_900x600.jpg"
+    },
+    {
+      "id": "gallery-item-146",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419456/golden-tower/gt_p66_1_953x709.jpg"
+    },
+    {
+      "id": "gallery-item-147",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419458/golden-tower/gt_p67_1_1536x1024.jpg"
+    },
+    {
+      "id": "gallery-item-148",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419461/golden-tower/gt_p68_1_3494x1965.jpg"
+    },
+    {
+      "id": "gallery-item-149",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419464/golden-tower/gt_p69_1_1536x1024.jpg"
+    },
+    {
+      "id": "gallery-item-150",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419466/golden-tower/gt_p69_2_1452x1122.jpg"
+    },
+    {
+      "id": "gallery-item-151",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419479/golden-tower/gt_p6_1_2500x1548.jpg"
+    },
+    {
+      "id": "gallery-item-152",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419479/golden-tower/gt_p6_2_418x418.jpg"
+    },
+    {
+      "id": "gallery-item-153",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419481/golden-tower/gt_p70_1_717x1076.jpg"
+    },
+    {
+      "id": "gallery-item-154",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419483/golden-tower/gt_p70_2_1024x1024.jpg"
+    },
+    {
+      "id": "gallery-item-155",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419486/golden-tower/gt_p70_3_1536x1024.jpg"
+    },
+    {
+      "id": "gallery-item-156",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419487/golden-tower/gt_p71_1_1165x777.jpg"
+    },
+    {
+      "id": "gallery-item-157",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419488/golden-tower/gt_p71_2_922x615.jpg"
+    },
+    {
+      "id": "gallery-item-158",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419489/golden-tower/gt_p71_3_1210x935.jpg"
+    },
+    {
+      "id": "gallery-item-159",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419490/golden-tower/gt_p72_1_805x537.jpg"
+    },
+    {
+      "id": "gallery-item-160",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419491/golden-tower/gt_p72_2_1210x935.jpg"
+    },
+    {
+      "id": "gallery-item-161",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419492/golden-tower/gt_p72_3_847x1270.jpg"
+    },
+    {
+      "id": "gallery-item-162",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419494/golden-tower/gt_p73_1_1600x900.jpg"
+    },
+    {
+      "id": "gallery-item-163",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419495/golden-tower/gt_p73_2_1000x665.jpg"
+    },
+    {
+      "id": "gallery-item-164",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419497/golden-tower/gt_p74_1_1381x920.jpg"
+    },
+    {
+      "id": "gallery-item-165",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419498/golden-tower/gt_p74_2_1243x829.jpg"
+    },
+    {
+      "id": "gallery-item-166",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419502/golden-tower/gt_p75_1_2808x1874.jpg"
+    },
+    {
+      "id": "gallery-item-167",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419505/golden-tower/gt_p76_1_1202x1603.jpg"
+    },
+    {
+      "id": "gallery-item-168",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419506/golden-tower/gt_p76_2_968x748.jpg"
+    },
+    {
+      "id": "gallery-item-169",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419507/golden-tower/gt_p76_3_924x617.jpg"
+    },
+    {
+      "id": "gallery-item-170",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419511/golden-tower/gt_p77_1_2861x1719.jpg"
+    },
+    {
+      "id": "gallery-item-171",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419517/golden-tower/gt_p78_1_2500x1548.jpg"
+    },
+    {
+      "id": "gallery-item-172",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419517/golden-tower/gt_p78_2_418x418.jpg"
+    },
+    {
+      "id": "gallery-item-173",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419523/golden-tower/gt_p7_1_2500x1548.jpg"
+    },
+    {
+      "id": "gallery-item-174",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419524/golden-tower/gt_p7_2_418x418.jpg"
+    },
+    {
+      "id": "gallery-item-175",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419525/golden-tower/gt_p7_3_1280x720.jpg"
+    },
+    {
+      "id": "gallery-item-176",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419526/golden-tower/gt_p7_4_960x1280.jpg"
+    },
+    {
+      "id": "gallery-item-177",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419527/golden-tower/gt_p7_5_1280x720.jpg"
+    },
+    {
+      "id": "gallery-item-178",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419528/golden-tower/gt_p7_6_1280x720.jpg"
+    },
+    {
+      "id": "gallery-item-179",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419534/golden-tower/gt_p8_1_2500x1548.jpg"
+    },
+    {
+      "id": "gallery-item-180",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419534/golden-tower/gt_p8_2_418x418.jpg"
+    },
+    {
+      "id": "gallery-item-181",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419535/golden-tower/gt_p8_3_1280x720.jpg"
+    },
+    {
+      "id": "gallery-item-182",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419538/golden-tower/gt_p8_4_960x1280.jpg"
+    },
+    {
+      "id": "gallery-item-183",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419540/golden-tower/gt_p8_5_1280x720.jpg"
+    },
+    {
+      "id": "gallery-item-184",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419541/golden-tower/gt_p8_6_1280x720.jpg"
+    },
+    {
+      "id": "gallery-item-185",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419552/golden-tower/gt_p9_1_2500x1548.jpg"
+    },
+    {
+      "id": "gallery-item-186",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419553/golden-tower/gt_p9_2_418x418.jpg"
+    },
+    {
+      "id": "gallery-item-187",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419554/golden-tower/gt_p9_3_818x500.jpg"
+    },
+    {
+      "id": "gallery-item-188",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419555/golden-tower/gt_p9_4_989x736.jpg"
+    },
+    {
+      "id": "gallery-item-189",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419558/golden-tower/gt_p9_5_789x592.jpg"
+    },
+    {
+      "id": "gallery-item-190",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "سابقة أعمال مجموعة البرج الذهبي",
+        "en": "Golden Tower Track Record"
+      },
+      "title": {
+        "ar": "أعمال الهياكل الإنشائية والفولاذية المنجزة",
+        "en": "Delivered Structural & Civil Projects"
+      },
+      "tag": {
+        "ar": "سابقة أعمال",
+        "en": "Track Record"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419560/golden-tower/gt_p9_6_1430x804.jpg"
+    },
+    {
+      "id": "gallery-item-191",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "مشروعات البنية التحتية الكبرى (قطر)",
+        "en": "Qatar Mega Infrastructure"
+      },
+      "title": {
+        "ar": "مشروع didi dighomi",
+        "en": "didi dighomi Project"
+      },
+      "tag": {
+        "ar": "منجز بقطر",
+        "en": "Delivered Qatar"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792421001/projects/didi-dighomi.jpg"
+    },
+    {
+      "id": "gallery-item-192",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "مشروعات البنية التحتية الكبرى (قطر)",
+        "en": "Qatar Mega Infrastructure"
+      },
+      "title": {
+        "ar": "مشروع grigoleti resort",
+        "en": "grigoleti resort Project"
+      },
+      "tag": {
+        "ar": "منجز بقطر",
+        "en": "Delivered Qatar"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792421003/projects/grigoleti-resort.jpg"
+    },
+    {
+      "id": "gallery-item-193",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "مشروعات البنية التحتية الكبرى (قطر)",
+        "en": "Qatar Mega Infrastructure"
+      },
+      "title": {
+        "ar": "مشروع industrial workshop",
+        "en": "industrial workshop Project"
+      },
+      "tag": {
+        "ar": "منجز بقطر",
+        "en": "Delivered Qatar"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792421004/projects/industrial-workshop.jpg"
+    },
+    {
+      "id": "gallery-item-194",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "مشروعات البنية التحتية الكبرى (قطر)",
+        "en": "Qatar Mega Infrastructure"
+      },
+      "title": {
+        "ar": "مشروع katara",
+        "en": "katara Project"
+      },
+      "tag": {
+        "ar": "منجز بقطر",
+        "en": "Delivered Qatar"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792421005/projects/katara.jpg"
+    },
+    {
+      "id": "gallery-item-195",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "مشروعات البنية التحتية الكبرى (قطر)",
+        "en": "Qatar Mega Infrastructure"
+      },
+      "title": {
+        "ar": "مشروع lekhwiya",
+        "en": "lekhwiya Project"
+      },
+      "tag": {
+        "ar": "منجز بقطر",
+        "en": "Delivered Qatar"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792421006/projects/lekhwiya.jpg"
+    },
+    {
+      "id": "gallery-item-196",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "مشروعات البنية التحتية الكبرى (قطر)",
+        "en": "Qatar Mega Infrastructure"
+      },
+      "title": {
+        "ar": "مشروع lexus showroom",
+        "en": "lexus showroom Project"
+      },
+      "tag": {
+        "ar": "منجز بقطر",
+        "en": "Delivered Qatar"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792421006/projects/lexus-showroom.jpg"
+    },
+    {
+      "id": "gallery-item-197",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "مشروعات البنية التحتية الكبرى (قطر)",
+        "en": "Qatar Mega Infrastructure"
+      },
+      "title": {
+        "ar": "تقاطعات وترام لوسيل بلازا",
+        "en": "Lusail Plaza LRT Interchanges"
+      },
+      "tag": {
+        "ar": "مدينة لوسيل",
+        "en": "Lusail City"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792421007/projects/lusail-plaza.jpg"
+    },
+    {
+      "id": "gallery-item-198",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "مشروعات البنية التحتية الكبرى (قطر)",
+        "en": "Qatar Mega Infrastructure"
+      },
+      "title": {
+        "ar": "مترو الدوحة (الخط الأخضر)",
+        "en": "Doha Metro (Green Line)"
+      },
+      "tag": {
+        "ar": "مترو الدوحة",
+        "en": "Doha Metro"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792421007/projects/metro-green-line.jpg"
+    },
+    {
+      "id": "gallery-item-199",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "مشروعات البنية التحتية الكبرى (قطر)",
+        "en": "Qatar Mega Infrastructure"
+      },
+      "title": {
+        "ar": "مشيرب قلب الدوحة (المرحلة الرابعة)",
+        "en": "Msheireb Downtown (Phase 4)"
+      },
+      "tag": {
+        "ar": "مشيرب",
+        "en": "Msheireb"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792421008/projects/msheireb.jpg"
+    },
+    {
+      "id": "gallery-item-200",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "مشروعات البنية التحتية الكبرى (قطر)",
+        "en": "Qatar Mega Infrastructure"
+      },
+      "title": {
+        "ar": "مشروع muaither",
+        "en": "muaither Project"
+      },
+      "tag": {
+        "ar": "منجز بقطر",
+        "en": "Delivered Qatar"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792421009/projects/muaither.jpg"
+    },
+    {
+      "id": "gallery-item-201",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "مشروعات البنية التحتية الكبرى (قطر)",
+        "en": "Qatar Mega Infrastructure"
+      },
+      "title": {
+        "ar": "مشروع qf library",
+        "en": "qf library Project"
+      },
+      "tag": {
+        "ar": "منجز بقطر",
+        "en": "Delivered Qatar"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792421010/projects/qf-library.jpg"
+    },
+    {
+      "id": "gallery-item-202",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "مشروعات البنية التحتية الكبرى (قطر)",
+        "en": "Qatar Mega Infrastructure"
+      },
+      "title": {
+        "ar": "مشروع rayyan plaza",
+        "en": "rayyan plaza Project"
+      },
+      "tag": {
+        "ar": "منجز بقطر",
+        "en": "Delivered Qatar"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792421011/projects/rayyan-plaza.jpg"
+    },
+    {
+      "id": "gallery-item-203",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "مشروعات البنية التحتية الكبرى (قطر)",
+        "en": "Qatar Mega Infrastructure"
+      },
+      "title": {
+        "ar": "مشروع salam tower",
+        "en": "salam tower Project"
+      },
+      "tag": {
+        "ar": "منجز بقطر",
+        "en": "Delivered Qatar"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792421013/projects/salam-tower.jpg"
+    },
+    {
+      "id": "gallery-item-204",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "مشروعات البنية التحتية الكبرى (قطر)",
+        "en": "Qatar Mega Infrastructure"
+      },
+      "title": {
+        "ar": "مشروع تامارا سيتي المتكامل (100 ألف م²)",
+        "en": "Tamara City Integrated Development"
+      },
+      "tag": {
+        "ar": "تامارا سيتي",
+        "en": "Tamara City"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792421030/projects/tamara-city.png"
+    },
+    {
+      "id": "gallery-item-205",
+      "project": "qatar-landmarks",
+      "projectName": {
+        "ar": "مشروعات البنية التحتية الكبرى (قطر)",
+        "en": "Qatar Mega Infrastructure"
+      },
+      "title": {
+        "ar": "مشروع thuraya tower",
+        "en": "thuraya tower Project"
+      },
+      "tag": {
+        "ar": "منجز بقطر",
+        "en": "Delivered Qatar"
+      },
+      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792421031/projects/thuraya-tower.jpg"
+    }
+  ]
+}

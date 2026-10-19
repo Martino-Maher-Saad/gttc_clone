@@ -1,0 +1,95 @@
+{
+  "brand": {
+    "name_ar": "البرج الذهبي ورتاج للضيافة",
+    "name_en": "Golden Tower & Retaj Hospitality",
+    "site_title_ar": "فندق ومنتجع جي-رتاج جورجيا 2027 | استثمار فندقي بإدارة رتاج العالمية",
+    "site_title_en": "G-RETAJ Hotel & Resort Georgia 2027 | Hospitality Investment Managed by Retaj",
+    "tagline_ar": "استثمارات فندقية فاخرة في جورجيا بالشراكة مع فنادق رتاج العالمية. شاطئ البحر الأسود، رمال مغناطيسية علاجية، تسليم كامل بالفرش 2027 وعوائد دورية بالدولار.",
+    "tagline_en": "Luxury hospitality investments in Georgia in strategic alliance with Retaj Hotels. Black Sea beachfront, medicinal magnetic sands, fully furnished 2027, and USD yields.",
+    "developer_ar": "شركة البرج الذهبي للتطوير العقاري والمقاولات (GTTC)",
+    "developer_en": "Golden Tower Trading & Contracting Group (GTTC)",
+    "logo": "/logo.svg"
+  },
+  "hero": {
+    "badge_ar": "المشروعات الفندقية الرسمية لمجموعة البرج الذهبي ورتاج 2027",
+    "badge_en": "Official Golden Tower & Retaj Hospitality Developments 2027",
+    "title_highlight_ar": "امتلك وحدتك الفندقية",
+    "title_highlight_en": "Own Your Luxury Hotel Suite",
+    "title_main_ar": "على ساحل البحر الأسود بجورجيا بإدارة رتاج العالمية",
+    "title_main_en": "On Georgia's Black Sea Coast Managed by Retaj",
+    "description_ar": "فرص استثمارية فندقية استثنائية في فندق ومنتجع جي-رتاج (غريغوليتي)، برج ديدي ديغومي (تبليسي)، منتجع مونتبلا الصحي (تسخالتوبو)، ومنتجع سيرا رتاج مع عوائد دورية بالدولار وسياحة حلال عائلية.",
+    "description_en": "Exceptional hospitality investments across G-Retaj Resort (Grigoleti), Didi-Dighomi Tower (Tbilisi), Montbella Thermal Spa (Tskaltubo), and Sera Retaj with USD yields and halal tourism.",
+    "cta_primary_ar": "استكشف المشروعات",
+    "cta_primary_en": "Explore Projects",
+    "cta_secondary_ar": "تواصل عبر واتساب",
+    "cta_secondary_en": "Chat on WhatsApp",
+    "stats": [
+      { "number": "2004", "label_ar": "سنة التأسيس والخبرة", "label_en": "Established Since" },
+      { "number": "4", "label_ar": "فنادق كبرى تحت إدارة رتاج", "label_en": "Hotels Under Retaj" },
+      { "number": "100%", "label_ar": "فرش وتشطيب فندقي فاخر", "label_en": "Turnkey Furnished" }
+    ]
+  },
+  "contact": {
+    "phone": "+97444508659",
+    "display_phone": "+974 4450 8659",
+    "whatsapp": "+97444508659",
+    "display_whatsapp": "+974 4450 8659",
+    "email": "info@gttc.co",
+    "address_ar": "برج بروة 1، الطابق التاسع، شارع سحيم بن حمد، السد، الدوحة، قطر",
+    "address_en": "Barwa Tower 1, 9th Floor, Suhaim Bin Hamad St, Al Sadd, Doha, Qatar",
+    "website": "https://www.gttc.co",
+    "site_url": "https://www.gttc.co"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/gttc.qatar",
+    "instagram": "https://www.instagram.com/gttc_qatar",
+    "linkedin": "https://www.linkedin.com/company/golden-tower-trading-contracting",
+    "youtube": "https://www.youtube.com/@gttc"
+  },
+  "nav": {
+    "ar": [
+      {
+        "label": "الرئيسية (جي-رتاج)",
+        "href": "/"
+      },
+      {
+        "label": "سابقة الأعمال والمشاريع",
+        "href": "/portfolio"
+      },
+      {
+        "label": "معرض الصور",
+        "href": "/gallery"
+      },
+      {
+        "label": "من نحن",
+        "href": "/about"
+      },
+      {
+        "label": "اتصل بنا",
+        "href": "/contact"
+      }
+    ],
+    "en": [
+      {
+        "label": "Home (G-RETAJ)",
+        "href": "/en"
+      },
+      {
+        "label": "Portfolio",
+        "href": "/en/portfolio"
+      },
+      {
+        "label": "Gallery",
+        "href": "/en/gallery"
+      },
+      {
+        "label": "About Us",
+        "href": "/en/about"
+      },
+      {
+        "label": "Contact Us",
+        "href": "/en/contact"
+      }
+    ]
+  }
+}

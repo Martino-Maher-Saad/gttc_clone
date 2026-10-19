@@ -1,0 +1,146 @@
+{
+  "categories": [
+    {
+      "id": "general",
+      "name": {
+        "ar": "عام وعن التحالف",
+        "en": "General & Alliance"
+      }
+    },
+    {
+      "id": "g-retaj",
+      "name": {
+        "ar": "فندق ومنتجع جي-رتاج",
+        "en": "G-Retaj Resort"
+      }
+    },
+    {
+      "id": "ownership",
+      "name": {
+        "ar": "التملك القانوني والإقامة",
+        "en": "Ownership & Residency"
+      }
+    },
+    {
+      "id": "management",
+      "name": {
+        "ar": "إدارة رتاج والعوائد",
+        "en": "Retaj Management & Yields"
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "faq-1",
+      "category": "general",
+      "categoryName": {
+        "ar": "عام وعن التحالف",
+        "en": "General & Alliance"
+      },
+      "question": {
+        "ar": "من هم مطورو هذه المشروعات الاستثمارية؟",
+        "en": "Who is behind these hospitality developments?"
+      },
+      "answer": {
+        "ar": "المشروعات نتاج تحالف استراتيجي رائد بين مجموعة البرج الذهبي للتجارة والمقاولات (GTTC) التي تأسست عام 2004 في دولة قطر ونفذت كبرى مشروعات البنية التحتية، ومجموعة فنادق رتاج (Retaj Hotels & Hospitality) الرائدة في قطاع الضيافة الفندقية العائلية الحلال الحاصلة على جوائز دولية مرموقة.",
+        "en": "These developments stem from a premier strategic alliance between Golden Tower Trading & Contracting (GTTC, est. 2004 in Qatar, renowned for landmark infrastructure) and Retaj Hotels & Hospitality, an internationally acclaimed leader in family halal hospitality."
+      }
+    },
+    {
+      "id": "faq-2",
+      "category": "ownership",
+      "categoryName": {
+        "ar": "التملك القانوني والإقامة",
+        "en": "Ownership & Residency"
+      },
+      "question": {
+        "ar": "هل يحق للأجانب التملك الحر بنسبة 100% في جورجيا؟",
+        "en": "Can foreign nationals own 100% freehold in Georgia?"
+      },
+      "answer": {
+        "ar": "نعم، يتيح الدستور والقانون الجورجي للأجانب من كافة الجنسيات التملك الحر الكامل بنسبة 100% دون الحاجة إلى كفيل أو شريك محلي، وتصدر وثيقة الملكية العقارية (صك الملكية) الرسمية برقم تسلسلي حكومي من السجل العقاري لوزارة العدل الجورجية.",
+        "en": "Yes, Georgian law grants foreign buyers of all nationalities 100% unrestricted freehold ownership with zero requirement for local sponsors. Title deeds are issued officially in the owner name by the Ministry of Justice Public Registry."
+      }
+    },
+    {
+      "id": "faq-3",
+      "category": "ownership",
+      "categoryName": {
+        "ar": "التملك القانوني والإقامة",
+        "en": "Ownership & Residency"
+      },
+      "question": {
+        "ar": "هل تفرض جورجيا ضرائب عقارية على الأجانب؟",
+        "en": "Does Georgia impose property taxes on foreign owners?"
+      },
+      "answer": {
+        "ar": "تعتبر جورجيا واحدة من أكثر الدول جذباً للاستثمار في العالم بفضل نظامها الضريبي الميسر؛ فلا توجد ضريبة أملاك سنوية على العقارات السكنية والفندقية للمستثمرين الفرديين غير المقيمين، كما لا توجد قيود على تحويل الأموال والأرباح للخارج بالعملات الأجنبية.",
+        "en": "Georgia ranks among the worlds most business-friendly nations. There is zero annual real estate property tax on residential/hotel units for individual foreign investors, and complete freedom to repatriate capital and earnings abroad in USD."
+      }
+    },
+    {
+      "id": "faq-4",
+      "category": "g-retaj",
+      "categoryName": {
+        "ar": "فندق ومنتجع جي-رتاج",
+        "en": "G-Retaj Resort"
+      },
+      "question": {
+        "ar": "ما الذي يميز شاطئ غريغوليتي وفندق جي-رتاج؟",
+        "en": "What makes Grigoleti Beach and G-RETAJ unique?"
+      },
+      "answer": {
+        "ar": "يقع جي-رتاج مباشرة على ساحل البحر الأسود في منطقة غريغوليتي الشهيرة بالرمال السوداء المغناطيسية ذات الخصائص الطبية الطبيعية لعلاج المفاصل والروماتيزم وتنشيط الدورة الدموية، محاطاً بغابات الصنوبر الساحلية التي تمنح الهواء نقاءً استثنائياً.",
+        "en": "G-RETAJ enjoys a direct beachfront setting in Grigoleti, globally celebrated for natural black magnetic sands rich in therapeutic magnetite minerals that relieve arthritis, rheumatism, and fatigue, encircled by pristine evergreen pine forests."
+      }
+    },
+    {
+      "id": "faq-5",
+      "category": "management",
+      "categoryName": {
+        "ar": "إدارة رتاج والعوائد",
+        "en": "Retaj Management & Yields"
+      },
+      "question": {
+        "ar": "كيف يتم إدارة الوحدات الفندقية وتوزيع الأرباح؟",
+        "en": "How are hotel suites managed and how are yields disbursed?"
+      },
+      "answer": {
+        "ar": "تتولى مجموعة فنادق رتاج العالمية (Retaj Hotels) إدارة الفندق بالكامل كمنشأة سياحية خمس نجوم (التسويق الفندقي، التشغيل، الاستقبال، الصيانة والنظافة). ويتم توزيع صافي العوائد التأجيرية على الملاك دورياً بالدولار الأمريكي مباشرة في حساباتهم المصرفية.",
+        "en": "Retaj Hotels & Hospitality manages the entire property as a 5-star hotel pool (global booking distribution, housekeeping, concierge operations). Net rental yields are paid out periodically in USD directly to owners international accounts."
+      }
+    },
+    {
+      "id": "faq-6",
+      "category": "g-retaj",
+      "categoryName": {
+        "ar": "فندق ومنتجع جي-رتاج",
+        "en": "G-Retaj Resort"
+      },
+      "question": {
+        "ar": "متى موعد تسليم فندق ومنتجع جي-رتاج وهل التسليم مفروش؟",
+        "en": "When is the handover date for G-RETAJ and are units furnished?"
+      },
+      "answer": {
+        "ar": "التسليم محدد في منتصف عام 2027. وتُسلّم جميع الوحدات والأجنحة مفروشة بالكامل 100% بأفخم الأثاث والديكورات والأجهزة المنزلية الذكية وفق أعلى مواصفات الفنادق الفاخرة لتكون جاهزة للتشغيل الفوري وتوليد الإيرادات.",
+        "en": "Delivery is scheduled for Mid-2027. All suites are handed over 100% turnkey, fully furnished and fitted with luxury European decor, high-end hotel furniture, and smart amenities ready for immediate rental income."
+      }
+    },
+    {
+      "id": "faq-7",
+      "category": "ownership",
+      "categoryName": {
+        "ar": "التملك القانوني والإقامة",
+        "en": "Ownership & Residency"
+      },
+      "question": {
+        "ar": "هل يمنح شراء عقار في جورجيا حق الإقامة الرسمية؟",
+        "en": "Does purchasing real estate in Georgia grant official residency?"
+      },
+      "answer": {
+        "ar": "نعم، وفق القانون الجورجي، يحق لأي أجنبي يستثمر ما يعادل 150,000 دولار أمريكي فأكثر في عقار التقديم مباشرة للحصول على بطاقة الإقامة العقارية في جورجيا له ولزوجته وأبنائه مع حق التجديد السنوي المستمر.",
+        "en": "Yes, under Georgian immigration law, any foreign investor acquiring real estate worth ,000 USD or above is eligible to receive official Georgian residency status for themselves, their spouse, and dependent children."
+      }
+    }
+  ]
+}

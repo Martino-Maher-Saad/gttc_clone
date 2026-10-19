@@ -1,503 +1,1209 @@
-[
-  {
-    "id": "tamara-city",
-    "slug": "tamara-city-georgia",
-    "category": "georgia-mega",
-    "featured": true,
-    "title": {
-      "en": "Tamara City Integrated Master Development",
-      "ar": "مدينة تامارا سيتي المتكاملة (جورجيا)"
+{
+  "g-retaj": {
+    "slug": "g-retaj",
+    "name": {
+      "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+      "en": "G-RETAJ Resort & Spa (Grigoleti)"
     },
     "location": {
-      "en": "Sagarejo, Kakheti Region, Georgia (40 mins from Tbilisi)",
-      "ar": "ساغاريجو، جورجيا (40 دقيقة من العاصمة تبليسي)"
+      "ar": "شاطئ البحر الأسود، غريغوليتي، جورجيا",
+      "en": "Black Sea Beachfront, Grigoleti, Georgia"
     },
-    "client": {
-      "en": "Golden Tower Group & Retaj Hotels & Hospitality",
-      "ar": "مجموعة البرج الذهبي ومجموعة فنادق رتاج العالمية"
+    "status": {
+      "ar": "قيد الإنشاء — التسليم منتصف 2027",
+      "en": "Under Construction — Delivery Mid 2027"
     },
-    "area": "100,000 SQM",
-    "roi": "High Capital Growth & Hospitality Yield",
-    "brochureUrl": "#brochure-tamara",
-    "image": "/images/projects/tamara-city.jpg",
-    "description": {
-      "en": "A transformative flagship master development spanning 100,000 m². Thoughtfully planned with only 16% built-up footprint and 84% dedicated to lush botanical open spaces and recreational amenities. An integrated modern smart city featuring luxurious villas, serviced residences, an international school, a hospital, swimming lagoons, a luxury spa and sauna, health clubs, and 3 prestigious international hotels operated under the management of Qatar's Retaj Hotels & Hospitality.",
-      "ar": "مشروع استثماري وحضري عملاق على مساحة 100 ألف متر مربع. يتميز بتخصيص 16% فقط للبناء و 84% للمساحات الخضراء والحدائق المفتوحة. مدينة ذكية متكاملة تضم فللاً فاخرة، شققاً فندقية، مدرسة دولية، مستشفى متطور، مسابح، سبا ونادياً صحياً، و 3 فنادق عالمية تحت الإدارة والتشغيل الحصري لمجموعة رتاج للضيافة، على بعد 40 دقيقة فقط من العاصمة تبليسي."
+    "area": {
+      "ar": "واجهة شاطئية مباشرة",
+      "en": "Direct Beachfront"
     },
-    "workPackages": [
-      { "en": "Turnkey Master Development & Urban Planning", "ar": "التخطيط العمراني والتطوير الشامل للمدينة" },
-      { "en": "3 International Hotels Operated by Retaj", "ar": "3 فنادق عالمية بإدارة وتشغيل مجموعة رتاج" },
-      { "en": "Luxury Villas & Residential Apartments", "ar": "فيلات فاخرة ووحدات سكنية فندقية" },
-      { "en": "Hospital, International School & Sports Complex", "ar": "مستشفى متكامل ومدرسة دولية ومجمع رياضي" }
+    "hero": {
+      "eyebrow": {
+        "ar": "استثمار فندقي ساحلي · البحر الأسود",
+        "en": "Coastal Hotel Investment · Black Sea"
+      },
+      "title": {
+        "ar": "فندق ومنتجع جي-رتاج الفاخر على رمال البحر الأسود المغناطيسية",
+        "en": "G-RETAJ Luxury Hotel & Resort on Magnetic Black Sea Sands"
+      },
+      "subtitle": {
+        "ar": "شراكة استراتيجية بين مجموعة البرج الذهبي وفنادق رتاج العالمية. تملك حر 100%، تسليم مفروش بالكامل منتصف 2027، عوائد دورية بالدولار الأمريكي وسياحة استشفائية عائلية راقية.",
+        "en": "A strategic alliance between Golden Tower Group and Retaj Hotels & Hospitality. 100% Freehold, fully furnished delivery mid-2027, periodic USD yields, and premium halal family wellness."
+      },
+      "startingPrice": 65000,
+      "startingPriceText": {
+        "ar": "$65,000 دولار أمريكي",
+        "en": "$65,000 USD"
+      },
+      "downPayment": "20%",
+      "installmentYears": 3,
+      "deliveryYears": 1.5,
+      "cashDiscount": "12%",
+      "heroImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419202/g-retaj/gretaj_p5_2_1536x1024.png"
+    },
+    "locationSection": {
+      "headline": {
+        "ar": "واجهة بحرية نادرة على شاطئ الرمال المغناطيسية العلاجية",
+        "en": "A Rare Coastal Sanctuary on Therapeutic Magnetic Sands"
+      },
+      "description": {
+        "ar": "يقع منتجع جي-رتاج في غريغوليتي على شاطئ البحر الأسود، المشهور عالمياً بغابات الصنوبر المعمرة والرمال السوداء المغناطيسية الغنية بعناصر الماغنيتيت العلاجية لمشاكل المفاصل والدورة الدموية والجهاز العصبي، محاطاً بطبيعة ساحرة تجمع بين نسيم البحر ونقاء الغابات.",
+        "en": "G-RETAJ is situated in Grigoleti on the Black Sea coast, world-famous for its perennial pine forests and therapeutic magnetic black sands rich in magnetite, renowned for healing joint, cardiovascular, and nervous conditions within pure coastal pine air."
+      },
+      "landmarks": [
+        {
+          "name": {
+            "ar": "شاطئ البحر الأسود والرمال المغناطيسية",
+            "en": "Black Sea Beach & Magnetic Sands"
+          },
+          "time": "مباشرة 0 د"
+        },
+        {
+          "name": {
+            "ar": "محمية غابات الصنوبر الساحلية",
+            "en": "Coastal Pine Forest Sanctuary"
+          },
+          "time": "محيط بالفندق"
+        },
+        {
+          "name": {
+            "ar": "مطار كوتايسي الدولي",
+            "en": "Kutaisi International Airport"
+          },
+          "time": "55 دقيقة"
+        },
+        {
+          "name": {
+            "ar": "مدينة باتومي الساحلية",
+            "en": "Batumi Seaside City"
+          },
+          "time": "45 دقيقة"
+        },
+        {
+          "name": {
+            "ar": "ميناء بوتي التجاري",
+            "en": "Poti Sea Port"
+          },
+          "time": "15 دقيقة"
+        },
+        {
+          "name": {
+            "ar": "الطريق السريع الدولي E60",
+            "en": "International Highway E60"
+          },
+          "time": "5 دقائق"
+        }
+      ]
+    },
+    "lifestyleSection": {
+      "headline": {
+        "ar": "منتجع فندقي استشفائي متكامل بأعلى معايير الضيافة العالمية",
+        "en": "A Turnkey Wellness Resort Crafted to 5-Star International Standards"
+      },
+      "description": {
+        "ar": "تم تصميم جي-رتاج ليكون وجهة الاستجمام والاستشفاء الأولى للعائلات الخليجية والعربية في جورجيا، حيث يجمع بين الخصوصية التامة ومرافق الضيافة الحلال، مع مراكز استشفاء صحي متطورة، مسابح خاصة، شواطئ مجهزة، ومطاعم فاخرة تحت إدارة علامة رتاج المرموقة.",
+        "en": "G-RETAJ is meticulously curated to be the premier wellness getaway for Arab and international families in Georgia, pairing absolute privacy and halal-certified hospitality with cutting-edge hydrotherapy spas, private pools, manicured beach clubs, and gourmet fine dining under Retaj management."
+      },
+      "features": [
+        {
+          "title": {
+            "ar": "استشفاء بالرمال المغناطيسية",
+            "en": "Magnetic Sand Therapy"
+          },
+          "desc": {
+            "ar": "برامج علاجية طبيعية متخصصة لعلاج المفاصل والروماتيزم وتنشيط الدورة الدموية.",
+            "en": "Specialized holistic therapies harnessing natural magnetic sands for joints and wellness."
+          }
+        },
+        {
+          "title": {
+            "ar": "إدارة فندقية احترافية من رتاج",
+            "en": "Retaj Turnkey Management"
+          },
+          "desc": {
+            "ar": "تشغيل فندقي كامل 5 نجوم يضمن تأجير وحدتك واستقبال النزلاء وتحويل الأرباح بالدولار سنوياً.",
+            "en": "Full 5-star hotel operation managing reservations, housekeeping, and annual USD profit distribution."
+          }
+        },
+        {
+          "title": {
+            "ar": "خصوصية عائلية وسياحة حلال",
+            "en": "Halal Family Comfort"
+          },
+          "desc": {
+            "ar": "بيئة محافظة ومرافق منفصلة تلبي خصوصية العائلات مع مطاعم خالية من الكحول ومأكولات حلال.",
+            "en": "Private spaces tailored for conservative family comfort with non-alcoholic and halal-certified dining."
+          }
+        },
+        {
+          "title": {
+            "ar": "تسليم مفروش بالكامل (Turnkey)",
+            "en": "100% Fully Furnished"
+          },
+          "desc": {
+            "ar": "استلم وحدتك جاهزة للتشغيل الفوري مع أفخم الأثاث، الأجهزة الذكية، والديكورات العصرية.",
+            "en": "Receive your unit fully finished and furnished with premium interior styling and smart appliances."
+          }
+        }
+      ]
+    },
+    "pricingSection": {
+      "headline": {
+        "ar": "خطط استثمار مرنة وعوائد دولارية مجزية",
+        "en": "Flexible Investment Plans & High-Yield USD Returns"
+      },
+      "description": {
+        "ar": "بمقدم يبدأ من 20% فقط وأقساط ميسرة تصل حتى 36 شهراً بدون فوائد بنكية، امتلك جناحك الفندقي على البحر الأسود مع توقعات عوائد تأجيرية تتراوح بين 12% إلى 18% سنوياً بالدولار.",
+        "en": "With down payments starting from 20% and flexible interest-free installments up to 36 months, own your beachfront hotel suite with projected annual USD rental yields of 12% to 18%."
+      },
+      "cashDiscount": "12%",
+      "cashDiscountText": {
+        "ar": "خصم كاش 12%",
+        "en": "12% Cash Discount"
+      },
+      "deliveryFrom": "2027",
+      "delivery": {
+        "ar": "منتصف 2027",
+        "en": "Mid 2027"
+      },
+      "priceRange": {
+        "ar": "تبدأ الأسعار من $65,000 إلى $145,000 دولار",
+        "en": "Prices range from $65,000 to $145,000 USD"
+      },
+      "downPaymentFrom": {
+        "ar": "مقدم يبدأ من 20%",
+        "en": "Down payment from 20%"
+      },
+      "paymentPlans": [
+        {
+          "title": {
+            "ar": "خطة السداد القياسية",
+            "en": "Standard Installment Plan"
+          },
+          "downPayment": "20%",
+          "years": "3 سنوات أقساط متساوية",
+          "discount": "بدون فوائد"
+        },
+        {
+          "title": {
+            "ar": "خطة الدفع النقدي (كاش)",
+            "en": "Cash Payment Plan"
+          },
+          "downPayment": "100%",
+          "years": "سداد فوري",
+          "discount": "خصم خاص 12%"
+        }
+      ]
+    },
+    "phases": [
+      {
+        "id": "deluxe-beachfront",
+        "name": {
+          "ar": "أجنحة الواجهة البحرية المباشرة",
+          "en": "Direct Beachfront Suites"
+        },
+        "badge": {
+          "ar": "إطلالة بحرية مباشرة",
+          "en": "Direct Sea View"
+        },
+        "type": {
+          "ar": "أجنحة فندقية فاخرة",
+          "en": "Luxury Hotel Suites"
+        },
+        "status": {
+          "ar": "متاحة للحجز والاستثمار",
+          "en": "Available for Investment"
+        },
+        "startingPrice": 65000,
+        "downPayment": "20%",
+        "installments": 3,
+        "delivery": {
+          "ar": "منتصف 2027",
+          "en": "Mid 2027"
+        },
+        "cashDiscount": "12%",
+        "description": {
+          "ar": "إطلالات بانورامية خلابة ومباشرة على زرقة البحر الأسود وغروب الشمس مع شرفات استرخاء واسعة.",
+          "en": "Panoramic vistas overlooking the Black Sea and golden sunsets with generous relaxing terraces."
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419130/g-retaj/gretaj_p1_2_1536x1024.png"
+      },
+      {
+        "id": "pine-wellness",
+        "name": {
+          "ar": "أجنحة المحمية والاستشفاء الصحي",
+          "en": "Pine Wellness Suites"
+        },
+        "badge": {
+          "ar": "استشفاء وصنوبر",
+          "en": "Pine & Wellness"
+        },
+        "type": {
+          "ar": "أجنحة سبا واستشفاء",
+          "en": "Spa & Healing Suites"
+        },
+        "status": {
+          "ar": "قيد الإنشاء",
+          "en": "Under Construction"
+        },
+        "startingPrice": 72000,
+        "downPayment": "20%",
+        "installments": 3,
+        "delivery": {
+          "ar": "منتصف 2027",
+          "en": "Mid 2027"
+        },
+        "cashDiscount": "12%",
+        "description": {
+          "ar": "مطلة على غابات الصنوبر الساحلية العطرة، قريبة من النادي الصحي ومركز العلاج بالرمال المغناطيسية.",
+          "en": "Overlooking aromatic maritime pine reserves, immediate access to spa and magnetotherapy pavilions."
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419240/g-retaj/gretaj_p8_3_1536x1024.png"
+      }
     ],
-    "specs": {
-      "Total Area": "100,000 m²",
-      "Built-up Ratio": "16% Built / 84% Greenery & Parks",
-      "Distance to Capital": "40 Minutes to Tbilisi",
-      "Operator": "Retaj Hotels & Hospitality"
-    }
+    "units": [
+      {
+        "id": "studio-deluxe",
+        "phase": "deluxe-beachfront",
+        "category": {
+          "ar": "غرفة فندقية ديلوكس",
+          "en": "Deluxe Hotel Room"
+        },
+        "name": {
+          "ar": "استوديو ديلوكس فندقي",
+          "en": "Deluxe Hotel Studio"
+        },
+        "type": {
+          "ar": "غرفة فندقية فاخرة",
+          "en": "Luxury Hotel Room"
+        },
+        "area": "42 م²",
+        "price": "$65,000",
+        "startingPriceText": {
+          "ar": "$65,000 دولار",
+          "en": "$65,000 USD"
+        },
+        "downPayment": "20%",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419093/g-retaj/gretaj_p14_2_1402x1122.png",
+        "floorPlan": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419161/g-retaj/gretaj_p3_2_1304x978.png"
+      },
+      {
+        "id": "one-bed-suite",
+        "phase": "deluxe-beachfront",
+        "category": {
+          "ar": "جناح تنفيذي",
+          "en": "Executive Suite"
+        },
+        "name": {
+          "ar": "جناح تنفيذي غرفة وصالة",
+          "en": "Executive 1-Bedroom Suite"
+        },
+        "type": {
+          "ar": "جناح فندقي تنفيذي",
+          "en": "Executive Suite"
+        },
+        "area": "62 م²",
+        "price": "$98,000",
+        "startingPriceText": {
+          "ar": "$98,000 دولار",
+          "en": "$98,000 USD"
+        },
+        "downPayment": "20%",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419103/g-retaj/gretaj_p15_1_1536x1024.png",
+        "floorPlan": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419161/g-retaj/gretaj_p3_2_1304x978.png"
+      },
+      {
+        "id": "two-bed-royal",
+        "phase": "pine-wellness",
+        "category": {
+          "ar": "جناح ملكي عائلي",
+          "en": "Royal Family Suite"
+        },
+        "name": {
+          "ar": "جناح عائلي رويال غرفتين وصالة",
+          "en": "Royal Family 2-Bedroom Suite"
+        },
+        "type": {
+          "ar": "جناح ملكي عائلي",
+          "en": "Royal Family Suite"
+        },
+        "area": "92 م²",
+        "price": "$142,000",
+        "startingPriceText": {
+          "ar": "$142,000 دولار",
+          "en": "$142,000 USD"
+        },
+        "downPayment": "20%",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419118/g-retaj/gretaj_p16_3_1536x1024.png",
+        "floorPlan": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419161/g-retaj/gretaj_p3_2_1304x978.png"
+      }
+    ],
+    "deliveredTrackRecord": [
+      {
+        "name": {
+          "ar": "مشروعات البنية التحتية والفنادق الكبرى في قطر",
+          "en": "Major Infrastructure & Hotels in Qatar"
+        },
+        "status": {
+          "ar": "منجزة بنجاح منذ 2004",
+          "en": "Delivered successfully since 2004"
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419253/golden-tower/gt_p10_1_3000x2000.jpg"
+      },
+      {
+        "name": {
+          "ar": "سلسلة فنادق ومنتجعات رتاج في الخليج والعالم",
+          "en": "Retaj Hotels & Resorts Portfolio"
+        },
+        "status": {
+          "ar": "تشغيل فندقي عالمي حاصل على جوائز",
+          "en": "Award-winning international hospitality"
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419202/g-retaj/gretaj_p5_2_1536x1024.png"
+      },
+      {
+        "name": {
+          "ar": "مشروعات الأبراج الفندقية في العاصمة تبليسي",
+          "en": "Tbilisi Capital Hotel Towers"
+        },
+        "status": {
+          "ar": "قيد الإنجاز والتسليم المتتابع",
+          "en": "Under delivery & execution"
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419281/golden-tower/gt_p16_1_3279x2186.jpg"
+      }
+    ],
+    "deliveredSection": {
+      "eyebrow": {
+        "ar": "سجل الإنجاز والخبرة",
+        "en": "Our Track Record"
+      },
+      "headline": {
+        "ar": "أكثر من 20 عاماً من الثقة والإنجازات الكبرى",
+        "en": "Over 20 Years of Trust & Landmark Achievements"
+      },
+      "description": {
+        "ar": "تستند شراكة البرج الذهبي ورتاج إلى تاريخ حافل بالإنجازات في قطر وجورجيا، ومحفظة فندقية تدير آلاف المفاتيح باحترافية مشهود لها عالمياً.",
+        "en": "The Golden Tower & Retaj alliance is underpinned by decades of proven delivery across Qatar and Georgia, stewarding thousands of keys with world-class hospitality."
+      }
+    },
+    "projectFaqs": [
+      {
+        "question": {
+          "ar": "هل يحق للأجانب التملك الحر بنسبة 100% في جي-رتاج؟",
+          "en": "Can foreigners own 100% freehold in G-RETAJ?"
+        },
+        "answer": {
+          "ar": "نعم، يكفل القانون الجورجي حق التملك العقاري الحر بنسبة 100% لكافة الجنسيات، وتصدر وثيقة الملكية الرسمية (صك الملكية) من وزارة العدل والسجل العقاري الجورجي باسم المشتري مباشرة دون أي وسيط.",
+          "en": "Yes, Georgian law grants 100% unrestricted freehold ownership to all foreign nationalities, with official title deeds issued directly from the Public Registry / Ministry of Justice in the buyer's name."
+        }
+      },
+      {
+        "question": {
+          "ar": "كيف يتم توزيع العوائد التأجيرية وكيف تدير رتاج الفندق؟",
+          "en": "How are rental yields distributed and how does Retaj manage the hotel?"
+        },
+        "answer": {
+          "ar": "تتولى مجموعة فنادق رتاج (Retaj Hotels & Hospitality) إدارة وتشغيل الفندق بالكامل كمنشأة سياحية 5 نجوم (الحجوزات، الصيانة، التسويق الفندقي)، ويتم إيداع العوائد التأجيرية الصافية للمستثمر سنوياً بالدولار الأمريكي في حسابه البنكي.",
+          "en": "Retaj Hotels & Hospitality operates the entire resort as a 5-star hospitality destination (marketing, guest bookings, maintenance), and net yields are disbursed annually in USD directly to the owner's bank account."
+        }
+      },
+      {
+        "question": {
+          "ar": "ما هو موعد استلام الوحدات وهل تُسلّم مفروشة؟",
+          "en": "What is the delivery date and are units delivered furnished?"
+        },
+        "answer": {
+          "ar": "التسليم محدد في منتصف عام 2027، وجميع الوحدات والأجنحة تُسلّم كاملة التشطيب والمفروشات الفاخرة والأجهزة الكهربائية (Turnkey) بأعلى معايير الضيافة الفندقية لتكون جاهزة للتشغيل الفوري.",
+          "en": "Handover is scheduled for Mid-2027. All suites are delivered 100% turnkey, fully furnished and equipped with 5-star hotel furnishings and smart appliances for immediate operation."
+        }
+      },
+      {
+        "question": {
+          "ar": "ما هي ميزة رمال غريغوليتي المغناطيسية العلاجية؟",
+          "en": "What makes Grigoleti's magnetic sands unique?"
+        },
+        "answer": {
+          "ar": "تعتبر شواطئ غريغوليتي من أندر الشواطئ في العالم، حيث تحتوي رمالها السوداء على نسب طبيعية من خام الماغنيتيت الذي يولد حقلاً كهرومغناطيسياً طبيعياً يساعد في علاج أمراض المفاصل والعظام وتنشيط الدورة الدموية، مما يجعلها مقصداً سياحياً عالمياً للاستشفاء على مدار العام.",
+          "en": "Grigoleti is among the rarest beaches on earth; its natural black magnetic sands contain magnetite minerals that generate therapeutic micro-fields assisting arthritis, bone health, and circulatory relief, creating constant year-round wellness tourism demand."
+        }
+      }
+    ]
   },
-  {
-    "id": "didi-dighomi-tower",
-    "slug": "didi-dighomi-tower-tbilisi",
-    "category": "georgia-mega",
-    "featured": true,
-    "title": {
-      "en": "Didi Dighomi Luxury Hotel-Apartment Tower",
-      "ar": "برج ديدي ديغومي للشقق الفندقية (تبليسي)"
+  "didi-dighomi": {
+    "slug": "didi-dighomi",
+    "name": {
+      "ar": "برج ديدي ديغومي الفندقي (تبليسي)",
+      "en": "Didi Dighomi Hotel Tower (Tbilisi)"
     },
     "location": {
-      "en": "Didi Dighomi District, Tbilisi, Georgia",
-      "ar": "حي ديدي ديغومي، العاصمة تبليسي، جورجيا"
+      "ar": "حي ديدي ديغومي، العاصمة تبليسي، جورجيا",
+      "en": "Didi Dighomi District, Tbilisi, Georgia"
     },
-    "client": {
-      "en": "Golden Tower Real Estate Investment",
-      "ar": "شركة البرج الذهبي للاستثمار العقاري"
+    "status": {
+      "ar": "قيد الإنشاء — استثمار حضري",
+      "en": "Under Construction — Urban Asset"
     },
-    "area": "16 Floors | Units from 46 SQM",
-    "roi": "12% - 17% Expected Annual Appreciation",
-    "brochureUrl": "#brochure-dididighomi",
-    "image": "/images/projects/didi-dighomi.jpg",
-    "description": {
-      "en": "A premier 16-storey residential and hotel-apartment tower in high-growth Tbilisi. Incorporating 24/7 security, high-tech surveillance, an exclusive 1,800 m² landscaped private park surrounding the tower, and a dedicated children's playroom. Offering units starting from 46 m² with market-leading flexible repayment terms, minimal down payment, and projected annual value appreciation of 12% to 17%.",
-      "ar": "برج سكني وفندقي فاخر يتكون من 16 طابقاً في أرقى مناطق تبليسي الواعدة استثمارياً. يضم حراسة أمنية متواصلة، كاميرات مراقبة، حديقة خضراء خاصة بمساحة 1,800 متر مربع تحيط بالبرج، ونادياً ترفيهياً للأطفال. تبدأ المساحات من 46 م² بأنظمة سداد ميسرة وأقل دفعة أولى مع عائد استثماري متوقع وزيادة سنوية في القيمة السوقية تتراوح بين 12% و 17%."
+    "area": {
+      "ar": "16 طابقاً فندقياً وتجارياً",
+      "en": "16 Hotel & Commercial Floors"
     },
-    "workPackages": [
-      { "en": "16-Storey Structural & Civil Construction", "ar": "أعمال الإنشاءات المدنية والهيكلية لبرج من 16 دوراً" },
-      { "en": "Hotel Apartments & Turnkey Architectural Finishing", "ar": "تشطيبات فندقية كاملة للشقق والمداخل الفاخرة" },
-      { "en": "1,800 m² Private Park & Landscaping", "ar": "حديقة خاصة ولاندسكيب بمساحة 1800 م²" },
-      { "en": "Smart Security, Surveillance & ELV Networks", "ar": "أنظمة الأمن الذكية والمراقبة والتحكم بالدخول" }
+    "hero": {
+      "eyebrow": {
+        "ar": "شقق فندقية عصرية · العاصمة تبليسي",
+        "en": "Smart Hotel Suites · Tbilisi Capital"
+      },
+      "title": {
+        "ar": "برج فندقي ذكي في المنطقة الأكثر نمواً في تبليسي",
+        "en": "Smart Hotel Tower in Tbilisi's Fastest Growing Corridor"
+      },
+      "subtitle": {
+        "ar": "فرصة استثمارية استثنائية في قلب العاصمة الجورجية، شقق فندقية حديثة بمساحات ذكية تبدأ من 46 م²، مع خدمات فندقية وإدارة تأجيرية متخصصة ومعدلات إشغال مرتفعة طوال فصول العام.",
+        "en": "An extraordinary urban investment opportunity in the heart of Georgia's capital. Contemporary serviced apartments starting from 46 m² with high year-round city occupancy."
+      },
+      "startingPrice": 52000,
+      "startingPriceText": {
+        "ar": "$52,000 دولار أمريكي",
+        "en": "$52,000 USD"
+      },
+      "downPayment": "25%",
+      "installmentYears": 2.5,
+      "deliveryYears": 1.5,
+      "cashDiscount": "10%",
+      "heroImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419253/golden-tower/gt_p10_1_3000x2000.jpg"
+    },
+    "locationSection": {
+      "headline": {
+        "ar": "موقع استراتيجي حيوي في العاصمة تبليسي",
+        "en": "Strategic Urban Hub in Bustling Tbilisi"
+      },
+      "description": {
+        "ar": "يتميز حي ديدي ديغومي بأنه أسرع مناطق تبليسي تطوراً وتوسعاً عمرانياً، ويضم كبرى المراكز التجارية والجامعات والمستشفيات الدولية، مع سهولة الوصول السريع إلى وسط المدينة والمدينة القديمة.",
+        "en": "Didi Dighomi is the most dynamically expanding residential and business sector of Tbilisi, neighboring top universities, international clinics, and shopping malls with express connectivity to Old Tbilisi."
+      },
+      "landmarks": [
+        {
+          "name": {
+            "ar": "تبليسي مول الدولي",
+            "en": "Tbilisi Mall"
+          },
+          "time": "7 دقائق"
+        },
+        {
+          "name": {
+            "ar": "الجامعة الطبية الجورجية ومجمع المستشفيات",
+            "en": "Medical University & Hospitals"
+          },
+          "time": "5 دقائق"
+        },
+        {
+          "name": {
+            "ar": "المدينة القديمة وسيتي سنتر",
+            "en": "Old Tbilisi Center"
+          },
+          "time": "18 دقيقة"
+        },
+        {
+          "name": {
+            "ar": "مطار تبليسي الدولي",
+            "en": "Tbilisi International Airport"
+          },
+          "time": "30 دقيقة"
+        }
+      ]
+    },
+    "lifestyleSection": {
+      "headline": {
+        "ar": "مواصفات برج فندقي متطور بمعايير الأبراج الذكية",
+        "en": "Smart Tower Specifications Crafted for High Yields"
+      },
+      "description": {
+        "ar": "يحتوي البرج على 16 طابقاً تشمل طوابق مخصصة للمتاجر والمطاعم الراقية في الطابق الأرضي، مواقف سيارات تحت الأرض مؤمنة، ونظام إدارة مبانٍ ذكي، ومصاعد فائقة السرعة، ونادٍ رياضي متكامل.",
+        "en": "The tower rises 16 storeys comprising ground-floor boutique retail, secured underground parking, smart HVAC automation, high-speed elevators, and a wellness fitness club."
+      },
+      "features": [
+        {
+          "title": {
+            "ar": "عائد تأجيري سنوي مستقر",
+            "en": "Resilient Capital Appreciation"
+          },
+          "desc": {
+            "ar": "طلب مرتفع جداً للإيجار من السياح ورجال الأعمال والطلاب الدوليين في تبليسي.",
+            "en": "Strong continuous tenancy demand from business travelers, tourists, and international professionals."
+          }
+        },
+        {
+          "title": {
+            "ar": "تراخيص فندقية وتجارية",
+            "en": "Commercial & Hotel Licensing"
+          },
+          "desc": {
+            "ar": "إمكانية استغلال الوحدات إما كسكن شخصي أو كوحدات فندقية مدارة بالكامل.",
+            "en": "Dual flexibility for executive residency or managed hotel pool rental."
+          }
+        }
+      ]
+    },
+    "pricingSection": {
+      "headline": {
+        "ar": "أسعار تنافسية في قلب العاصمة مع خطط سداد ميسرة",
+        "en": "Capital City Prices with Interest-Free Installments"
+      },
+      "description": {
+        "ar": "امتلك وحدتك الفندقية بمقدم يبدأ من 25% مع أقساط ميسرة تمتد حتى موعد الاستلام بدون أي فوائد.",
+        "en": "Own your serviced apartment with 25% down payment and flexible quarterly installments up to handover."
+      },
+      "cashDiscount": "10%",
+      "cashDiscountText": {
+        "ar": "خصم كاش 10%",
+        "en": "10% Cash Discount"
+      },
+      "deliveryFrom": "2026",
+      "delivery": {
+        "ar": "أواخر 2026",
+        "en": "Late 2026"
+      },
+      "priceRange": {
+        "ar": "تبدأ الأسعار من $52,000 إلى $95,000 دولار",
+        "en": "Prices range from $52,000 to $95,000 USD"
+      },
+      "downPaymentFrom": {
+        "ar": "مقدم 25%",
+        "en": "25% Down Payment"
+      },
+      "paymentPlans": [
+        {
+          "title": {
+            "ar": "خطة الأقساط الميسرة",
+            "en": "Flexible Installment Plan"
+          },
+          "downPayment": "25%",
+          "years": "30 شهراً",
+          "discount": "بدون فوائد"
+        }
+      ]
+    },
+    "phases": [
+      {
+        "id": "phase-residential-hotel",
+        "name": {
+          "ar": "أبراج الشقق الفندقية الذكية",
+          "en": "Smart Hotel Suites"
+        },
+        "badge": {
+          "ar": "قلب العاصمة تبليسي",
+          "en": "Tbilisi Capital"
+        },
+        "type": {
+          "ar": "أبراج فندقية",
+          "en": "Hotel Tower"
+        },
+        "status": {
+          "ar": "قيد الإنشاء",
+          "en": "Under Construction"
+        },
+        "startingPrice": 52000,
+        "downPayment": "25%",
+        "installments": 2.5,
+        "delivery": {
+          "ar": "أواخر 2026",
+          "en": "Late 2026"
+        },
+        "cashDiscount": "10%",
+        "description": {
+          "ar": "وحدات بتشطيبات أوروبية فاخرة وأنظمة منازل ذكية وإطلالات مفتوحة على مدينة تبليسي.",
+          "en": "European standard finishes with smart home automation and open panoramic city views."
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419253/golden-tower/gt_p10_1_3000x2000.jpg"
+      }
     ],
-    "specs": {
-      "Number of Floors": "16 Floors",
-      "Unit Sizes": "From 46 m² upwards",
-      "Private Gardens": "1,800 m² Surrounding Park",
-      "Expected ROI": "12% to 17% Annual Growth"
-    }
+    "units": [
+      {
+        "id": "didi-studio",
+        "phase": "phase-residential-hotel",
+        "category": {
+          "ar": "استوديو فندقي ذكي",
+          "en": "Smart Hotel Studio"
+        },
+        "name": {
+          "ar": "استوديو فندقي عصري",
+          "en": "Smart Urban Studio"
+        },
+        "type": {
+          "ar": "استوديو فندقي",
+          "en": "Hotel Studio"
+        },
+        "area": "46 م²",
+        "price": "$52,000",
+        "startingPriceText": {
+          "ar": "$52,000 دولار",
+          "en": "$52,000 USD"
+        },
+        "downPayment": "25%",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419259/golden-tower/gt_p11_1_1920x1080.jpg"
+      },
+      {
+        "id": "didi-one-bed",
+        "phase": "phase-residential-hotel",
+        "category": {
+          "ar": "شقة فندقية تنفيذية",
+          "en": "Executive Apartment"
+        },
+        "name": {
+          "ar": "شقة فندقية غرفة وصالة",
+          "en": "1-Bedroom Executive Suite"
+        },
+        "type": {
+          "ar": "شقة فندقية",
+          "en": "Serviced Apartment"
+        },
+        "area": "64 م²",
+        "price": "$72,000",
+        "startingPriceText": {
+          "ar": "$72,000 دولار",
+          "en": "$72,000 USD"
+        },
+        "downPayment": "25%",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419253/golden-tower/gt_p10_1_3000x2000.jpg"
+      }
+    ],
+    "deliveredTrackRecord": [
+      {
+        "name": {
+          "ar": "مشروعات البنية التحتية لمجموعة البرج الذهبي",
+          "en": "Golden Tower Infrastructure Works"
+        },
+        "status": {
+          "ar": "منجزة",
+          "en": "Delivered"
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419253/golden-tower/gt_p10_1_3000x2000.jpg"
+      }
+    ],
+    "deliveredSection": {
+      "eyebrow": {
+        "ar": "سجل المطور",
+        "en": "Developer Track Record"
+      },
+      "headline": {
+        "ar": "التزام راسخ بالجداول الزمنية والجودة الإنشائية",
+        "en": "Uncompromising Quality & Delivery Milestones"
+      },
+      "description": {
+        "ar": "تنفيذ إنشائي بأعلى معايير الهندسة القطرية والأوروبية مع شهادات الجودة المعتمدة.",
+        "en": "Engineered to premier European structural norms with full legal assurances."
+      }
+    },
+    "projectFaqs": [
+      {
+        "question": {
+          "ar": "هل تمنح جورجيا الإقامة العقارية للمشتري؟",
+          "en": "Does Georgia offer real estate residency to buyers?"
+        },
+        "answer": {
+          "ar": "نعم، يتيح شراء عقار بقيمة 100,000 دولار أمريكي فأكثر في جورجيا التقدم للحصول على الإقامة العقارية الرسمية للمستثمر وأفراد أسرته.",
+          "en": "Yes, property investments of $100,000 USD or above qualify the investor and immediate family for official Georgian residency."
+        }
+      }
+    ]
   },
-  {
-    "id": "grigoleti-beach-resort",
-    "slug": "grigoleti-beach-resort-black-sea",
-    "category": "georgia-mega",
-    "featured": true,
-    "title": {
-      "en": "Grigoleti Beach Hotel & Resort Residences",
-      "ar": "منتجع وفندق غريغوليتي الفاخر على البحر الأسود"
+  "montbella": {
+    "slug": "montbella",
+    "name": {
+      "ar": "منتجع مونتبلا رتاج الصحي (تسخالتوبو)",
+      "en": "Montbella Resort By Retaj (Tskaltubo)"
     },
     "location": {
-      "en": "Grigoleti Coastline, Black Sea, Georgia",
-      "ar": "ساحل غريغوليتي، البحر الأسود، جورجيا"
+      "ar": "مدينة تسخالتوبو التاريخية للاستشفاء، جورجيا",
+      "en": "Historic Tskaltubo Spa District, Georgia"
     },
-    "client": {
-      "en": "Golden Tower Group & Retaj Hotels & Hospitality",
-      "ar": "مجموعة البرج الذهبي بالشراكة مع رتاج للضيافة"
+    "status": {
+      "ar": "منتجع استشفائي تاريخي — 350 مفتاحاً",
+      "en": "Historic Thermal Sanatorium — 350 Keys"
     },
-    "area": "2,001 SQM Beachfront Plot",
-    "roi": "Premium Hospitality Seafront Yield",
-    "brochureUrl": "#brochure-grigoleti",
-    "image": "/images/projects/grigoleti-resort.jpg",
-    "description": {
-      "en": "A prestigious beachfront hotel-apartment retreat situated directly on the iconic Black Sea coastline, operated under Retaj Hotel Management. Positioned in a pristine strategic location 45 minutes from Batumi Airport, 15 minutes from the port city of Poti, 80 minutes from Kutaisi and the Turkish border, and only 5 km from the famous Ureki magnetic sand dunes station.",
-      "ar": "شقق فندقية فاخرة بإطلالة مباشرة على شاطئ البحر الأسود، تحت إدارة وتشغيل مجموعة فنادق رتاج. يتميز المنتجع بموقع استراتيجي استثنائي على بعد 45 دقيقة من مطار باتومي، و 15 دقيقة من ميناء بوتي، وساعة و 20 دقيقة من الحدود التركية ومطار كوتايسي، وعلى بعد 5 كم فقط من محطة أوريكي الشهيرة برمالها المغناطيسية العلاجية."
+    "area": {
+      "ar": "35,995 م² مساحة المنتجع",
+      "en": "35,995 m² Estate Grounds"
     },
-    "workPackages": [
-      { "en": "Seafront Hotel & Resort Construction", "ar": "إنشاء الفندق والمنتجع الساحلي المباشر" },
-      { "en": "Retaj 4-Star Standard Fit-out & Interior", "ar": "تشطيبات فندقية مطابقة لمعايير رتاج العالمية" },
-      { "en": "Coastal Structural Engineering & MEP Infrastructure", "ar": "الأعمال الإنشائية المقاومة للرطوبة البحرية والكهروميكانيك" },
-      { "en": "Beach Club, Pools & Leisure Amenities", "ar": "مرافق النادي الشاطئي والمسابح والمطاعم" }
+    "hero": {
+      "eyebrow": {
+        "ar": "صرح استشفائي عالمي · ينابيع تسخالتوبو",
+        "en": "World Health Resort · Tskaltubo Mineral Springs"
+      },
+      "title": {
+        "ar": "منتجع مونتبلا رتاج — عاصمة العلاج بالمياه المعدنية الطبيعية",
+        "en": "Montbella Resort By Retaj — Epicenter of Natural Radon Thermal Waters"
+      },
+      "subtitle": {
+        "ar": "أحد أعرق المعالم الاستشفائية التاريخية في جورجيا منذ القرن السابع الميلادي. 350 غرفة وجناحاً فندقياً، مسابح مياه معدنية طبيعية، ومركز طبي متكامل تحت إدارة مجموعة رتاج العالمية.",
+        "en": "One of Georgia's most renowned healing sanatoriums since the 7th century. 350 keys, natural radon bath sanctuaries, and a full medical spa under Retaj management."
+      },
+      "startingPrice": 75000,
+      "startingPriceText": {
+        "ar": "$75,000 دولار أمريكي",
+        "en": "$75,000 USD"
+      },
+      "downPayment": "25%",
+      "installmentYears": 3,
+      "deliveryYears": 2,
+      "cashDiscount": "12%",
+      "heroImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419281/golden-tower/gt_p16_1_3279x2186.jpg"
+    },
+    "locationSection": {
+      "headline": {
+        "ar": "في قلب تسخالتوبو — على بُعد 20 دقيقة من مطار كوتايسي الدولي",
+        "en": "In Historic Tskaltubo — 20 Minutes from Kutaisi Airport"
+      },
+      "description": {
+        "ar": "تعتبر تسخالتوبو من أشهر مدن العالم في السياحة العلاجية بفضل مياهها المعدنية المشعة بالرادون الطبيعي ذات درجات الحرارة الثابتة (33-35 درجة مئوية)، وتستقطب مئات الآلاف من الزوار سنوياً.",
+        "en": "Tskaltubo is world-renowned for its naturally warm (33-35°C) radon-carbonate mineral waters, historically sought by monarchs and today attracting wellness tourists year-round."
+      },
+      "landmarks": [
+        {
+          "name": {
+            "ar": "مطار كوتايسي الدولي",
+            "en": "Kutaisi International Airport"
+          },
+          "time": "20 دقيقة"
+        },
+        {
+          "name": {
+            "ar": "محمية كهف بروميثيوس الطبيعي",
+            "en": "Prometheus Cave Natural Reserve"
+          },
+          "time": "12 دقيقة"
+        },
+        {
+          "name": {
+            "ar": "ينابيع تسخالتوبو التاريخية والمحمية الوطنية",
+            "en": "Tskaltubo Central Mineral Park"
+          },
+          "time": "مباشرة 2 د"
+        }
+      ]
+    },
+    "lifestyleSection": {
+      "headline": {
+        "ar": "مرافق طبية وصحية فاخرة لا مثيل لها",
+        "en": "Unrivalled Medical & Thermal Wellness Facilities"
+      },
+      "description": {
+        "ar": "يضم المنتجع 350 مفتاحاً فاخراً ومراكز علاجية بالمياه الدافئة، غرف ملح طبيعية، صالات تدليك وعلاج طبيعي، ومطاعم صحية وحلال مع برامج إقامة استشفائية طويلة الأمد للزوار.",
+        "en": "Boasts 350 keys, radon bath hydrotherapy suites, Himalayan salt caves, physiotherapy clinics, and farm-to-table halal dining tailored for extended health recovery stays."
+      },
+      "features": [
+        {
+          "title": {
+            "ar": "مياه الرادون الطبيعية العلاجية",
+            "en": "Natural Healing Radon Waters"
+          },
+          "desc": {
+            "ar": "مياه دافئة تتدفق طبيعياً تعالج الجهاز العضلي الحركي والأمراض الجلدية والدورة الدموية.",
+            "en": "Constant 33-35°C spring waters known for curing musculoskeletal and cardiovascular ailments."
+          }
+        },
+        {
+          "title": {
+            "ar": "إشغال سياحي على مدار 365 يوماً",
+            "en": "365-Day Year-Round Demand"
+          },
+          "desc": {
+            "ar": "لا تعتمد السياحة العلاجية على فصل الصيف فقط، بل تمتد طوال العام بنسب إشغال عالية.",
+            "en": "Medical tourism sustains high occupancy in all 4 seasons, insulating yields from summer-only dips."
+          }
+        }
+      ]
+    },
+    "pricingSection": {
+      "headline": {
+        "ar": "استثمار صحي بعوائد مضمونة بالدولار",
+        "en": "Health Resort Investment with Resilient USD Yields"
+      },
+      "description": {
+        "ar": "خطط دفع ميسرة تبدأ من 25% مع إمكانية الانضمام إلى برنامج الإدارة الفندقية المشتركة لفنادق رتاج.",
+        "en": "Convenient payment structures starting from 25% with full enrollment in the Retaj rental management pool."
+      },
+      "cashDiscount": "12%",
+      "cashDiscountText": {
+        "ar": "خصم كاش 12%",
+        "en": "12% Cash Discount"
+      },
+      "deliveryFrom": "2027",
+      "delivery": {
+        "ar": "2027",
+        "en": "2027"
+      },
+      "priceRange": {
+        "ar": "تبدأ الأسعار من $75,000 إلى $160,000 دولار",
+        "en": "Prices range from $75,000 to $160,000 USD"
+      },
+      "downPaymentFrom": {
+        "ar": "مقدم 25%",
+        "en": "25% Down Payment"
+      },
+      "paymentPlans": [
+        {
+          "title": {
+            "ar": "خطة الاستثمار الميسرة",
+            "en": "Standard Wellness Plan"
+          },
+          "downPayment": "25%",
+          "years": "36 شهراً",
+          "discount": "بدون فوائد"
+        }
+      ]
+    },
+    "phases": [
+      {
+        "id": "montbella-hotel",
+        "name": {
+          "ar": "صرح أجنحة مونتبلا الاستشفائية",
+          "en": "Montbella Sanatorium Suites"
+        },
+        "badge": {
+          "ar": "ينابيع تسخالتوبو",
+          "en": "Tskaltubo Springs"
+        },
+        "type": {
+          "ar": "أجنحة فندقية واستشفائية",
+          "en": "Wellness Suites"
+        },
+        "status": {
+          "ar": "قيد التطوير والتجهيز",
+          "en": "Under Development"
+        },
+        "startingPrice": 75000,
+        "downPayment": "25%",
+        "installments": 3,
+        "delivery": {
+          "ar": "2027",
+          "en": "2027"
+        },
+        "cashDiscount": "12%",
+        "description": {
+          "ar": "مبنى تاريخي تم تطويره بأرقى التجهيزات المعمارية الأوروبية ليحتضن 350 مفتاحاً.",
+          "en": "Historic architectural monument retrofitted to 5-star European hospital standards with 350 keys."
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419281/golden-tower/gt_p16_1_3279x2186.jpg"
+      }
     ],
-    "specs": {
-      "Plot Size": "2,001 m² Directly on Sea",
-      "Drive to Batumi": "45 Minutes",
-      "Drive to Poti Port": "15 Minutes",
-      "Hospitality Operator": "Retaj Hotels & Hospitality"
-    }
+    "units": [
+      {
+        "id": "montbella-room",
+        "phase": "montbella-hotel",
+        "category": {
+          "ar": "أجنحة سبا واستشفاء",
+          "en": "Wellness Spa Suite"
+        },
+        "name": {
+          "ar": "غرفة استشفائية ديلوكس",
+          "en": "Deluxe Wellness Suite"
+        },
+        "type": {
+          "ar": "غرفة فندقية",
+          "en": "Hotel Suite"
+        },
+        "area": "42 م²",
+        "price": "$75,000",
+        "startingPriceText": {
+          "ar": "$75,000 دولار",
+          "en": "$75,000 USD"
+        },
+        "downPayment": "25%",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419281/golden-tower/gt_p16_1_3279x2186.jpg"
+      }
+    ],
+    "deliveredTrackRecord": [
+      {
+        "name": {
+          "ar": "شراكة فنادق رتاج العالمية والبرج الذهبي",
+          "en": "Retaj & Golden Tower Alliance"
+        },
+        "status": {
+          "ar": "قائم ومستمر",
+          "en": "Active & Established"
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419281/golden-tower/gt_p16_1_3279x2186.jpg"
+      }
+    ],
+    "deliveredSection": {
+      "eyebrow": {
+        "ar": "سياحة الاستشفاء التاريخية",
+        "en": "Heritage Healing"
+      },
+      "headline": {
+        "ar": "وجهة العلاج الطبيعي الأولى في القوقاز",
+        "en": "The Premier Natural Health Destination in the Caucasus"
+      },
+      "description": {
+        "ar": "تاريخ يمتد لقرون مع مياه معدنية طبيعية لا تُقدر بثمن.",
+        "en": "Centuries of documented wellness benefits with irreplaceable natural mineral springs."
+      }
+    },
+    "projectFaqs": [
+      {
+        "question": {
+          "ar": "ما هي الفوائد الطبية المثبتة لينابيع تسخالتوبو؟",
+          "en": "What are the proven health benefits of Tskaltubo springs?"
+        },
+        "answer": {
+          "ar": "تتميز المياه بالرادون الخفيف غير الضار الذي يخترق الجلد ويهدئ الالتهابات المفصلية، الروماتيزم، ضغط الدم، الصدفية، وأمراض الجهاز العصبي.",
+          "en": "The mild micro-radon bath therapy soothes osteoarthritis, rheumatism, circulation ailments, dermatological conditions, and nervous stress."
+        }
+      }
+    ]
   },
-  {
-    "id": "green-line-metro",
-    "slug": "doha-metro-green-line",
-    "category": "qatar-infrastructure",
-    "featured": true,
-    "title": {
-      "en": "Doha Metro – Green Line (Elevated & At-Grade)",
-      "ar": "مترو الدوحة – الخط الأخضر (الجسور والمسار الأرضي)"
+  "sera-retaj": {
+    "slug": "sera-retaj",
+    "name": {
+      "ar": "منتجع سيرا رتاج الجبلي",
+      "en": "Sera Retaj Mountain Resort"
     },
     "location": {
-      "en": "Doha, Qatar",
-      "ar": "الدوحة، دولة قطر"
+      "ar": "المرتفعات الجبلية الساحرة، جورجيا",
+      "en": "Highland Alpine Region, Georgia"
     },
-    "client": {
-      "en": "HBK Contracting Company / Qatar Rail",
-      "ar": "شركة حمد بن خالد للمقاولات (HBK) / سكك حديد قطر (الريل)"
+    "status": {
+      "ar": "شاليهات بيئية فاخرة — قيد التطوير",
+      "en": "Eco-Chalet Retreat — In Development"
     },
-    "area": "Multi-Kilometer Metro Transit Corridor",
-    "image": "/images/projects/metro-green-line.jpg",
-    "description": {
-      "en": "A cornerstone of Qatar's FIFA World Cup 2022 transport infrastructure. GTTC executed critical structural civil packages and precision erection of structural steel viaduct assemblies for the elevated and at-grade sections of the Doha Metro Green Line corridor.",
-      "ar": "أحد أهم مشاريع البنية التحتية القومية لشبكة قطارات قطر (الريل) لبطولة كأس العالم 2022. نفذت GTTC حزم الأعمال المدنية المعقدة وتركيب الهياكل الفولاذية الإنشائية للجسور العلوية والمحطات السطحية للخط الأخضر بأعلى درجات السلامة والدقة."
+    "area": {
+      "ar": "فيلات وشاليهات جبلية مستقلة",
+      "en": "Standalone Alpine Villas"
     },
-    "workPackages": [
-      { "en": "Civil Engineering & Ground Substructure Works", "ar": "الأعمال المدنية والإنشائية للمسارات والجسور" },
-      { "en": "Precision Erection of Heavy Steel Structures", "ar": "تركيب الهياكل الفولاذية الثقيلة لجسور ومحطات المترو" },
-      { "en": "Infrastructure Safety & Quality Auditing", "ar": "تطبيق أعلى اشتراطات الأمان المعتمدة من قطر ريل" }
+    "hero": {
+      "eyebrow": {
+        "ar": "سياحة بيئية فاخرة · جبال جورجيا",
+        "en": "Eco-Luxury Chalets · Georgia Highlands"
+      },
+      "title": {
+        "ar": "منتجع سيرا رتاج الجبلي — خصوصية مطلقة وسط أحضان الطبيعة",
+        "en": "Sera Retaj Mountain Resort — Absolute Alpine Privacy & Pure Serenity"
+      },
+      "subtitle": {
+        "ar": "شاليهات خشبية أوروبية فاخرة مستدامة وسط غابات القوقاز العذراء، صُممت للعائلات الباحثة عن الراحة التامة والسكينة والخصوصية مع خدمات ضيافة متكاملة من رتاج.",
+        "en": "European timber chalets nestled within Georgia's pristine pine mountain wilderness, crafted for families seeking absolute tranquility, privacy, and Retaj hospitality."
+      },
+      "startingPrice": 85000,
+      "startingPriceText": {
+        "ar": "$85,000 دولار أمريكي",
+        "en": "$85,000 USD"
+      },
+      "downPayment": "30%",
+      "installmentYears": 2.5,
+      "deliveryYears": 2,
+      "cashDiscount": "10%",
+      "heroImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419330/golden-tower/gt_p28_1_2316x3192.jpg"
+    },
+    "locationSection": {
+      "headline": {
+        "ar": "ملاذ جبلي ساحر بعيداً عن صخب الحياة الحضرية",
+        "en": "A Magical Highland Haven Far from Urban Noise"
+      },
+      "description": {
+        "ar": "يقع المنتجع بين قمم جبال جورجيا الشاهقة وسط هواء نقي وغابات كثيفة، ويوفر أنشطة سفاري، مسارات مشي جبلية، وتأمل طبيعي وإطلالات خيالية على الوديان الخضراء والثلوج شتاءً.",
+        "en": "Perched among towering mountain passes with crisp alpine breezes, offering hiking trails, stargazing terraces, winter snow fun, and sweeping green valley views."
+      },
+      "landmarks": [
+        {
+          "name": {
+            "ar": "الوديان ومحميات الغابات الطبيعية",
+            "en": "Forest Nature Reserve"
+          },
+          "time": "مباشرة 0 د"
+        },
+        {
+          "name": {
+            "ar": "منطقة الأنشطة والرياضات الجبلية",
+            "en": "Mountain Recreation Zone"
+          },
+          "time": "10 دقائق"
+        }
+      ]
+    },
+    "lifestyleSection": {
+      "headline": {
+        "ar": "شاليهات صديقة للبيئة بأعلى درجات الرفاهية والخصوصية",
+        "en": "Eco-Friendly Chalets Featuring 5-Star Seclusion"
+      },
+      "description": {
+        "ar": "تم بناء الشاليهات بمواد خشبية مستدامة تحافظ على البيئة، مع مدفأة حطب عصرية، جاكوزي خاص في الهواء الطلق بإطلالة جبلية، ومساحات حدائق خاصة محاطة بأسوار طبيعية لضمان الخصوصية العائلية الحلال.",
+        "en": "Architected with sustainable alpine timber, contemporary fireplaces, private open-air mountain Jacuzzis, and private botanical enclosures ensuring halal family privacy."
+      },
+      "features": [
+        {
+          "title": {
+            "ar": "خصوصية تامة 100%",
+            "en": "100% Guaranteed Privacy"
+          },
+          "desc": {
+            "ar": "تصميم ذكي يمنع أي كشف بصري للشاليهات مع مساحات خارجية خاصة لكل عائلة.",
+            "en": "Uncompromised layout ensuring complete visual privacy for families enjoying outdoor pools and sundecks."
+          }
+        },
+        {
+          "title": {
+            "ar": "عوائد تأجير سياحي موسمي مرتفع",
+            "en": "High-Yield Vacation Rentals"
+          },
+          "desc": {
+            "ar": "تعتبر الشاليهات الجبلية الخاصة الخيار الأول للسياح الخليجيين والأوروبيين في جورجيا بأسعار تأجير ليلية ممتازة.",
+            "en": "Private chalets are the #1 premium accommodation choice for Gulf and European holidaymakers."
+          }
+        }
+      ]
+    },
+    "pricingSection": {
+      "headline": {
+        "ar": "امتلك شاليهك الجبلي الخاص بأقساط ميسرة",
+        "en": "Own Your Private Alpine Chalet with Easy Installments"
+      },
+      "description": {
+        "ar": "احجز شاليهك الجبلي المستقل بمقدم 30% وأقساط ميسرة على 30 شهراً.",
+        "en": "Secure your standalone chalet with 30% down payment and 30 months installment schedule."
+      },
+      "cashDiscount": "10%",
+      "cashDiscountText": {
+        "ar": "خصم كاش 10%",
+        "en": "10% Cash Discount"
+      },
+      "deliveryFrom": "2027",
+      "delivery": {
+        "ar": "منتصف 2027",
+        "en": "Mid 2027"
+      },
+      "priceRange": {
+        "ar": "تبدأ الأسعار من $85,000 إلى $170,000 دولار",
+        "en": "Prices range from $85,000 to $170,000 USD"
+      },
+      "downPaymentFrom": {
+        "ar": "مقدم 30%",
+        "en": "30% Down Payment"
+      },
+      "paymentPlans": [
+        {
+          "title": {
+            "ar": "خطة الشاليه الميسرة",
+            "en": "Chalet Plan"
+          },
+          "downPayment": "30%",
+          "years": "30 شهراً",
+          "discount": "بدون فوائد"
+        }
+      ]
+    },
+    "phases": [
+      {
+        "id": "chalets-phase-1",
+        "name": {
+          "ar": "شاليهات القمة البانورامية",
+          "en": "Panoramic Summit Chalets"
+        },
+        "badge": {
+          "ar": "قمم الجبال الساحرة",
+          "en": "Alpine Summits"
+        },
+        "type": {
+          "ar": "فيلات وشاليهات خشبية",
+          "en": "Standalone Timber Villas"
+        },
+        "status": {
+          "ar": "قيد الإنشاء والتطوير",
+          "en": "Under Construction"
+        },
+        "startingPrice": 85000,
+        "downPayment": "30%",
+        "installments": 2.5,
+        "delivery": {
+          "ar": "منتصف 2027",
+          "en": "Mid 2027"
+        },
+        "cashDiscount": "10%",
+        "description": {
+          "ar": "شاليهات مستقلة بطابقين وتراسات مفتوحة على الغابات الجبلية العذراء.",
+          "en": "Two-storey detached chalets featuring open sundecks overlooking untouched mountain ridges."
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419330/golden-tower/gt_p28_1_2316x3192.jpg"
+      }
     ],
-    "specs": {
-      "Project Type": "Mega Transit Infrastructure",
-      "Main Contractor": "HBK Contracting Company",
-      "Authority": "Qatar Railways Company (Qatar Rail)"
-    }
-  },
-  {
-    "id": "msheireb-downtown",
-    "slug": "msheireb-downtown-doha",
-    "category": "qatar-infrastructure",
-    "featured": true,
-    "title": {
-      "en": "Msheireb Downtown Doha – Phase Regeneration",
-      "ar": "مشيرب قلب الدوحة – المدينة المستدامة الرائدة"
-    },
-    "location": {
-      "en": "Downtown Doha, Qatar",
-      "ar": "مشيرب، وسط الدوحة، قطر"
-    },
-    "client": {
-      "en": "Msheireb Properties / Gulf Steel & Engineering (GSE)",
-      "ar": "مشيرب العقارية / جلف ستيل للهندسة (GSE)"
-    },
-    "area": "Smart Sustainable Urban District",
-    "image": "/images/projects/msheireb.jpg",
-    "description": {
-      "en": "Execution of specialized structural steel erection works within Msheireb Downtown Doha — the world's premier certified sustainable downtown regeneration project, blending traditional Qatari heritage with futuristic smart building technologies.",
-      "ar": "تنفيذ أعمال تركيب الهياكل الإنشائية الفولاذية المعقدة في مشروع مشيرب قلب الدوحة، أول مشروع مستدام لتطوير وسط المدينة في العالم، والذي يجمع بين التراث المعماري القطري الأصيل وأحدث تقنيات المدن الذكية."
-    },
-    "workPackages": [
-      { "en": "Erection of Intricate Structural Steel Frameworks", "ar": "تركيب الهياكل الفولاذية المعمارية الدقيقة" },
-      { "en": "Heritage-Integrated Structural Connections", "ar": "ربط الهياكل الإنشائية بالواجهات التراثية المستدامة" }
+    "units": [
+      {
+        "id": "chalet-2bed",
+        "phase": "chalets-phase-1",
+        "category": {
+          "ar": "شاليهات جبلية فاخرة",
+          "en": "Luxury Alpine Chalet"
+        },
+        "name": {
+          "ar": "شاليه جبلي غرفتين وصالة وجاكوزي",
+          "en": "2-Bedroom Mountain Chalet with Jacuzzi"
+        },
+        "type": {
+          "ar": "شاليه مستقل",
+          "en": "Standalone Chalet"
+        },
+        "area": "78 م²",
+        "price": "$85,000",
+        "startingPriceText": {
+          "ar": "$85,000 دولار",
+          "en": "$85,000 USD"
+        },
+        "downPayment": "30%",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419330/golden-tower/gt_p28_1_2316x3192.jpg"
+      }
     ],
-    "specs": {
-      "Project Type": "World-First Sustainable Downtown",
-      "Green Rating": "LEED Platinum Standards"
-    }
-  },
-  {
-    "id": "lusail-plaza-lrt",
-    "slug": "lusail-plaza-and-lrt-stations",
-    "category": "qatar-infrastructure",
-    "featured": true,
-    "title": {
-      "en": "Lusail Plaza Infrastructure & LRT Public Car Park",
-      "ar": "بنية لوسيل بلازا ومحطات القطار الخفيف والمواقف العامة"
-    },
-    "location": {
-      "en": "Lusail City, Qatar",
-      "ar": "مدينة لوسيل، الدوحة، قطر"
-    },
-    "client": {
-      "en": "Blue Steel / Lusail Real Estate Development",
-      "ar": "بلو ستيل / شركة لوسيل للتطوير العقاري"
-    },
-    "area": "Multi-Level Underground & Surface Hub",
-    "image": "/images/projects/lusail-plaza.jpg",
-    "description": {
-      "en": "Execution and precision installation of structural steel frameworks, architectural canopies, and multi-tier cladding stories across the landmark Lusail Plaza Infrastructure and Light Rail Transit (LRT) station multi-level public car parks.",
-      "ar": "توريد وتركيب الهياكل الفولاذية الضخمة والمظلات وطبقات الكسوة المعمارية (Cladding Stories) لمحطات القطار الخفيف (LRT) والمواقف المتعددة الطوابق في لوسيل بلازا قلب مدينة المستقبل."
-    },
-    "workPackages": [
-      { "en": "Erection of Structural Steel & Space Frames", "ar": "تركيب الهياكل الفولاذية الإنشائية والإطارات الفضائية" },
-      { "en": "Architectural Metal Cladding Stories", "ar": "تركيب واجهات وتكسيات الكلادينج المتطورة" }
+    "deliveredTrackRecord": [
+      {
+        "name": {
+          "ar": "إدارة وتشغيل رتاج للضيافة الفندقية",
+          "en": "Retaj Hospitality Management"
+        },
+        "status": {
+          "ar": "إدارة معتمدة",
+          "en": "Accredited Management"
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419330/golden-tower/gt_p28_1_2316x3192.jpg"
+      }
     ],
-    "specs": {
-      "Location": "Lusail Financial Center",
-      "Application": "LRT Station & Multi-Level Public Transit"
-    }
-  },
-  {
-    "id": "katara-cultural-village",
-    "slug": "katara-cultural-village",
-    "category": "qatar-infrastructure",
-    "featured": false,
-    "title": {
-      "en": "Katara Cultural Village Landmark Packages",
-      "ar": "القرية الثقافية كتارا – حزم التطوير المدني"
+    "deliveredSection": {
+      "eyebrow": {
+        "ar": "إدارة رتاج الفندقية",
+        "en": "Retaj Hospitality"
+      },
+      "headline": {
+        "ar": "ضيافة خمس نجوم وسط نقاء الطبيعة",
+        "en": "5-Star Hospitality in Nature's Heart"
+      },
+      "description": {
+        "ar": "تجربة استجمام نادرة مصممة خصيصاً لأصحاب الذوق الرفيع.",
+        "en": "An exclusive lifestyle crafted for those who value privacy, health, and alpine luxury."
+      }
     },
-    "location": {
-      "en": "Katara Cultural Village, Doha, Qatar",
-      "ar": "كتارا، الحي الثقافي، الدوحة، قطر"
-    },
-    "client": {
-      "en": "Boom Construction & Abdulnoor Partners",
-      "ar": "شركة بوم للمقاولات ومجموعة عبد النور"
-    },
-    "area": "Cultural & Heritage Epicenter",
-    "image": "/images/projects/katara.jpg",
-    "description": {
-      "en": "Execution of specialized civil engineering works within Katara Cultural Village, ensuring immaculate adherence to traditional cultural architecture combined with modern civil durability.",
-      "ar": "تنفيذ حزم الأعمال المدنية التخصصية في القرية الثقافية كتارا، مع مراعاة أعلى معايير الحفاظ على الهوية المعمارية القطرية التراثية وجودة المنشآت المدنية."
-    },
-    "workPackages": [
-      { "en": "Civil Engineering & Structural Works", "ar": "الأعمال المدنية والإنشائية التخصصية" },
-      { "en": "Heritage-Grade Substructure Finishing", "ar": "تشطيبات الأساسات والهياكل المتوافقة مع الكود التراثي" }
-    ],
-    "specs": {
-      "Project Type": "National Cultural Landmark",
-      "Client": "Boom Construction / Katara Management"
-    }
-  },
-  {
-    "id": "lekhwiya-city",
-    "slug": "lekhwiya-city-military-complex",
-    "category": "qatar-infrastructure",
-    "featured": false,
-    "title": {
-      "en": "Lekhwiya City Security Forces Complex",
-      "ar": "مدينة لخويا – المجمع الأمني لقوة الأمن الداخلي"
-    },
-    "location": {
-      "en": "Duhail, Doha, Qatar",
-      "ar": "الدحيل، الدوحة، قطر"
-    },
-    "client": {
-      "en": "Saudi Binladin Group (SBG)",
-      "ar": "مجموعة بن لادن السعودية (SBG)"
-    },
-    "area": "National Defense & Security Campus",
-    "image": "/images/projects/lekhwiya.jpg",
-    "description": {
-      "en": "Erection of high-security structural steel frameworks and massive tactical infrastructure assemblies for the iconic Lekhwiya City security headquarters campus.",
-      "ar": "تركيب الهياكل الفولاذية الإنشائية المتينة للمباني الإدارية والمنشآت اللوجستية في مدينة لخويا لقوات الأمن الداخلي بالتعاون مع كبرى شركات المقاولات الإقليمية."
-    },
-    "workPackages": [
-      { "en": "Erection of Heavy Structural Steel Assemblies", "ar": "تركيب الهياكل الفولاذية الإنشائية فائقة المتانة" },
-      { "en": "Security-Grade Structural Rigidity Protocols", "ar": "تطبيق أعلى اشتراطات الصلابة والأمان الإنشائي" }
-    ],
-    "specs": {
-      "Client": "Saudi Binladin Group",
-      "Domain": "Security & Defense Mega Campus"
-    }
-  },
-  {
-    "id": "thuraya-tower",
-    "slug": "thuraya-tower-west-bay",
-    "category": "qatar-commercial",
-    "featured": false,
-    "title": {
-      "en": "Thuraya Tower High-Rise Development",
-      "ar": "برج الثريا التجاري الفاخر (الخليج الغربي)"
-    },
-    "location": {
-      "en": "West Bay, Doha, Qatar",
-      "ar": "منطقة الأبراج، الخليج الغربي، الدوحة، قطر"
-    },
-    "client": {
-      "en": "Al Bandary Real Estate / GSE",
-      "ar": "البندري للعقارات / جلف ستيل للهندسة"
-    },
-    "area": "Skyline High-Rise Tower",
-    "image": "/images/projects/thuraya-tower.jpg",
-    "description": {
-      "en": "Full structural steel installation, crown frameworks, and podium structural elements for the prominent Thuraya Tower on the Doha skyline.",
-      "ar": "تنفيذ أعمال تركيب الهياكل الإنشائية الفولاذية وهياكل تاج البرج والقاعدة الإنشائية (Podium) لأحد أبرز الأبراج التجارية في قلب العاصمة الدوحة."
-    },
-    "workPackages": [
-      { "en": "Erection of High-Rise Steel Structures", "ar": "تركيب الهياكل الفولاذية للأبراج الشاهقة" },
-      { "en": "Top Crown Steel & Façade Anchorage", "ar": "تثبيت الهيكل العلوي وتاج البرج وأعمال التدعيم" }
-    ],
-    "specs": {
-      "Tower Type": "Commercial & High-Rise",
-      "Client": "Al Bandary Real Estate"
-    }
-  },
-  {
-    "id": "lexus-showroom",
-    "slug": "lexus-luxury-automotive-showroom",
-    "category": "qatar-commercial",
-    "featured": false,
-    "title": {
-      "en": "Lexus Luxury Automotive Showroom",
-      "ar": "معرض سيارات لكزس الفاخر (عبد الله عبد الغني وإخوانه)"
-    },
-    "location": {
-      "en": "C-Ring Road, Doha, Qatar",
-      "ar": "طريق الدائري الثالث، الدوحة، قطر"
-    },
-    "client": {
-      "en": "Salam Enterprises / AAB Lexus",
-      "ar": "شركة السلام إنتربرايزس / لكزس قطر"
-    },
-    "area": "Luxury Commercial Showroom",
-    "image": "/images/projects/lexus-showroom.jpg",
-    "description": {
-      "en": "Supply, bespoke fabrication, and precision installation of specialized architectural steelworks, sleek mezzanines, and display fixtures for the flagship Lexus Qatar showroom.",
-      "ar": "تصنيع وتوريد وتركيب الأعمال الفولاذية المعمارية والميزانين المخصص والديكورات المعدنية الفاخرة لواجهة وصالة عرض سيارات لكزس الفارهة وفق أدق المعايير اليابانية."
-    },
-    "workPackages": [
-      { "en": "Supply & Installation of Architectural Steel Works", "ar": "توريد وتركيب الأعمال الفولاذية المعمارية" },
-      { "en": "Curved Canopies & Polished Showcase Framing", "ar": "المظلات المنحنية وإطارات العرض المصقولة" }
-    ],
-    "specs": {
-      "Client": "Salam Enterprises",
-      "Brand": "Lexus International"
-    }
-  },
-  {
-    "id": "muaither-sports-club",
-    "slug": "muaither-sports-club-ministry-of-sports",
-    "category": "qatar-infrastructure",
-    "featured": false,
-    "title": {
-      "en": "Muaither Sports Club – Ministry of Culture & Sports",
-      "ar": "نادي معيذر الرياضي – وزارة الثقافة والرياضة"
-    },
-    "location": {
-      "en": "Muaither, Al Rayyan, Qatar",
-      "ar": "معيذر، الريان، قطر"
-    },
-    "client": {
-      "en": "Ministry of Culture & Sports, Qatar",
-      "ar": "وزارة الثقافة والرياضة، دولة قطر"
-    },
-    "area": "Athletic Stadium & Club Facilities",
-    "image": "/images/projects/muaither.jpg",
-    "description": {
-      "en": "Civil works alongside the complete supply and precision erection of long-span structural steel roof trusses and grandstand assemblies for Muaither Sports Club.",
-      "ar": "تنفيذ الأعمال المدنية وتوريد وتركيب الهياكل الفولاذية وجملونات الأسقف للمدرجات والمرافق الرياضية المتكاملة في نادي معيذر التابع لوزارة الرياضة."
-    },
-    "workPackages": [
-      { "en": "Civil Construction of Club Facilities", "ar": "الأعمال المدنية لمباني النادي والمدرجات" },
-      { "en": "Supply & Erection of Long-Span Steel Roofs", "ar": "توريد وتركيب أسقف الهياكل الفولاذية للصالات" }
-    ],
-    "specs": {
-      "Authority": "Ministry of Culture & Sports Qatar",
-      "Type": "Sports Complex & Stadium"
-    }
-  },
-  {
-    "id": "qatar-national-library",
-    "slug": "new-national-library-qatar-foundation",
-    "category": "qatar-infrastructure",
-    "featured": false,
-    "title": {
-      "en": "New National Library (Education City)",
-      "ar": "مكتبة قطر الوطنية الجديدة (مؤسسة قطر)"
-    },
-    "location": {
-      "en": "Education City, Al Rayyan, Qatar",
-      "ar": "المدينة التعليمية، الريان، قطر"
-    },
-    "client": {
-      "en": "GSE / Qatar Foundation (QF)",
-      "ar": "جلف ستيل للهندسة / مؤسسة قطر للتربية والعلوم"
-    },
-    "area": "1,500 LM Car Park Guard Rail & Enclosure",
-    "image": "/images/projects/qf-library.jpg",
-    "description": {
-      "en": "Erection of architectural sandwich panels, insulated cladding, and specialized steel wire mesh, flat bars, and steel angle guard rails across 1,500 linear meters for the car park facilities.",
-      "ar": "تركيب ألواح الساندوتش بانل والكسوات المعمارية والشبك الفولاذي والدرابزينات الحديدية على امتداد 1,500 متر طولي لمواقف السيارات بمكتبة قطر الوطنية العالمية."
-    },
-    "workPackages": [
-      { "en": "Erection of Insulated Sandwich Panels & Cladding", "ar": "تركيب ألواح الساندوتش بانل والتكسيات العازلة" },
-      { "en": "Erection of 1,500 LM Steel Guard Rails & Mesh", "ar": "تركيب 1500 متر طولي من حواجز الشبك والدرابزين الفولاذي" }
-    ],
-    "specs": {
-      "Institution": "Qatar Foundation",
-      "Quantity": "1,500 Linear Meters Guard Rails"
-    }
-  },
-  {
-    "id": "rayyan-plaza",
-    "slug": "rayyan-plaza-hotel-and-office-complex",
-    "category": "qatar-commercial",
-    "featured": false,
-    "title": {
-      "en": "Rayyan Plaza Hotel & Office Complex",
-      "ar": "مجمع فندق ومكاتب الريان بلازا"
-    },
-    "location": {
-      "en": "Al Rayyan, Qatar",
-      "ar": "الريان، الدوحة، قطر"
-    },
-    "client": {
-      "en": "Arabtec Construction",
-      "ar": "شركة أرابتك للإنشاءات"
-    },
-    "area": "Hospitality & Corporate Complex",
-    "image": "/images/projects/rayyan-plaza.jpg",
-    "description": {
-      "en": "End-to-end material supply, workshop fabrication, multi-coat protective painting, and on-site erection of architectural steel handrails and safety barriers.",
-      "ar": "توريد المواد والتصنيع بمصانعنا وأعمال الدهانات المقاومة وتركيب درابزينات الفولاذ الإنشائي وحواجز الأمان لمجمع فندق ومكاتب الريان بلازا."
-    },
-    "workPackages": [
-      { "en": "Supply, Fabrication & Erection of Steel Handrails", "ar": "توريد وتصنيع وتركيب الدرابزينات الفولاذية" },
-      { "en": "Anti-Corrosion Painting & Surface Finishing", "ar": "الدهانات المعمارية المقاومة للعوامل الجوية" }
-    ],
-    "specs": {
-      "Main Contractor": "Arabtec Construction",
-      "Type": "Mixed-Use Hotel & Offices"
-    }
-  },
-  {
-    "id": "salam-tower",
-    "slug": "salam-tower-and-tunnel-infrastructure",
-    "category": "qatar-commercial",
-    "featured": false,
-    "title": {
-      "en": "Salam Tower & Tunnel Utility Infrastructure",
-      "ar": "برج السلام وبنية نفق الخدمات الميكانيكية"
-    },
-    "location": {
-      "en": "West Bay, Doha, Qatar",
-      "ar": "الخليج الغربي، الدوحة، قطر"
-    },
-    "client": {
-      "en": "GSE Salam",
-      "ar": "جلف ستيل للهندسة / مجموعة السلام"
-    },
-    "area": "Commercial Tower & Underground Tunnel",
-    "image": "/images/projects/salam-tower.jpg",
-    "description": {
-      "en": "Erection of structural steel frames, heavy structural steel supports, and industrial chequer plate tunnel covers protecting underground utility pipelines.",
-      "ar": "تركيب الهياكل الفولاذية الإنشائية والإطارات الحاملة وألواح الغطاء الصناعية (Chaqure Plates) لحماية مسارات أنابيب وأنفاق الخدمات الهندسية لبرج السلام."
-    },
-    "workPackages": [
-      { "en": "Erection of Structural Steel Frames & Supports", "ar": "تركيب الإطارات الفولاذية والدعامات الهيكلية" },
-      { "en": "Tunnel Pipe Chequer Plates & Utility Bridges", "ar": "ألواح التغطية الفولاذية للأنفاق وأنابيب الخدمات" }
-    ],
-    "specs": {
-      "Location": "West Bay Financial District",
-      "Application": "Tower Framing & Underground Pipeline Bridges"
-    }
-  },
-  {
-    "id": "industrial-workshop",
-    "slug": "industrial-area-workshops-and-offices",
-    "category": "steel-industrial",
-    "featured": false,
-    "title": {
-      "en": "Industrial Area Workshops & Office Extensions",
-      "ar": "ورش ومكاتب التوسعة بالمنطقة الصناعية (Gulf Steel & Meta)"
-    },
-    "location": {
-      "en": "Street 15 & Street 24, Industrial Area, Doha, Qatar",
-      "ar": "شارع 15 والمنطقة الصناعية، الدوحة، قطر"
-    },
-    "client": {
-      "en": "Gulf Steel / GSE Meta",
-      "ar": "جلف ستيل / ميتا للصناعات المعدنية"
-    },
-    "area": "Heavy Industrial Facilities",
-    "image": "/images/projects/industrial-workshop.jpg",
-    "description": {
-      "en": "Turnkey civil construction and heavy structural steel erection including high-capacity industrial tanks, monorail crane gantries, and automated conveyor support gantries.",
-      "ar": "تنفيذ الأعمال المدنية المتكاملة وتركيب الهياكل الفولاذية الثقيلة للصالات الصناعية وخزانات الوقود الضخمة وروافع المونوريل ودعامات السيور الناقلة."
-    },
-    "workPackages": [
-      { "en": "Civil Works & Deep Industrial Foundations", "ar": "الأعمال المدنية والأساسات الخرسانية الثقيلة" },
-      { "en": "Monorail Structure & Conveyor Supports", "ar": "هياكل روافع المونوريل ودعامات خطوط الإنتاج" },
-      { "en": "Heavy Steel Storage Tanks & Structural Erection", "ar": "خزانات فولاذية ثقيلة وهياكل جمالونات صناعية" }
-    ],
-    "specs": {
-      "Facility Type": "Heavy Steel Manufacturing & Storage",
-      "Location": "Doha Industrial Area"
-    }
+    "projectFaqs": [
+      {
+        "question": {
+          "ar": "هل تشمل إدارة رتاج تأجير الشاليه أثناء غياب المالك؟",
+          "en": "Does Retaj manage chalet rental when the owner is away?"
+        },
+        "answer": {
+          "ar": "نعم، يمكنك استخدام الشاليه لقضاء إجازاتك الخاصة مع عائلتك متى شئت، وفي أوقات غيابك تتولى إدارة رتاج تسويقه وتأجيره للسياح وتحويل الأرباح لحسابك مباشرة.",
+          "en": "Yes, you can holiday in your chalet whenever you wish, and during your absence Retaj handles marketing, guest stays, and transfers rental profits directly to you."
+        }
+      }
+    ]
   }
-]
+}

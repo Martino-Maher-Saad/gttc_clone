@@ -1,0 +1,602 @@
+{
+  "hero": {
+    "eyebrow": {
+      "ar": "البرج الذهبي ورتاج للضيافة · قطر وجورجيا",
+      "en": "GOLDEN TOWER & RETAJ · EST. 2004"
+    },
+    "titleLine1": {
+      "ar": "استثمارات فندقية فاخرة",
+      "en": "Luxury Hospitality Real Estate"
+    },
+    "titleLine2": {
+      "ar": "على ساحل البحر الأسود.",
+      "en": "on the Black Sea."
+    },
+    "description": {
+      "ar": "شراكة استراتيجية رائدة بين مجموعة البرج الذهبي وفنادق رتاج العالمية لتطوير فنادق ومنتجعات استشفائية رائدة في جورجيا، مع عوائد تأجيرية دورية بالدولار الأمريكي وسياحة عائلية حلال.",
+      "en": "A strategic alliance between Golden Tower Group and Retaj Hotels & Hospitality to develop landmark hospitality & health resorts across Georgia, delivering periodic USD returns and family halal tourism."
+    },
+    "ctaText": {
+      "ar": "اكتشف المشروعات",
+      "en": "Discover projects"
+    },
+    "ctaLink": "#projects",
+    "slides": [
+      {
+        "id": "g-retaj",
+        "title": {
+          "ar": "فندق ومنتجع جي-رتاج — شاطئ البحر الأسود",
+          "en": "G-RETAJ Resort — Black Sea Beachfront"
+        },
+        "counter": "01 / 04",
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419130/g-retaj/gretaj_p1_2_1536x1024.png"
+      },
+      {
+        "id": "didi-dighomi",
+        "title": {
+          "ar": "برج ديدي ديغومي — العاصمة تبليسي",
+          "en": "Didi Dighomi Tower — Tbilisi"
+        },
+        "counter": "02 / 04",
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419253/golden-tower/gt_p10_1_3000x2000.jpg"
+      },
+      {
+        "id": "montbella",
+        "title": {
+          "ar": "منتجع مونتبلا رتاج الصحي — تسخالتوبو",
+          "en": "Montbella Resort By Retaj — Tskaltubo"
+        },
+        "counter": "03 / 04",
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419281/golden-tower/gt_p16_1_3279x2186.jpg"
+      },
+      {
+        "id": "sera-retaj",
+        "title": {
+          "ar": "منتجع سيرا رتاج الجبلي — جورجيا",
+          "en": "Sera Retaj Mountain Resort — Georgia"
+        },
+        "counter": "04 / 04",
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419330/golden-tower/gt_p28_1_2316x3192.jpg"
+      }
+    ],
+    "copyright": "Golden Tower & Retaj · 2026",
+    "scrollHint": {
+      "ar": "اسحب للأسفل",
+      "en": "Scroll Down"
+    }
+  },
+  "projectsSection": {
+    "eyebrow": {
+      "ar": "المشروعات",
+      "en": "Projects"
+    },
+    "title": {
+      "ar": "مشروعاتنا الفندقية الكبرى في جورجيا",
+      "en": "Our Landmark Hospitality Developments in Georgia"
+    },
+    "subtitle": {
+      "ar": "أربعة مشروعات استثمارية فندقية كبرى تحت إدارة وتشغيل رتاج العالمية.",
+      "en": "Four prime hotel investment developments operated by Retaj Hotels & Hospitality."
+    },
+    "dragHint": {
+      "ar": "اسحب للتصفح",
+      "en": "Drag to browse"
+    },
+    "filters": {
+      "all": {
+        "ar": "الكل",
+        "en": "All"
+      },
+      "coastal": {
+        "ar": "ساحلي واستشفائي",
+        "en": "Coastal & Wellness"
+      },
+      "city": {
+        "ar": "فندقي حضري",
+        "en": "City Hotel"
+      }
+    },
+    "labels": {
+      "from": {
+        "ar": "التسليم في",
+        "en": "Delivery in"
+      },
+      "perMeter": {
+        "ar": "العائد المتوقع",
+        "en": "Expected ROI"
+      },
+      "currency": {
+        "ar": "USD",
+        "en": "USD"
+      },
+      "paymentSystem": {
+        "ar": "المواصفات",
+        "en": "Key Highlights"
+      },
+      "unitTypes": {
+        "ar": "أنواع الوحدات",
+        "en": "Unit Types"
+      },
+      "discover": {
+        "ar": "اكتشف المشروع",
+        "en": "Discover project"
+      },
+      "book": {
+        "ar": "طلب استشارة",
+        "en": "Inquire"
+      },
+      "tapForMore": {
+        "ar": "اضغط للتفاصيل",
+        "en": "Tap for details"
+      }
+    },
+    "projects": [
+      {
+        "id": "g-retaj",
+        "category": "coastal",
+        "tag": {
+          "ar": "ساحلي استثماري",
+          "en": "Coastal Investment"
+        },
+        "name": {
+          "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+          "en": "G-RETAJ Resort (Grigoleti)"
+        },
+        "location": {
+          "ar": "شاطئ البحر الأسود، جورجيا",
+          "en": "Black Sea Beachfront, Georgia"
+        },
+        "price": "منتصف 2027",
+        "priceLabelKey": "from",
+        "payment": {
+          "ar": "100% تسليم مفروش بالكامل",
+          "en": "100% Fully Furnished"
+        },
+        "unitTypes": {
+          "ar": [
+            "غرف ديلوكس",
+            "أجنحة تنفيذية",
+            "شرفات بحرية"
+          ],
+          "en": [
+            "Deluxe Rooms",
+            "Executive Suites",
+            "Sea Terraces"
+          ]
+        },
+        "description": {
+          "ar": "واجهة بحرية مباشرة على شاطئ الرمال المغناطيسية العلاجية، سياحة حلال عائلية، وإدارة وتشغيل فندقي معتمد من رتاج بعوائد دولارية.",
+          "en": "Direct beachfront on therapeutic magnetic sands, halal family tourism, and Retaj management delivering foreign currency rental yields."
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419202/g-retaj/gretaj_p5_2_1536x1024.png",
+        "href": "/g-retaj"
+      },
+      {
+        "id": "didi-dighomi",
+        "category": "city",
+        "tag": {
+          "ar": "أبراج فندقية",
+          "en": "Hotel Tower"
+        },
+        "name": {
+          "ar": "برج ديدي ديغومي للشقق الفندقية",
+          "en": "Didi Dighomi Hotel Tower"
+        },
+        "location": {
+          "ar": "حي ديدي ديغومي، العاصمة تبليسي",
+          "en": "Didi Dighomi District, Tbilisi"
+        },
+        "price": "12% - 17%",
+        "priceLabelKey": "perMeter",
+        "payment": {
+          "ar": "16 طابقاً فندقياً فاخراً",
+          "en": "16 Luxury Hotel Floors"
+        },
+        "unitTypes": {
+          "ar": [
+            "استوديوهات فندقية",
+            "شقق غرفة وصالة",
+            "شقق غرفتين"
+          ],
+          "en": [
+            "Hotel Studios",
+            "1-Bedroom Suites",
+            "2-Bedroom Suites"
+          ]
+        },
+        "description": {
+          "ar": "برج فندقي ذكي في قلب تبليسي بمساحات تبدأ من 46 م²، مساحات تجارية، ومواقف سيارات متطورة مع نمو رأسمالي سنوي متسارع.",
+          "en": "Smart hotel apartment tower in central Tbilisi with units starting from 46 m², retail plazas, and superior annual capital growth."
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419253/golden-tower/gt_p10_1_3000x2000.jpg",
+        "href": "/didi-dighomi"
+      },
+      {
+        "id": "montbella",
+        "category": "coastal",
+        "tag": {
+          "ar": "استشفاء طبيعي",
+          "en": "Thermal Wellness"
+        },
+        "name": {
+          "ar": "منتجع مونتبلا رتاج الصحي",
+          "en": "Montbella Resort By Retaj"
+        },
+        "location": {
+          "ar": "تسخالتوبو (20 دقيقة من مطار كوتايسي)",
+          "en": "Tskaltubo (20 Mins from Kutaisi Airport)"
+        },
+        "price": "350 مفتاح",
+        "priceLabelKey": "from",
+        "payment": {
+          "ar": "ينابيع معدنية استشفائية",
+          "en": "Thermal Mineral Healing"
+        },
+        "unitTypes": {
+          "ar": [
+            "غرف فندقية",
+            "أجنحة ملكية",
+            "نادي صحي وسبا"
+          ],
+          "en": [
+            "Guest Rooms",
+            "Royal Suites",
+            "Wellness & Spa"
+          ]
+        },
+        "description": {
+          "ar": "صرح استشفائي تاريخي عملاق على مساحة 35,995 م² يضم 350 مفتاحاً في موطن الينابيع العلاجية الطبيعية التي تعود للقرن السابع الميلادي.",
+          "en": "35,995 m² landmark healing sanatorium featuring 350 keys in historic Tskaltubo, famed since the 7th century for natural radon mineral baths."
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419281/golden-tower/gt_p16_1_3279x2186.jpg",
+        "href": "/montbella"
+      },
+      {
+        "id": "sera-retaj",
+        "category": "coastal",
+        "tag": {
+          "ar": "شاليهات جبلية",
+          "en": "Mountain Chalets"
+        },
+        "name": {
+          "ar": "منتجع سيرا رتاج الجبلي",
+          "en": "Sera Retaj Mountain Resort"
+        },
+        "location": {
+          "ar": "جورجيا الطبيعية",
+          "en": "Highland Georgia"
+        },
+        "price": "خصوصية تامة",
+        "priceLabelKey": "from",
+        "payment": {
+          "ar": "فيلات خشبية مستدامة",
+          "en": "Eco-Luxury Chalets"
+        },
+        "unitTypes": {
+          "ar": [
+            "شاليهات عائلية",
+            "فيلات فندقية"
+          ],
+          "en": [
+            "Family Chalets",
+            "Hotel Villas"
+          ]
+        },
+        "description": {
+          "ar": "شاليهات بيئية فاخرة وسط الغابات والجبال توفر أعلى درجات الخصوصية والراحة العائلية مع كامل الخدمات الفندقية المتميزة.",
+          "en": "Boutique eco-luxury chalets nestled in alpine highlands offering total privacy, serenity, and comprehensive 5-star hotel services."
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419330/golden-tower/gt_p28_1_2316x3192.jpg",
+        "href": "/sera-retaj"
+      }
+    ]
+  },
+  "whyMadinetMasr": {
+    "eyebrow": {
+      "ar": "لماذا البرج الذهبي ورتاج؟",
+      "en": "Why Golden Tower & Retaj?"
+    },
+    "title": {
+      "ar": "لماذا يثق كبار المستثمرين في تحالف البرج الذهبي وفنادق رتاج؟",
+      "en": "Why do leading investors trust the Golden Tower & Retaj Alliance?"
+    },
+    "pillars": [
+      {
+        "num": "01",
+        "title": {
+          "ar": "التملك الحر والضمان القانوني",
+          "en": "100% Freehold Ownership"
+        },
+        "content": {
+          "ar": "يمنح القانون الجورجي حق التملك الحر الكامل بنسبة 100% للأجانب مع صكوك ملكية رسمية صادرة من السجل العقاري الحكومي وإعفاء كامل من ضرائب الأملاك.",
+          "en": "Georgian legislation provides 100% unrestricted freehold ownership to foreign investors with official title deeds from the Public Registry and zero property tax."
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419093/g-retaj/gretaj_p14_2_1402x1122.png"
+      },
+      {
+        "num": "02",
+        "title": {
+          "ar": "الإدارة الفندقية العالمية",
+          "en": "Global Hospitality Management"
+        },
+        "content": {
+          "ar": "إدارة وتشغيل فندقي معتمد من مجموعة فنادق رتاج (Retaj Hotels) يضمن أعلى نسب إشغال، ثقة النزلاء، وإيرادات تأجيرية دورية بالدولار الأمريكي.",
+          "en": "Turnkey operation managed by Retaj Hotels & Hospitality guarantees optimal occupancy, guest loyalty, and periodic rental yields in USD."
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419240/g-retaj/gretaj_p8_3_1536x1024.png"
+      },
+      {
+        "num": "03",
+        "title": {
+          "ar": "السياحة الحلال والاستشفاء النادر",
+          "en": "Halal Tourism & Wellness"
+        },
+        "content": {
+          "ar": "بيئة فندقية راقية ومحافظة تراعي خصوصية العائلات الخليجية، بجانب الرمال المغناطيسية العلاجية والينابيع الطبيعية النادرة على مستوى العالم.",
+          "en": "Refined family-centric hospitality respecting GCC family privacy, paired with rare medicinal magnetic sands and historic natural thermal springs."
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419183/g-retaj/gretaj_p4_3_1402x1122.png",
+        "badges": [
+          "G-Retaj Resort",
+          "Montbella Spa",
+          "Didi Dighomi",
+          "Sera Retaj"
+        ]
+      }
+    ]
+  },
+  "trackRecord": {
+    "eyebrow": {
+      "ar": "سابقة الأعمال والإنجازات",
+      "en": "Track Record & Milestones"
+    },
+    "titleLine1": {
+      "ar": "شراكات استراتيجية وعمران ذو قيمة.",
+      "en": "Strategic alliances and value-driven developments."
+    },
+    "titleLine2": {
+      "ar": "أصول فندقية واستثمارية راسخة.",
+      "en": "Enduring hospitality and investment assets."
+    },
+    "description": {
+      "ar": "سجل حافل من المشاريع الوطنية الكبرى بدولة قطر والتوسعات الفندقية الرائدة في جورجيا بالشراكة مع فنادق رتاج العالمية.",
+      "en": "A celebrated track record of major civil infrastructure in Qatar and prime hospitality expansions across Georgia with Retaj Hotels."
+    },
+    "communities": [
+      {
+        "num": "01",
+        "status": {
+          "ar": "مسلّم بنجاح",
+          "en": "Delivered"
+        },
+        "name": {
+          "ar": "مترو الدوحة (الخط الأخضر)",
+          "en": "Doha Metro (Green Line)"
+        },
+        "location": {
+          "ar": "الدوحة، دولة قطر",
+          "en": "Doha, Qatar"
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792421007/projects/metro-green-line.jpg"
+      },
+      {
+        "num": "02",
+        "status": {
+          "ar": "مسلّم بنجاح",
+          "en": "Delivered"
+        },
+        "name": {
+          "ar": "مشيرب قلب الدوحة (المرحلة 4)",
+          "en": "Msheireb Downtown (Phase 4)"
+        },
+        "location": {
+          "ar": "مشيرب، الدوحة",
+          "en": "Msheireb, Doha"
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792421008/projects/msheireb.jpg"
+      },
+      {
+        "num": "03",
+        "status": {
+          "ar": "مسلّم بنجاح",
+          "en": "Delivered"
+        },
+        "name": {
+          "ar": "أبراج وترام لوسيل بلازا",
+          "en": "Lusail Plaza LRT Interchanges"
+        },
+        "location": {
+          "ar": "مدينة لوسيل، قطر",
+          "en": "Lusail Smart City, Qatar"
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792421007/projects/lusail-plaza.jpg"
+      },
+      {
+        "num": "04",
+        "status": {
+          "ar": "16 طابقاً",
+          "en": "16 Floors"
+        },
+        "name": {
+          "ar": "برج ديدي ديغومي للشقق الفندقية",
+          "en": "Didi Dighomi Hotel Tower"
+        },
+        "location": {
+          "ar": "العاصمة تبليسي، جورجيا",
+          "en": "Tbilisi, Georgia"
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419253/golden-tower/gt_p10_1_3000x2000.jpg"
+      }
+    ]
+  },
+  "lifestyle": {
+    "eyebrow": {
+      "ar": "أسلوب الحياة والاستشفاء",
+      "en": "Lifestyle & Wellness"
+    },
+    "title": {
+      "ar": "ضيافة فندقية راقية ووجهات استشفائية نادرة",
+      "en": "Premier Hospitality & Rare Natural Sanctuaries"
+    },
+    "features": [
+      {
+        "title": {
+          "ar": "الرمال السوداء المغناطيسية",
+          "en": "Medicinal Magnetic Sands"
+        },
+        "description": {
+          "ar": "شواطئ غريغوليتي النادرة الغنية بالمعادن الطبيعية التي تساعد في تنشيط الدورة الدموية وعلاج آلام المفاصل والروماتيزم للكبار والأطفال.",
+          "en": "Grigoleti's rare coastal sands rich in natural minerals, stimulating blood circulation and easing joint fatigue for all ages."
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419183/g-retaj/gretaj_p4_3_1402x1122.png"
+      },
+      {
+        "title": {
+          "ar": "الينابيع الحارة والمياه المعدنية",
+          "en": "Thermal Springs & Mineral Baths"
+        },
+        "description": {
+          "ar": "منتجع مونتبلا في تسخالتوبو التاريخية، موطن المياه الاستشفائية المعالجة ذات الخصائص الطبية العريقة منذ القرن السابع الميلادي.",
+          "en": "Montbella Resort in historic Tskaltubo, home to legendary therapeutic mineral radon waters celebrated since the 7th century."
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419281/golden-tower/gt_p16_1_3279x2186.jpg"
+      },
+      {
+        "title": {
+          "ar": "الضيافة الحلال والخصوصية التامة",
+          "en": "Halal Family Hospitality & Privacy"
+        },
+        "description": {
+          "ar": "معايير ضيافة فندقية محافظة ومعتمدة من مجموعة رتاج، توفر أجواء راقية ومريحة تلبي تطلعات العائلات الخليجية والعربية.",
+          "en": "Conservative 5-star hospitality certified by Retaj, offering dignified comfort tailored for GCC and Arab families."
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419093/g-retaj/gretaj_p14_2_1402x1122.png"
+      },
+      {
+        "title": {
+          "ar": "المطاعم العالمية والتجارب المذاقية",
+          "en": "Fine Dining & Gourmet Cuisine"
+        },
+        "description": {
+          "ar": "تشكيلة من المطاعم الراقية التي تقدم أشهى الأطباق الشرقية والعالمية المحضرة على يد أمهر الطهاة لضمان تجربة فندقية متكاملة.",
+          "en": "Fine dining restaurants offering curated Oriental and international culinary journeys crafted by master chefs."
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419240/g-retaj/gretaj_p8_3_1536x1024.png"
+      }
+    ]
+  },
+  "footer": {
+    "about": {
+      "ar": "شراكة استراتيجية رائدة بين مجموعة البرج الذهبي للتجارة والمقاولات (GTTC) ومجموعة فنادق رتاج العالمية (Retaj Hotels) لتطوير وإدارة مشروعات فندقية واستشفائية فاخرة في دولة قطر وجمهورية جورجيا.",
+      "en": "A premier strategic alliance between Golden Tower Group (GTTC) and Retaj Hotels & Hospitality to develop and operate luxury hotel and wellness resorts across Qatar and Georgia."
+    },
+    "quickLinksTitle": {
+      "ar": "روابط سريعة",
+      "en": "Quick Links"
+    },
+    "contactTitle": {
+      "ar": "معلومات الاتصال",
+      "en": "Contact Us"
+    },
+    "phone": "+974 4450 8659",
+    "email": "info@gttc.co",
+    "address": {
+      "ar": "برج بروة 1، الطابق التاسع، السد، الدوحة، قطر",
+      "en": "Barwa Tower 1, 9th Floor, Al Sadd, Doha, Qatar"
+    },
+    "cta": {
+      "headline": {
+        "ar": "ابدأ استثمارك الفندقي الآمن مع البرج الذهبي وفنادق رتاج",
+        "en": "Start Your Secure Hospitality Investment with Golden Tower & Retaj"
+      },
+      "sub": {
+        "ar": "تواصل مع المكتب الاستشاري التنفيذي لحجز وحدتك الفندقية والحصول على جداول الأسعار وخطط السداد.",
+        "en": "Connect with our executive advisory desk to reserve your hotel suite and obtain pricing schedules."
+      },
+      "button": {
+        "ar": "احجز الآن — طلب استشارة",
+        "en": "Book Now — Inquire Today"
+      }
+    }
+  },
+  "floating": {
+    "bookNow": {
+      "ar": "احجز الآن",
+      "en": "Book Now"
+    },
+    "whatsappLabel": {
+      "ar": "تواصل عبر واتساب",
+      "en": "WhatsApp Direct"
+    },
+    "whatsappMessage": {
+      "ar": "مرحباً، أود الاستفسار عن فرص الاستثمار في فندق ومنتجع جي-رتاج (جورجيا).",
+      "en": "Hello, I am interested in G-RETAJ HOTEL & RESORT investment opportunities in Georgia."
+    },
+    "callLabel": {
+      "ar": "اتصل بنا الآن",
+      "en": "Call Us Directly"
+    },
+    "phone": "+97444508659",
+    "whatsapp": "+97444508659"
+  },
+  "lifestyleFeatures": {
+    "eyebrow": {
+      "ar": "أسلوب الحياة والاستشفاء",
+      "en": "Lifestyle & Wellness"
+    },
+    "title": {
+      "ar": "ضيافة فندقية راقية ووجهات استشفائية نادرة",
+      "en": "Premier Hospitality & Rare Natural Sanctuaries"
+    },
+    "features": [
+      {
+        "id": "security",
+        "title": {
+          "ar": "الرمال السوداء المغناطيسية",
+          "en": "Medicinal Magnetic Sands"
+        },
+        "desc": {
+          "ar": "شواطئ غريغوليتي النادرة الغنية بالمعادن الطبيعية التي تساعد في تنشيط الدورة الدموية وعلاج آلام المفاصل والروماتيزم للكبار والأطفال.",
+          "en": "Grigoleti's rare coastal sands rich in natural minerals, stimulating blood circulation and easing joint fatigue for all ages."
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419183/g-retaj/gretaj_p4_3_1402x1122.png"
+      },
+      {
+        "id": "community",
+        "title": {
+          "ar": "الينابيع الحارة والمياه المعدنية",
+          "en": "Thermal Springs & Mineral Baths"
+        },
+        "desc": {
+          "ar": "منتجع مونتبلا في تسخالتوبو التاريخية، موطن المياه الاستشفائية المعالجة ذات الخصائص الطبية العريقة منذ القرن السابع الميلادي.",
+          "en": "Montbella Resort in historic Tskaltubo, home to legendary therapeutic mineral radon waters celebrated since the 7th century."
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419281/golden-tower/gt_p16_1_3279x2186.jpg"
+      },
+      {
+        "id": "finishing",
+        "title": {
+          "ar": "الضيافة الحلال والخصوصية التامة",
+          "en": "Halal Family Hospitality & Privacy"
+        },
+        "desc": {
+          "ar": "معايير ضيافة فندقية محافظة ومعتمدة من مجموعة رتاج، توفر أجواء راقية ومريحة تلبي تطلعات العائلات الخليجية والعربية.",
+          "en": "Conservative 5-star hospitality certified by Retaj, offering dignified comfort tailored for GCC and Arab families."
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419093/g-retaj/gretaj_p14_2_1402x1122.png"
+      },
+      {
+        "id": "design",
+        "title": {
+          "ar": "المطاعم العالمية والتجارب المذاقية",
+          "en": "Fine Dining & Gourmet Cuisine"
+        },
+        "desc": {
+          "ar": "تشكيلة من المطاعم الراقية التي تقدم أشهى الأطباق الشرقية والعالمية المحضرة على يد أمهر الطهاة لضمان تجربة فندقية متكاملة.",
+          "en": "Fine dining restaurants offering curated Oriental and international culinary journeys crafted by master chefs."
+        },
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419240/g-retaj/gretaj_p8_3_1536x1024.png"
+      }
+    ]
+  }
+}
