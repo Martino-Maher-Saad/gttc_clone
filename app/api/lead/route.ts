@@ -52,7 +52,7 @@ export async function POST(req: Request) {
     // 2. Google Sheets Webhook integration
     const webhookUrl =
       process.env.GOOGLE_SHEET_WEBHOOK_URL ||
-      "https://script.google.com/macros/s/AKfycbzamZCtiAzG_Rx2Gzi2p_OtzR7cme7w5queA8ExEmnXMAkdRTyVZTONCO8DpFEyIxk/exec";
+      "https://script.google.com/macros/s/AKfycbwzJlIw5zB5bOzyOM6FYfSGkMkoFedO561-lkkAEw9ZYl6uvsim68xVfIbEGIo-Lg/exec";
     if (webhookUrl) {
       try {
         await fetch(webhookUrl, {
