@@ -14,12 +14,25 @@ export async function POST(req: Request) {
       );
     }
 
+    const now = new Date();
+    const formattedDate = now.toLocaleString("ar-EG", {
+      timeZone: "Africa/Cairo",
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+      hour: "2-digit",
+      minute: "2-digit",
+      second: "2-digit",
+      hour12: true,
+    });
+
     const lead = {
-      timestamp: new Date().toISOString(),
-      name: name || "Anonymous",
-      phone,
-      project: project || "g-retaj",
-      notes: notes || "",
+      date: formattedDate,
+      timestamp: now.toISOString(),
+      name: name?.trim() || "بدون اسم",
+      phone: phone.trim(),
+      project: project || "فندق ومنتجع جي-رتاج",
+      notes: notes?.trim() || "",
     };
 
     // 1. Local backup in data/leads_backup.json
@@ -36,14 +49,17 @@ export async function POST(req: Request) {
       console.error("Failed to save lead locally:", fsErr);
     }
 
-    // 2. Google Sheets Webhook integration if configured
-    const webhookUrl = process.env.GOOGLE_SHEET_WEBHOOK_URL;
+    // 2. Google Sheets Webhook integration
+    const webhookUrl =
+      process.env.GOOGLE_SHEET_WEBHOOK_URL ||
+      "https://script.google.com/macros/s/AKfycbzamZCtiAzG_Rx2Gzi2p_OtzR7cme7w5queA8ExEmnXMAkdRTyVZTONCO8DpFEyIxk/exec";
     if (webhookUrl) {
       try {
         await fetch(webhookUrl, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify(lead),
+          redirect: "follow",
         });
       } catch (sheetErr) {
         console.error("Failed to post to Google Sheets webhook:", sheetErr);

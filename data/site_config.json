@@ -30,10 +30,10 @@
     ]
   },
   "contact": {
-    "phone": "+97444508659",
-    "display_phone": "+974 4450 8659",
-    "whatsapp": "+97444508659",
-    "display_whatsapp": "+974 4450 8659",
+    "phone": "+201015626755",
+    "display_phone": "01015626755",
+    "whatsapp": "+201146659065",
+    "display_whatsapp": "01146659065",
     "email": "info@gttc.co",
     "address_ar": "برج بروة 1، الطابق التاسع، شارع سحيم بن حمد، السد، الدوحة، قطر",
     "address_en": "Barwa Tower 1, 9th Floor, Suhaim Bin Hamad St, Al Sadd, Doha, Qatar",
@@ -49,7 +49,7 @@
   "nav": {
     "ar": [
       {
-        "label": "الرئيسية (جي-رتاج)",
+        "label": "الرئيسية",
         "href": "/"
       },
       {
@@ -71,7 +71,7 @@
     ],
     "en": [
       {
-        "label": "Home (G-RETAJ)",
+        "label": "Home",
         "href": "/en"
       },
       {

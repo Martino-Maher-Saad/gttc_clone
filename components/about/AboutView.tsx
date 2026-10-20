@@ -82,7 +82,7 @@ export default function AboutView({ isEn = false }: AboutViewProps) {
 
             <div className="lg:col-span-5 relative aspect-[4/3] rounded-sm overflow-hidden border border-white/10 shadow-2xl">
               <Image
-                src="https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419202/g-retaj/gretaj_p5_2_1536x1024.png"
+                src="https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491173/gttc/general/general_tourism_partner_p16_3279x2186_cd4842.jpg"
                 alt="Golden Tower & Retaj Alliance"
                 fill
                 sizes="(min-width: 1024px) 40vw, 100vw"

@@ -39,7 +39,7 @@
       "installmentYears": 3,
       "deliveryYears": 1.5,
       "cashDiscount": "12%",
-      "heroImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419202/g-retaj/gretaj_p5_2_1536x1024.png"
+      "heroImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792490896/gttc/g-retaj/gretaj_pdf1_p05_1536x1024_4dee59.png"
     },
     "locationSection": {
       "headline": {
@@ -226,7 +226,7 @@
           "ar": "إطلالات بانورامية خلابة ومباشرة على زرقة البحر الأسود وغروب الشمس مع شرفات استرخاء واسعة.",
           "en": "Panoramic vistas overlooking the Black Sea and golden sunsets with generous relaxing terraces."
         },
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419130/g-retaj/gretaj_p1_2_1536x1024.png"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792490711/gttc/g-retaj/gretaj_pdf1_p01_1536x1024_e4180d.png"
       },
       {
         "id": "pine-wellness",
@@ -258,7 +258,7 @@
           "ar": "مطلة على غابات الصنوبر الساحلية العطرة، قريبة من النادي الصحي ومركز العلاج بالرمال المغناطيسية.",
           "en": "Overlooking aromatic maritime pine reserves, immediate access to spa and magnetotherapy pavilions."
         },
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419240/g-retaj/gretaj_p8_3_1536x1024.png"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792490941/gttc/g-retaj/gretaj_pdf1_p08_1536x1024_df8d64.png"
       }
     ],
     "units": [
@@ -286,8 +286,8 @@
         "downPayment": "20%",
         "bedrooms": 1,
         "bathrooms": 1,
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419093/g-retaj/gretaj_p14_2_1402x1122.png",
-        "floorPlan": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419161/g-retaj/gretaj_p3_2_1304x978.png"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491014/gttc/g-retaj/gretaj_pdf1_p14_1402x1122_ee0c76.png",
+        "floorPlan": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792490850/gttc/g-retaj/gretaj_pdf1_p03_1304x978_d7f0ec.png"
       },
       {
         "id": "one-bed-suite",
@@ -313,8 +313,8 @@
         "downPayment": "20%",
         "bedrooms": 1,
         "bathrooms": 1,
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419103/g-retaj/gretaj_p15_1_1536x1024.png",
-        "floorPlan": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419161/g-retaj/gretaj_p3_2_1304x978.png"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491006/gttc/g-retaj/gretaj_pdf1_p15_1536x1024_c213de.png",
+        "floorPlan": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792490850/gttc/g-retaj/gretaj_pdf1_p03_1304x978_d7f0ec.png"
       },
       {
         "id": "two-bed-royal",
@@ -340,8 +340,8 @@
         "downPayment": "20%",
         "bedrooms": 2,
         "bathrooms": 2,
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419118/g-retaj/gretaj_p16_3_1536x1024.png",
-        "floorPlan": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419161/g-retaj/gretaj_p3_2_1304x978.png"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491033/gttc/g-retaj/gretaj_pdf1_p16_1536x1024_177adc.png",
+        "floorPlan": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792490850/gttc/g-retaj/gretaj_pdf1_p03_1304x978_d7f0ec.png"
       }
     ],
     "deliveredTrackRecord": [
@@ -354,7 +354,7 @@
           "ar": "منجزة بنجاح منذ 2004",
           "en": "Delivered successfully since 2004"
         },
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419253/golden-tower/gt_p10_1_3000x2000.jpg"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491091/gttc/didi-dighomi/didi_dighomi_p07_1280x720_1b8a48.jpg"
       },
       {
         "name": {
@@ -365,7 +365,7 @@
           "ar": "تشغيل فندقي عالمي حاصل على جوائز",
           "en": "Award-winning international hospitality"
         },
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419202/g-retaj/gretaj_p5_2_1536x1024.png"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792490896/gttc/g-retaj/gretaj_pdf1_p05_1536x1024_4dee59.png"
       },
       {
         "name": {
@@ -376,7 +376,7 @@
           "ar": "قيد الإنجاز والتسليم المتتابع",
           "en": "Under delivery & execution"
         },
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419281/golden-tower/gt_p16_1_3279x2186.jpg"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491142/gttc/montbella/montbella_p75_2808x1874_87a9f7.jpg"
       }
     ],
     "deliveredSection": {
@@ -476,7 +476,7 @@
       "installmentYears": 2.5,
       "deliveryYears": 1.5,
       "cashDiscount": "10%",
-      "heroImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419253/golden-tower/gt_p10_1_3000x2000.jpg"
+      "heroImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491091/gttc/didi-dighomi/didi_dighomi_p07_1280x720_1b8a48.jpg"
     },
     "locationSection": {
       "headline": {
@@ -620,7 +620,7 @@
           "ar": "وحدات بتشطيبات أوروبية فاخرة وأنظمة منازل ذكية وإطلالات مفتوحة على مدينة تبليسي.",
           "en": "European standard finishes with smart home automation and open panoramic city views."
         },
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419253/golden-tower/gt_p10_1_3000x2000.jpg"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491095/gttc/didi-dighomi/didi_dighomi_p07_1280x720_dd69e8.jpg"
       }
     ],
     "units": [
@@ -648,7 +648,7 @@
         "downPayment": "25%",
         "bedrooms": 1,
         "bathrooms": 1,
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419259/golden-tower/gt_p11_1_1920x1080.jpg"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491093/gttc/didi-dighomi/didi_dighomi_p07_1280x720_29fac4.jpg"
       },
       {
         "id": "didi-one-bed",
@@ -674,7 +674,7 @@
         "downPayment": "25%",
         "bedrooms": 1,
         "bathrooms": 1,
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419253/golden-tower/gt_p10_1_3000x2000.jpg"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491098/gttc/didi-dighomi/didi_dighomi_p07_960x1280_1943b2.jpg"
       }
     ],
     "deliveredTrackRecord": [
@@ -687,7 +687,7 @@
           "ar": "منجزة",
           "en": "Delivered"
         },
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419253/golden-tower/gt_p10_1_3000x2000.jpg"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491091/gttc/didi-dighomi/didi_dighomi_p07_1280x720_1b8a48.jpg"
       }
     ],
     "deliveredSection": {
@@ -757,7 +757,7 @@
       "installmentYears": 3,
       "deliveryYears": 2,
       "cashDiscount": "12%",
-      "heroImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419281/golden-tower/gt_p16_1_3279x2186.jpg"
+      "heroImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491142/gttc/montbella/montbella_p75_2808x1874_87a9f7.jpg"
     },
     "locationSection": {
       "headline": {
@@ -894,7 +894,7 @@
           "ar": "مبنى تاريخي تم تطويره بأرقى التجهيزات المعمارية الأوروبية ليحتضن 350 مفتاحاً.",
           "en": "Historic architectural monument retrofitted to 5-star European hospital standards with 350 keys."
         },
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419281/golden-tower/gt_p16_1_3279x2186.jpg"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491119/gttc/montbella/montbella_p59_1536x1024_ed6d38.jpg"
       }
     ],
     "units": [
@@ -922,7 +922,7 @@
         "downPayment": "25%",
         "bedrooms": 1,
         "bathrooms": 1,
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419281/golden-tower/gt_p16_1_3279x2186.jpg"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491128/gttc/montbella/montbella_p70_1536x1024_2fd450.jpg"
       }
     ],
     "deliveredTrackRecord": [
@@ -935,7 +935,7 @@
           "ar": "قائم ومستمر",
           "en": "Active & Established"
         },
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419281/golden-tower/gt_p16_1_3279x2186.jpg"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491142/gttc/montbella/montbella_p75_2808x1874_87a9f7.jpg"
       }
     ],
     "deliveredSection": {
@@ -1005,7 +1005,7 @@
       "installmentYears": 2.5,
       "deliveryYears": 2,
       "cashDiscount": "10%",
-      "heroImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419330/golden-tower/gt_p28_1_2316x3192.jpg"
+      "heroImage": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491103/gttc/sera-retaj/sera_retaj_p44_3000x1688_c594a9.jpg"
     },
     "locationSection": {
       "headline": {
@@ -1135,7 +1135,7 @@
           "ar": "شاليهات مستقلة بطابقين وتراسات مفتوحة على الغابات الجبلية العذراء.",
           "en": "Two-storey detached chalets featuring open sundecks overlooking untouched mountain ridges."
         },
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419330/golden-tower/gt_p28_1_2316x3192.jpg"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491104/gttc/sera-retaj/sera_retaj_p37_3000x1688_bfb89d.jpg"
       }
     ],
     "units": [
@@ -1163,7 +1163,7 @@
         "downPayment": "30%",
         "bedrooms": 2,
         "bathrooms": 2,
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419330/golden-tower/gt_p28_1_2316x3192.jpg"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491111/gttc/sera-retaj/sera_retaj_p50_3000x1688_05b142.jpg"
       }
     ],
     "deliveredTrackRecord": [
@@ -1176,7 +1176,7 @@
           "ar": "إدارة معتمدة",
           "en": "Accredited Management"
         },
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792419330/golden-tower/gt_p28_1_2316x3192.jpg"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491103/gttc/sera-retaj/sera_retaj_p44_3000x1688_c594a9.jpg"
       }
     ],
     "deliveredSection": {
