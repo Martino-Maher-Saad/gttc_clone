@@ -49,7 +49,7 @@ export default function ContactView({ isEn = false }: ContactViewProps) {
           <h1 className="font-display mt-4 text-[clamp(2.4rem,5.5vw,4.5rem)] font-semibold leading-[1.08] tracking-tight text-foreground rtl:leading-[1.24]">
             {isEn ? "Get in Touch with Golden Tower & Retaj" : "تواصل مع مستشاري البرج الذهبي وفنادق رتاج"}
           </h1>
-          <p className="mx-auto mt-5 max-w-2xl text-sm leading-relaxed text-neutral-600 dark:text-neutral-300 sm:text-base font-normal">
+          <p className="mx-auto mt-5 max-w-2xl text-base sm:text-lg leading-relaxed text-[#3d3832] font-normal">
             {isEn
               ? "Our investment advisory team is available to answer inquiries, share official brochures, and coordinate reservations."
               : "مستشارونا جاهزون للرد على كافة استفساراتكم وتزويدكم بالكتيبات الرسمية والمخططات وحجز الوحدات."}
@@ -153,9 +153,9 @@ export default function ContactView({ isEn = false }: ContactViewProps) {
             {contactData.offices.slice(0, 1).map((office) => (
               <div
                 key={office.id}
-                className="rounded-md border border-neutral-200/80 dark:border-white/10 bg-white dark:bg-[#141210] p-7 sm:p-10 shadow-md"
+                className="rounded-md border border-neutral-200/80 bg-white p-7 sm:p-10 shadow-md"
               >
-                <div className="flex items-center gap-3.5 border-b border-neutral-100 dark:border-white/10 pb-5">
+                <div className="flex items-center gap-3.5 border-b border-neutral-100 pb-5">
                   <span className="inline-flex h-11 w-11 items-center justify-center rounded-full bg-brand/10 text-brand">
                     <Building className="h-5 w-5" />
                   </span>
@@ -163,18 +163,18 @@ export default function ContactView({ isEn = false }: ContactViewProps) {
                     <span className="text-xs font-semibold uppercase tracking-wider text-brand">
                       {isEn ? "Primary Contact Office" : "المقر التنفيذي الرئيسي"}
                     </span>
-                    <h3 className="font-display text-xl sm:text-2xl font-semibold text-foreground mt-0.5">
+                    <h3 className="font-display text-xl sm:text-2xl font-semibold text-[#171410] mt-0.5">
                       {office.title[langKey]}
                     </h3>
                   </div>
                 </div>
 
-                <div className="mt-6 grid grid-cols-1 sm:grid-cols-2 gap-5 text-sm sm:text-base text-neutral-600 dark:text-neutral-300">
+                <div className="mt-6 grid grid-cols-1 sm:grid-cols-2 gap-5 text-sm sm:text-base text-[#3d3832]">
                   <div className="flex items-start gap-3">
                     <MapPin className="h-5 w-5 shrink-0 text-brand mt-0.5" />
                     <div>
                       <p className="text-xs uppercase font-semibold text-neutral-400 mb-0.5">{isEn ? "Address" : "العنوان"}</p>
-                      <span className="text-foreground font-medium text-sm sm:text-base">{office.address[langKey]}</span>
+                      <span className="text-[#171410] font-medium text-sm sm:text-base">{office.address[langKey]}</span>
                     </div>
                   </div>
 
@@ -182,7 +182,7 @@ export default function ContactView({ isEn = false }: ContactViewProps) {
                     <Clock className="h-5 w-5 shrink-0 text-brand mt-0.5" />
                     <div>
                       <p className="text-xs uppercase font-semibold text-neutral-400 mb-0.5">{isEn ? "Working Hours" : "ساعات العمل"}</p>
-                      <span className="text-foreground font-medium text-sm sm:text-base">{office.workingHours[langKey]}</span>
+                      <span className="text-[#171410] font-medium text-sm sm:text-base">{office.workingHours[langKey]}</span>
                     </div>
                   </div>
 
@@ -190,7 +190,7 @@ export default function ContactView({ isEn = false }: ContactViewProps) {
                     <Phone className="h-5 w-5 shrink-0 text-brand mt-0.5" />
                     <div>
                       <p className="text-xs uppercase font-semibold text-neutral-400 mb-0.5">{isEn ? "Direct Call" : "الهاتف المباشر"}</p>
-                      <a dir="ltr" href={`tel:${office.tel}`} className="hover:text-brand transition-colors font-bold text-foreground text-base sm:text-lg">
+                      <a dir="ltr" href={`tel:${office.tel}`} className="hover:text-brand transition-colors font-bold text-[#171410] text-base sm:text-lg">
                         {office.tel}
                       </a>
                     </div>
@@ -205,7 +205,7 @@ export default function ContactView({ isEn = false }: ContactViewProps) {
                         href={`https://wa.me/201146659065`}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="hover:text-emerald-600 transition-colors font-bold text-foreground text-base sm:text-lg"
+                        className="hover:text-emerald-600 transition-colors font-bold text-[#171410] text-base sm:text-lg"
                       >
                         {office.mob}
                       </a>
@@ -216,7 +216,7 @@ export default function ContactView({ isEn = false }: ContactViewProps) {
                     <Mail className="h-5 w-5 shrink-0 text-brand mt-0.5" />
                     <div>
                       <p className="text-xs uppercase font-semibold text-neutral-400 mb-0.5">{isEn ? "Official Email" : "البريد الرسمي"}</p>
-                      <a href={`mailto:${office.email}`} className="hover:text-brand transition-colors text-foreground font-medium text-sm sm:text-base">
+                      <a href={`mailto:${office.email}`} className="hover:text-brand transition-colors text-[#171410] font-medium text-sm sm:text-base">
                         {office.email}
                       </a>
                     </div>
@@ -224,7 +224,7 @@ export default function ContactView({ isEn = false }: ContactViewProps) {
                 </div>
 
                 {office.mapEmbedUrl && (
-                  <div className="mt-8 overflow-hidden rounded-md border border-neutral-200/80 dark:border-white/10 aspect-[16/8] w-full">
+                  <div className="mt-8 overflow-hidden rounded-md border border-neutral-200/80 aspect-[16/8] w-full">
                     <iframe
                       src={office.mapEmbedUrl}
                       title="Office Location Map"

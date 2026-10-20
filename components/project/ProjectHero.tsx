@@ -156,11 +156,11 @@ export default function ProjectHero({ project, isEn = false }: ProjectHeroProps)
       <div className="relative z-10 mx-auto -mt-16 w-full max-w-7xl px-6 sm:-mt-24 sm:px-10 lg:px-14">
         <div
           data-hero-item="true"
-          className="mx-auto max-w-3xl rounded-md border border-black/[0.08] dark:border-white/10 bg-white dark:bg-[#141210] p-5 text-center text-[#171410] dark:text-white shadow-[0_24px_60px_-20px_rgba(20,17,15,0.2)] sm:mx-0 sm:p-7 sm:text-start"
+          className="mx-auto max-w-3xl rounded-md border border-neutral-200/80 bg-white p-5 text-center text-[#171410] shadow-[0_24px_60px_-20px_rgba(20,17,15,0.2)] sm:mx-0 sm:p-7 sm:text-start"
         >
           <div className="flex flex-col items-center gap-3 sm:flex-row sm:items-center sm:justify-between sm:gap-4">
             <div>
-              <p className="text-xs font-semibold uppercase tracking-[0.2em] rtl:tracking-[0.06em] text-neutral-500 dark:text-neutral-400">
+              <p className="text-xs font-semibold uppercase tracking-[0.2em] rtl:tracking-[0.06em] text-neutral-500">
                 {isEn ? "Development Overview" : "نظرة عامة على المشروع"}
               </p>
               <p className="font-display mt-1 text-[clamp(1.2rem,3vw,1.8rem)] leading-snug tracking-tight text-brand font-semibold">
@@ -172,18 +172,18 @@ export default function ProjectHero({ project, isEn = false }: ProjectHeroProps)
             </span>
           </div>
 
-          <div className="mt-4 flex flex-col items-center gap-3 border-t border-neutral-100 dark:border-white/10 pt-3.5 sm:flex-row sm:flex-wrap sm:items-center sm:justify-between sm:gap-4 sm:pt-4">
+          <div className="mt-4 flex flex-col items-center gap-3 border-t border-neutral-100 pt-3.5 sm:flex-row sm:flex-wrap sm:items-center sm:justify-between sm:gap-4 sm:pt-4">
             <ul className="flex flex-wrap justify-center gap-1.5 sm:justify-start sm:gap-2">
-              <li className="rounded-full border border-neutral-200/90 dark:border-white/10 bg-neutral-50/60 dark:bg-white/5 px-3.5 py-1.5 text-xs font-medium tracking-[0.02em] text-neutral-700 dark:text-neutral-200">
+              <li className="rounded-full border border-neutral-200 bg-neutral-50 px-3.5 py-1.5 text-xs font-semibold tracking-[0.02em] text-neutral-800">
                 {isEn ? "Operator: Retaj Hotels & Hospitality" : "الإدارة: فنادق رتاج العالمية"}
               </li>
-              <li className="rounded-full border border-neutral-200/90 dark:border-white/10 bg-neutral-50/60 dark:bg-white/5 px-3.5 py-1.5 text-xs font-medium tracking-[0.02em] text-neutral-700 dark:text-neutral-200">
+              <li className="rounded-full border border-neutral-200 bg-neutral-50 px-3.5 py-1.5 text-xs font-semibold tracking-[0.02em] text-neutral-800">
                 {isEn ? "100% Freehold Foreign Ownership" : "تملك حر 100% للأجانب"}
               </li>
-              <li className="rounded-full border border-neutral-200/90 dark:border-white/10 bg-neutral-50/60 dark:bg-white/5 px-3.5 py-1.5 text-xs font-medium tracking-[0.02em] text-neutral-700 dark:text-neutral-200">
+              <li className="rounded-full border border-neutral-200 bg-neutral-50 px-3.5 py-1.5 text-xs font-semibold tracking-[0.02em] text-neutral-800">
                 {isEn ? "Periodic USD Rental Yields" : "عوائد دورية بالدولار"}
               </li>
-              <li className="rounded-full border border-neutral-200/90 dark:border-white/10 bg-neutral-50/60 dark:bg-white/5 px-3.5 py-1.5 text-xs font-medium tracking-[0.02em] text-neutral-700 dark:text-neutral-200">
+              <li className="rounded-full border border-neutral-200 bg-neutral-50 px-3.5 py-1.5 text-xs font-semibold tracking-[0.02em] text-neutral-800">
                 {isEn ? "100% Fully Furnished Suites" : "تسليم مفروش بالكامل"}
               </li>
             </ul>

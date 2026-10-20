@@ -89,21 +89,21 @@ function ProjectCard({
         {/* Content Below Image */}
         <div className="mt-5 flex flex-col gap-3">
           <div className="flex flex-wrap items-baseline justify-between gap-3">
-            <h3 className="leading-[1.15] tracking-tight text-[#171410] dark:text-white font-display text-[clamp(1.5rem,2.6vw,2.3rem)] font-semibold">
+            <h3 className="leading-[1.15] tracking-tight text-[#171410] font-display text-[clamp(1.5rem,2.6vw,2.3rem)] font-semibold">
               {project.name}
             </h3>
-            <span className="text-sm sm:text-base font-semibold tracking-wide text-neutral-600 dark:text-neutral-300">
+            <span className="text-sm sm:text-base font-semibold tracking-wide text-[#5e584f]">
               {project.location}
             </span>
           </div>
 
-          <p className="max-w-xl text-base sm:text-lg leading-relaxed text-neutral-700 dark:text-neutral-200">
+          <p className="max-w-xl text-base sm:text-lg leading-relaxed text-[#38332c]">
             {project.description}
           </p>
 
           <Link
             href={isEn ? `/en${project.href}` : project.href}
-            className="group/cta mt-2 inline-flex items-center gap-3 self-start border-b border-[#171410]/20 pb-1.5 text-base font-semibold tracking-wide text-[#171410] dark:text-white dark:border-white/20 transition-all hover:border-brand hover:text-brand"
+            className="group/cta mt-2 inline-flex items-center gap-3 self-start border-b border-[#171410]/20 pb-1.5 text-base font-semibold tracking-wide text-[#171410] transition-all hover:border-brand hover:text-brand"
           >
             <span>{labels.discover[langKey]}</span>
             <svg
@@ -332,7 +332,7 @@ export default function ProjectsShowcase({ isEn = false }: ProjectsShowcaseProps
             </p>
             <h2
               id="projects-title"
-              className="font-display mt-3 max-w-2xl text-[clamp(2.25rem,5.5vw,4.5rem)] leading-[1.06] tracking-tight text-[#171410] dark:text-white font-semibold"
+              className="font-display mt-3 max-w-2xl text-[clamp(2.25rem,5.5vw,4.5rem)] leading-[1.06] tracking-tight text-[#171410] font-semibold"
             >
               {sectionData.title[langKey]}
             </h2>
@@ -348,7 +348,7 @@ export default function ProjectsShowcase({ isEn = false }: ProjectsShowcaseProps
           <div
             role="tablist"
             aria-label="Filter projects"
-            className="inline-flex items-center gap-1 rounded-full border border-neutral-200/80 bg-white dark:bg-[#141210] p-1 shadow-[0_2px_8px_rgba(0,0,0,0.03)]"
+            className="inline-flex items-center gap-1 rounded-full border border-neutral-200/80 bg-white p-1 shadow-[0_2px_8px_rgba(0,0,0,0.03)]"
           >
             {(Object.keys(sectionData.filters) as FilterKey[]).map((key) => {
               const isActive = filter === key;
@@ -362,7 +362,7 @@ export default function ProjectsShowcase({ isEn = false }: ProjectsShowcaseProps
                   className={`relative inline-flex items-center justify-center rounded-full px-5 py-2 text-sm font-medium tracking-normal transition-all duration-300 cursor-pointer ${
                     isActive
                       ? "bg-brand text-white shadow-xs"
-                      : "text-neutral-600 dark:text-neutral-300 hover:text-brand"
+                      : "text-neutral-700 hover:text-brand"
                   }`}
                 >
                   {sectionData.filters[key][langKey]}

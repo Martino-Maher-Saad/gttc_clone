@@ -38,7 +38,7 @@ export default function PortfolioView({ isEn = false }: PortfolioViewProps) {
               ? "Enduring Hospitality & Infrastructure Assets"
               : "صروح فندقية وأصول بنية تحتية وطنية كبرى"}
           </h1>
-          <p className="mx-auto mt-5 max-w-2xl text-base sm:text-lg leading-relaxed text-neutral-600 dark:text-neutral-300 font-normal">
+          <p className="mx-auto mt-5 max-w-2xl text-base sm:text-lg leading-relaxed text-[#3d3832] font-normal">
             {isEn
               ? "From strategic national infrastructure in Qatar to landmark hotel and medical wellness resorts across Georgia in alliance with Retaj Hotels."
               : "من المشروعات القومية الكبرى في دولة قطر إلى التوسعات الفندقية والاستشفائية الرائدة في جورجيا بالشراكة مع فنادق رتاج العالمية."}
@@ -47,7 +47,7 @@ export default function PortfolioView({ isEn = false }: PortfolioViewProps) {
 
         {/* Section 1: Georgia Hospitality Developments */}
         <section className="mt-20 sm:mt-28">
-          <div className="border-b border-neutral-200 dark:border-white/10 pb-5 mb-10 flex flex-col sm:flex-row sm:items-end justify-between gap-4">
+          <div className="border-b border-neutral-200 pb-5 mb-10 flex flex-col sm:flex-row sm:items-end justify-between gap-4">
             <div>
               <span className="text-xs sm:text-sm font-semibold uppercase tracking-[0.2em] text-brand">01 / 02</span>
               <h2 className="font-display mt-1 text-2xl sm:text-3xl lg:text-4xl font-semibold text-foreground">
@@ -67,7 +67,7 @@ export default function PortfolioView({ isEn = false }: PortfolioViewProps) {
               return (
                 <article
                   key={p.slug}
-                  className="group relative flex flex-col overflow-hidden rounded-md border border-black/[0.08] dark:border-white/10 bg-white dark:bg-[#141210] shadow-sm transition-all duration-500 hover:shadow-xl"
+                  className="group relative flex flex-col overflow-hidden rounded-md border border-neutral-200/80 bg-white shadow-sm transition-all duration-500 hover:shadow-xl"
                 >
                   <Link href={projectHref} className="relative aspect-[16/10] w-full overflow-hidden bg-neutral-900 block">
                     <Image
@@ -95,22 +95,22 @@ export default function PortfolioView({ isEn = false }: PortfolioViewProps) {
                         {p.name}
                       </Link>
                     </h3>
-                    <p className="mt-3 text-base sm:text-lg leading-relaxed text-neutral-600 dark:text-neutral-300 line-clamp-3">
+                    <p className="mt-3 text-base sm:text-lg leading-relaxed text-[#3d3832] line-clamp-3">
                       {p.desc}
                     </p>
 
                     {/* Authentic Project Details from PDF */}
-                    <div className="mt-6 flex flex-col gap-3 border-t border-neutral-100 dark:border-white/5 pt-5 text-sm sm:text-base">
-                      <div className="flex items-center justify-between text-neutral-600 dark:text-neutral-300">
-                        <span className="text-neutral-500 dark:text-neutral-400 font-medium">{isEn ? "Location" : "الموقع"}:</span>
+                    <div className="mt-6 flex flex-col gap-3 border-t border-neutral-100 pt-5 text-sm sm:text-base">
+                      <div className="flex items-center justify-between text-[#3d3832]">
+                        <span className="text-neutral-500 font-medium">{isEn ? "Location" : "الموقع"}:</span>
                         <span className="font-semibold text-foreground">{p.location}</span>
                       </div>
-                      <div className="flex items-center justify-between text-neutral-600 dark:text-neutral-300">
-                        <span className="text-neutral-500 dark:text-neutral-400 font-medium">{isEn ? "Operator" : "الإدارة والتشغيل"}:</span>
+                      <div className="flex items-center justify-between text-[#3d3832]">
+                        <span className="text-neutral-500 font-medium">{isEn ? "Operator" : "الإدارة والتشغيل"}:</span>
                         <span className="font-semibold text-brand">{p.operator}</span>
                       </div>
-                      <div className="flex items-center justify-between text-neutral-600 dark:text-neutral-300">
-                        <span className="text-neutral-500 dark:text-neutral-400 font-medium">{isEn ? "Feature" : "الميزة الرئيسية"}:</span>
+                      <div className="flex items-center justify-between text-[#3d3832]">
+                        <span className="text-neutral-500 font-medium">{isEn ? "Feature" : "الميزة الرئيسية"}:</span>
                         <span className="font-semibold text-foreground">{p.spec}</span>
                       </div>
                     </div>

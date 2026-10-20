@@ -24,7 +24,7 @@ export default function AboutView({ isEn = false }: AboutViewProps) {
               ? "Engineering Excellence Meets Global 5-Star Hospitality"
               : "ريادة المقاولات الهندسية تلتقي مع الضيافة الفندقية العالمية"}
           </h1>
-          <p className="mx-auto mt-6 max-w-3xl text-base sm:text-lg leading-relaxed text-neutral-600 dark:text-neutral-300 font-normal">
+          <p className="mx-auto mt-6 max-w-3xl text-base sm:text-lg leading-relaxed text-[#3d3832] font-normal">
             {companyData.about[langKey]}
           </p>
         </header>
@@ -34,7 +34,7 @@ export default function AboutView({ isEn = false }: AboutViewProps) {
           {companyData.stats.map((s) => (
             <div
               key={s.id}
-              className="rounded-md border border-neutral-200/80 dark:border-white/10 bg-white dark:bg-[#141210] p-6 sm:p-8 text-center shadow-xs"
+              className="rounded-md border border-neutral-200/80 bg-white p-6 sm:p-8 text-center shadow-xs"
             >
               <p className="font-display text-3xl sm:text-4xl lg:text-5xl font-bold text-brand">
                 {s.value}
@@ -101,7 +101,7 @@ export default function AboutView({ isEn = false }: AboutViewProps) {
             {companyData.partnerships.map((partner, idx) => (
               <div
                 key={idx}
-                className="rounded-md border border-neutral-200/80 dark:border-white/10 bg-white dark:bg-[#141210] p-7 sm:p-9 shadow-xs"
+                className="rounded-md border border-neutral-200/80 bg-white p-7 sm:p-9 shadow-xs"
               >
                 <span className="text-xs sm:text-sm font-semibold uppercase tracking-wider text-brand">
                   {partner.role[langKey]}
@@ -109,7 +109,7 @@ export default function AboutView({ isEn = false }: AboutViewProps) {
                 <h3 className="font-display mt-2 text-xl sm:text-2xl font-semibold text-foreground">
                   {partner.name}
                 </h3>
-                <p className="mt-3 text-base sm:text-lg leading-relaxed text-neutral-600 dark:text-neutral-300">
+                <p className="mt-3 text-base sm:text-lg leading-relaxed text-[#3d3832]">
                   {partner.desc[langKey]}
                 </p>
               </div>
@@ -118,7 +118,7 @@ export default function AboutView({ isEn = false }: AboutViewProps) {
         </section>
 
         {/* Leadership & Founder Word */}
-        <section className="mt-20 sm:mt-28 border border-neutral-200/80 dark:border-white/10 rounded-md bg-white dark:bg-[#141210] p-8 sm:p-12 lg:p-16 shadow-xs">
+        <section className="mt-20 sm:mt-28 border border-neutral-200/80 rounded-md bg-white p-8 sm:p-12 lg:p-16 shadow-xs">
           <div className="max-w-3xl">
             <span className="text-xs sm:text-sm font-semibold uppercase tracking-[0.2em] text-brand">
               {isEn ? "Executive Leadership" : "القيادة التنفيذية"}
@@ -129,7 +129,7 @@ export default function AboutView({ isEn = false }: AboutViewProps) {
             <p className="text-sm sm:text-base text-neutral-500 font-medium mt-1">
               {companyData.ceo.title[langKey]}
             </p>
-            <blockquote className="mt-6 border-s-2 border-brand ps-6 text-base sm:text-lg italic text-neutral-700 dark:text-neutral-200 leading-relaxed">
+            <blockquote className="mt-6 border-s-2 border-brand ps-6 text-base sm:text-lg italic text-[#2b2520] leading-relaxed">
               &ldquo;{companyData.ceo.quote[langKey]}&rdquo;
             </blockquote>
           </div>
@@ -142,12 +142,12 @@ export default function AboutView({ isEn = false }: AboutViewProps) {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {companyData.values.slice(0, 3).map((v, idx) => (
-              <div key={idx} className="rounded-md border border-neutral-200/80 dark:border-white/10 bg-white dark:bg-[#141210] p-6 shadow-xs">
+              <div key={idx} className="rounded-md border border-neutral-200/80 bg-white p-6 shadow-xs">
                 <span className="font-mono text-xs sm:text-sm font-semibold text-brand">0{idx + 1}</span>
                 <h3 className="font-display text-lg sm:text-xl font-semibold text-foreground mt-2">
                   {v.title[langKey]}
                 </h3>
-                <p className="mt-2 text-base leading-relaxed text-neutral-600 dark:text-neutral-300 font-normal">
+                <p className="mt-2 text-base leading-relaxed text-[#3d3832] font-normal">
                   {v.desc[langKey]}
                 </p>
               </div>

@@ -99,7 +99,7 @@ export default function Hero({ isEn = false }: HeroProps) {
             </span>
           </h1>
 
-          <p className="reveal-sub mx-auto mt-6 max-w-2xl text-base sm:text-lg leading-relaxed text-neutral-600 dark:text-neutral-300 sm:mt-8">
+          <p className="reveal-sub mx-auto mt-6 max-w-2xl text-base sm:text-lg leading-relaxed text-[#3d3832] sm:mt-8 font-normal">
             {heroData.description[langKey]}
           </p>
 
