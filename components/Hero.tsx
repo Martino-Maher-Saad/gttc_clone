@@ -78,7 +78,7 @@ export default function Hero({ isEn = false }: HeroProps) {
       <div className="mx-auto flex w-full max-w-7xl flex-1 flex-col px-6 pt-24 pb-10 sm:px-10 sm:pt-28 sm:pb-12 lg:px-14 lg:pt-32">
         {/* Main Text Content */}
         <div className="mx-auto w-full max-w-3xl text-center">
-          <p className="reveal-eyebrow text-[11px] font-medium uppercase tracking-[0.32em] text-neutral-500 sm:text-xs">
+          <p className="reveal-eyebrow text-xs sm:text-sm font-semibold uppercase tracking-[0.25em] rtl:tracking-[0.1em] text-neutral-500">
             {heroData.eyebrow[langKey]}
           </p>
 
@@ -99,19 +99,19 @@ export default function Hero({ isEn = false }: HeroProps) {
             </span>
           </h1>
 
-          <p className="reveal-sub mx-auto mt-6 max-w-xl text-[15px] leading-relaxed text-neutral-600 sm:mt-8 sm:text-base">
+          <p className="reveal-sub mx-auto mt-6 max-w-2xl text-base sm:text-lg leading-relaxed text-neutral-600 dark:text-neutral-300 sm:mt-8">
             {heroData.description[langKey]}
           </p>
 
           <div className="reveal-cta mt-8 flex justify-center sm:mt-10">
             <a
               href={heroData.ctaLink}
-              className="group inline-flex items-center gap-3 border-b border-foreground/70 pb-1.5 text-sm font-medium tracking-wide text-foreground transition-colors hover:border-brand hover:text-brand focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-brand cursor-pointer"
+              className="group inline-flex items-center gap-3 border-b-2 border-foreground/70 pb-1.5 text-base sm:text-lg font-semibold tracking-wide text-foreground transition-colors hover:border-brand hover:text-brand focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-brand cursor-pointer"
             >
               <span>{heroData.ctaText[langKey]}</span>
               <svg
-                width="22"
-                height="10"
+                width="24"
+                height="12"
                 viewBox="0 0 22 10"
                 fill="none"
                 aria-hidden="true"
@@ -122,7 +122,7 @@ export default function Hero({ isEn = false }: HeroProps) {
                 <path
                   d="M1 5h20m0 0L17 1m4 4l-4 4"
                   stroke="currentColor"
-                  strokeWidth="1.5"
+                  strokeWidth="2"
                   strokeLinecap="round"
                   strokeLinejoin="round"
                 />
@@ -176,19 +176,19 @@ export default function Hero({ isEn = false }: HeroProps) {
             </div>
 
             {/* Caption & Counter */}
-            <figcaption className="reveal-meta mt-3 flex items-center justify-between text-[11px] uppercase tracking-[0.22em] text-neutral-500">
-              <span className="font-medium text-foreground">{currentSlide.title[langKey]}</span>
-              <span className="font-mono text-[10px] tracking-normal">{currentSlide.counter}</span>
+            <figcaption className="reveal-meta mt-3 flex items-center justify-between text-sm sm:text-base uppercase tracking-wider text-neutral-500">
+              <span className="font-semibold text-foreground text-sm sm:text-base">{currentSlide.title[langKey]}</span>
+              <span className="font-mono text-xs font-medium tracking-normal">{currentSlide.counter}</span>
             </figcaption>
           </figure>
         </div>
 
         {/* Hero Footer Meta */}
-        <div className="reveal-meta mt-auto flex flex-wrap items-center justify-between gap-4 border-t border-neutral-100 pt-6 text-[11px] uppercase tracking-[0.22em] text-neutral-500 sm:mt-16">
-          <span className="font-mono text-[10px] tracking-normal text-neutral-300">
+        <div className="reveal-meta mt-auto flex flex-wrap items-center justify-between gap-4 border-t border-neutral-100 pt-6 text-xs uppercase tracking-[0.22em] text-neutral-500 sm:mt-16">
+          <span className="font-mono text-xs tracking-normal text-neutral-400">
             © <span className="text-neutral-500">{heroData.copyright}</span>
           </span>
-          <span className="inline-flex items-center gap-3">
+          <span className="inline-flex items-center gap-3 font-medium">
             <span className="h-px w-8 bg-neutral-300" aria-hidden="true" />
             {heroData.scrollHint[langKey]}
           </span>

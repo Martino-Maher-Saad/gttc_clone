@@ -20,20 +20,9 @@ export default function PortfolioView({ isEn = false }: PortfolioViewProps) {
     badge: isEn ? p.status.en : p.status.ar,
     desc: isEn ? p.hero.subtitle.en : p.hero.subtitle.ar,
     image: p.hero.heroImage,
-    stats: [
-      {
-        value: isEn ? p.hero.startingPriceText.en : p.hero.startingPriceText.ar,
-        label: isEn ? "Starting Price" : "الأسعار تبدأ من",
-      },
-      {
-        value: p.hero.downPayment,
-        label: isEn ? "Down Payment" : "المقدم",
-      },
-      {
-        value: isEn ? `${p.hero.deliveryYears} Yrs` : `${p.hero.deliveryYears} سنوات`,
-        label: isEn ? "Delivery" : "التسليم",
-      },
-    ],
+    location: isEn ? p.location.en : p.location.ar,
+    operator: isEn ? "Retaj Hotels & Hospitality" : "فنادق رتاج للضيافة",
+    spec: isEn ? p.area.en : p.area.ar,
   }));
 
   return (
@@ -41,7 +30,7 @@ export default function PortfolioView({ isEn = false }: PortfolioViewProps) {
       <div className="mx-auto max-w-7xl px-6 sm:px-10 lg:px-14">
         {/* Header */}
         <header className="mx-auto max-w-4xl text-center">
-          <p className="text-[11px] font-medium uppercase tracking-[0.25em] rtl:tracking-[0.08em] text-brand">
+          <p className="text-sm sm:text-base font-semibold uppercase tracking-[0.25em] rtl:tracking-[0.08em] text-brand">
             {isEn ? "Global Track Record" : "محفظة المشروعات والإنجازات"}
           </p>
           <h1 className="font-display mt-4 text-[clamp(2.4rem,5.5vw,4.5rem)] font-semibold leading-[1.08] tracking-tight text-foreground rtl:leading-[1.24]">
@@ -49,7 +38,7 @@ export default function PortfolioView({ isEn = false }: PortfolioViewProps) {
               ? "Enduring Hospitality & Infrastructure Assets"
               : "صروح فندقية وأصول بنية تحتية وطنية كبرى"}
           </h1>
-          <p className="mx-auto mt-5 max-w-2xl text-[15px] leading-relaxed text-neutral-600 sm:text-base font-normal">
+          <p className="mx-auto mt-5 max-w-2xl text-base sm:text-lg leading-relaxed text-neutral-600 dark:text-neutral-300 font-normal">
             {isEn
               ? "From strategic national infrastructure in Qatar to landmark hotel and medical wellness resorts across Georgia in alliance with Retaj Hotels."
               : "من المشروعات القومية الكبرى في دولة قطر إلى التوسعات الفندقية والاستشفائية الرائدة في جورجيا بالشراكة مع فنادق رتاج العالمية."}
@@ -58,17 +47,17 @@ export default function PortfolioView({ isEn = false }: PortfolioViewProps) {
 
         {/* Section 1: Georgia Hospitality Developments */}
         <section className="mt-20 sm:mt-28">
-          <div className="border-b border-neutral-200 pb-5 mb-10 flex flex-col sm:flex-row sm:items-end justify-between gap-4">
+          <div className="border-b border-neutral-200 dark:border-white/10 pb-5 mb-10 flex flex-col sm:flex-row sm:items-end justify-between gap-4">
             <div>
-              <span className="text-xs font-medium uppercase tracking-[0.2em] text-brand">01 / 02</span>
-              <h2 className="font-display mt-1 text-2xl sm:text-3xl font-semibold text-foreground">
+              <span className="text-xs sm:text-sm font-semibold uppercase tracking-[0.2em] text-brand">01 / 02</span>
+              <h2 className="font-display mt-1 text-2xl sm:text-3xl lg:text-4xl font-semibold text-foreground">
                 {isEn ? "Georgia Hospitality Developments" : "مشروعاتنا الفندقية الكبرى في جورجيا"}
               </h2>
             </div>
-            <p className="text-xs text-neutral-500 max-w-md">
+            <p className="text-sm sm:text-base text-neutral-500 max-w-md">
               {isEn
                 ? "Click any project card to view its comprehensive masterplans, suites, and authentic specs."
-                : "اضغط على أي مشروع لعرض التفاصيل الهندسية والأجنحة وخطط السداد كاملة."}
+                : "اضغط على أي مشروع لعرض التفاصيل الهندسية والأجنحة والمواصفات المعتمدة كاملة."}
             </p>
           </div>
 
@@ -78,7 +67,7 @@ export default function PortfolioView({ isEn = false }: PortfolioViewProps) {
               return (
                 <article
                   key={p.slug}
-                  className="group relative flex flex-col overflow-hidden rounded-sm border border-black/[0.08] bg-white shadow-sm transition-all duration-500 hover:shadow-xl"
+                  className="group relative flex flex-col overflow-hidden rounded-md border border-black/[0.08] dark:border-white/10 bg-white dark:bg-[#141210] shadow-sm transition-all duration-500 hover:shadow-xl"
                 >
                   <Link href={projectHref} className="relative aspect-[16/10] w-full overflow-hidden bg-neutral-900 block">
                     <Image
@@ -92,43 +81,47 @@ export default function PortfolioView({ isEn = false }: PortfolioViewProps) {
                       aria-hidden="true"
                       className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent"
                     />
-                    <span className="absolute top-4 start-4 inline-flex items-center rounded-full bg-brand px-3 py-1 text-[11px] font-medium text-white shadow-md">
+                    <span className="absolute top-4 start-4 inline-flex items-center rounded-full bg-brand px-4 py-1.5 text-xs sm:text-sm font-semibold text-white shadow-md">
                       {p.badge}
                     </span>
                   </Link>
 
                   <div className="flex flex-1 flex-col p-6 sm:p-8">
-                    <p className="text-[11px] font-medium uppercase tracking-[0.2em] rtl:tracking-[0.06em] text-brand">
+                    <p className="text-xs sm:text-sm font-semibold uppercase tracking-[0.2em] rtl:tracking-[0.06em] text-brand">
                       {p.eyebrow}
                     </p>
-                    <h3 className="font-display mt-2 text-2xl font-semibold text-foreground">
+                    <h3 className="font-display mt-2 text-2xl sm:text-3xl font-semibold text-foreground">
                       <Link href={projectHref} className="transition-colors hover:text-brand">
                         {p.name}
                       </Link>
                     </h3>
-                    <p className="mt-3 text-sm leading-relaxed text-neutral-600 line-clamp-3">
+                    <p className="mt-3 text-base sm:text-lg leading-relaxed text-neutral-600 dark:text-neutral-300 line-clamp-3">
                       {p.desc}
                     </p>
 
-                    {/* Stats pills */}
-                    <div className="mt-6 grid grid-cols-3 gap-2 border-t border-neutral-100 pt-5">
-                      {p.stats.map((s, idx) => (
-                        <div key={idx} className="text-center sm:text-start">
-                          <p className="font-display text-sm sm:text-base font-semibold text-foreground">
-                            {s.value}
-                          </p>
-                          <p className="text-[10px] text-neutral-500 truncate">{s.label}</p>
-                        </div>
-                      ))}
+                    {/* Authentic Project Details from PDF */}
+                    <div className="mt-6 flex flex-col gap-3 border-t border-neutral-100 dark:border-white/5 pt-5 text-sm sm:text-base">
+                      <div className="flex items-center justify-between text-neutral-600 dark:text-neutral-300">
+                        <span className="text-neutral-500 dark:text-neutral-400 font-medium">{isEn ? "Location" : "الموقع"}:</span>
+                        <span className="font-semibold text-foreground">{p.location}</span>
+                      </div>
+                      <div className="flex items-center justify-between text-neutral-600 dark:text-neutral-300">
+                        <span className="text-neutral-500 dark:text-neutral-400 font-medium">{isEn ? "Operator" : "الإدارة والتشغيل"}:</span>
+                        <span className="font-semibold text-brand">{p.operator}</span>
+                      </div>
+                      <div className="flex items-center justify-between text-neutral-600 dark:text-neutral-300">
+                        <span className="text-neutral-500 dark:text-neutral-400 font-medium">{isEn ? "Feature" : "الميزة الرئيسية"}:</span>
+                        <span className="font-semibold text-foreground">{p.spec}</span>
+                      </div>
                     </div>
 
                     <div className="mt-6 pt-2">
                       <Link
                         href={projectHref}
-                        className="inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-wider text-brand transition-colors hover:text-brand-hover"
+                        className="inline-flex items-center gap-2 text-sm sm:text-base font-semibold uppercase tracking-wider text-brand transition-colors hover:text-brand-hover"
                       >
                         <span>{isEn ? "Explore Project Details" : "عرض تفاصيل المشروع"}</span>
-                        <span aria-hidden="true">→</span>
+                        <span aria-hidden="true" className="rtl:rotate-180">→</span>
                       </Link>
                     </div>
                   </div>
@@ -141,11 +134,11 @@ export default function PortfolioView({ isEn = false }: PortfolioViewProps) {
         {/* Section 2: National Qatar Infrastructure Landmarks */}
         <section className="mt-28 sm:mt-36">
           <div className="border-b border-neutral-200 pb-5 mb-10">
-            <span className="text-xs font-medium uppercase tracking-[0.2em] text-brand">02 / 02</span>
-            <h2 className="font-display mt-1 text-2xl sm:text-3xl font-semibold text-foreground">
+            <span className="text-xs sm:text-sm font-medium uppercase tracking-[0.2em] text-brand">02 / 02</span>
+            <h2 className="font-display mt-1 text-2xl sm:text-3xl lg:text-4xl font-semibold text-foreground">
               {isEn ? "Qatar National Infrastructure Track Record" : "سابقة أعمال المشروعات الكبرى بدولة قطر"}
             </h2>
-            <p className="text-xs text-neutral-500 mt-2 max-w-2xl">
+            <p className="text-sm sm:text-base text-neutral-500 mt-2 max-w-2xl">
               {isEn
                 ? "GTTC has delivered major civil, structural steel, and infrastructure contracts for national iconic projects."
                 : "قامت مجموعة البرج الذهبي (GTTC) بتنفيذ حزم أعمال إنشائية ومدنية وهياكل فولاذية لأكبر المشروعات القومية بدولة قطر."}
@@ -170,14 +163,14 @@ export default function PortfolioView({ isEn = false }: PortfolioViewProps) {
                     aria-hidden="true"
                     className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-transparent"
                   />
-                  <span className="absolute top-3 start-3 text-[10px] font-mono font-medium text-brand bg-black/60 px-2 py-0.5 rounded-xs backdrop-blur-xs">
+                  <span className="absolute top-3 start-3 text-xs sm:text-sm font-mono font-semibold text-brand bg-black/75 px-2.5 py-1 rounded-sm backdrop-blur-xs">
                     {item.num} · {item.status[langKey]}
                   </span>
                   <div className="absolute bottom-3 start-3 end-3 text-white">
-                    <h4 className="font-display text-base font-semibold text-white">
+                    <h4 className="font-display text-base sm:text-lg font-semibold text-white">
                       {item.name[langKey]}
                     </h4>
-                    <p className="text-[11px] text-white/75 mt-0.5">{item.location[langKey]}</p>
+                    <p className="text-sm text-white/85 mt-0.5">{item.location[langKey]}</p>
                   </div>
                 </div>
               </div>
@@ -187,12 +180,12 @@ export default function PortfolioView({ isEn = false }: PortfolioViewProps) {
 
         {/* Bottom CTA */}
         <div className="mt-24 sm:mt-32 rounded-sm bg-[#14110f] p-8 sm:p-12 text-center text-white relative overflow-hidden">
-          <h3 className="font-display text-2xl sm:text-3xl font-semibold">
+          <h3 className="font-display text-2xl sm:text-3xl lg:text-4xl font-semibold">
             {isEn
               ? "Ready to Invest in Georgia's Premier Hotel Resorts?"
               : "جاهز لبدء استثمارك الفندقي الآمن في جورجيا؟"}
           </h3>
-          <p className="mt-3 text-sm text-neutral-300 max-w-xl mx-auto">
+          <p className="mt-3 text-base sm:text-lg text-neutral-300 max-w-xl mx-auto">
             {isEn
               ? "Contact our investment desk to reserve your fully furnished suite with guaranteed freehold title and periodic USD returns."
               : "تواصل مع مستشارينا التنفيذيين لحجز وحدتك الفندقية المفروشة بالكامل مع صك ملكية حر وعوائد دورية بالدولار."}
@@ -200,13 +193,13 @@ export default function PortfolioView({ isEn = false }: PortfolioViewProps) {
           <div className="mt-8 flex flex-wrap justify-center gap-4">
             <Link
               href={isEn ? "/en/contact" : "/contact"}
-              className="rounded-full bg-brand px-8 py-3.5 text-xs font-medium uppercase tracking-wider text-white shadow-xl transition-all duration-300 hover:bg-brand-hover hover:scale-105 cursor-pointer"
+              className="rounded-full bg-brand px-8 py-3.5 text-sm sm:text-base font-semibold uppercase tracking-wider text-white shadow-xl transition-all duration-300 hover:bg-brand-hover hover:scale-105 cursor-pointer"
             >
               {isEn ? "Book Consultation" : "احجز استشارة الآن"}
             </Link>
             <Link
               href={isEn ? "/en/g-retaj" : "/g-retaj"}
-              className="rounded-full border border-white/20 bg-white/5 px-8 py-3.5 text-xs font-medium uppercase tracking-wider text-white transition-all hover:bg-white/10"
+              className="rounded-full border border-white/20 bg-white/5 px-8 py-3.5 text-sm sm:text-base font-semibold uppercase tracking-wider text-white transition-all hover:bg-white/10"
             >
               {isEn ? "Explore G-RETAJ" : "اكتشف فندق جي-رتاج"}
             </Link>

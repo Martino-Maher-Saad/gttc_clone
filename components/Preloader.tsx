@@ -133,7 +133,7 @@ export default function Preloader() {
         <div className="relative h-[1.5px] flex-1 overflow-hidden bg-neutral-200">
           <span
             ref={progressFillRef}
-            className="loader-progress-fill block h-full origin-left rtl:origin-right bg-[#980f0f] will-change-transform"
+            className="loader-progress-fill block h-full origin-left rtl:origin-right bg-brand will-change-transform"
             style={{ transform: "scaleX(0)" }}
           />
         </div>

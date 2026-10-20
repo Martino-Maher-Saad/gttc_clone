@@ -70,32 +70,6 @@
         "ar": "فندقي ساحلي",
         "en": "Coastal Hospitality"
       },
-      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792490676/gttc/g-retaj/gretaj_pdf1_p01_192x70_8a8bab.png",
-      "src": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792490676/gttc/g-retaj/gretaj_pdf1_p01_192x70_8a8bab.png",
-      "width": 192,
-      "height": 70,
-      "aspectRatio": "landscape",
-      "isVideo": false
-    },
-    {
-      "id": "gallery-item-2",
-      "project": "g-retaj",
-      "projectName": {
-        "ar": "فندق ومنتجع جي-رتاج",
-        "en": "G-Retaj Hotel & Resort"
-      },
-      "title": {
-        "ar": "رندر وتصميم فندق ومنتجع جي-رتاج",
-        "en": "G-Retaj Resort Architecture"
-      },
-      "tag": {
-        "ar": "فندقي ساحلي",
-        "en": "Coastal Hospitality"
-      },
-      "category": {
-        "ar": "فندقي ساحلي",
-        "en": "Coastal Hospitality"
-      },
       "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792490711/gttc/g-retaj/gretaj_pdf1_p01_1536x1024_e4180d.png",
       "src": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792490711/gttc/g-retaj/gretaj_pdf1_p01_1536x1024_e4180d.png",
       "width": 1536,
@@ -104,7 +78,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-3",
+      "id": "gallery-item-2",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -130,7 +104,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-4",
+      "id": "gallery-item-3",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -156,7 +130,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-5",
+      "id": "gallery-item-4",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -182,7 +156,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-6",
+      "id": "gallery-item-5",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -208,7 +182,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-7",
+      "id": "gallery-item-6",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -234,7 +208,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-8",
+      "id": "gallery-item-7",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -260,7 +234,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-9",
+      "id": "gallery-item-8",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -286,7 +260,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-10",
+      "id": "gallery-item-9",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -312,7 +286,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-11",
+      "id": "gallery-item-10",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -338,7 +312,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-12",
+      "id": "gallery-item-11",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -364,7 +338,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-13",
+      "id": "gallery-item-12",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -390,7 +364,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-14",
+      "id": "gallery-item-13",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -416,7 +390,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-15",
+      "id": "gallery-item-14",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -442,7 +416,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-16",
+      "id": "gallery-item-15",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -468,7 +442,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-17",
+      "id": "gallery-item-16",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -494,7 +468,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-18",
+      "id": "gallery-item-17",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -520,7 +494,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-19",
+      "id": "gallery-item-18",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -546,7 +520,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-20",
+      "id": "gallery-item-19",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -572,7 +546,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-21",
+      "id": "gallery-item-20",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -598,7 +572,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-22",
+      "id": "gallery-item-21",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -624,7 +598,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-23",
+      "id": "gallery-item-22",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -650,7 +624,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-24",
+      "id": "gallery-item-23",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -676,7 +650,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-25",
+      "id": "gallery-item-24",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -702,7 +676,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-26",
+      "id": "gallery-item-25",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -728,33 +702,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-27",
-      "project": "g-retaj",
-      "projectName": {
-        "ar": "فندق ومنتجع جي-رتاج",
-        "en": "G-Retaj Hotel & Resort"
-      },
-      "title": {
-        "ar": "رندر وتصميم فندق ومنتجع جي-رتاج",
-        "en": "G-Retaj Resort Architecture"
-      },
-      "tag": {
-        "ar": "فندقي ساحلي",
-        "en": "Coastal Hospitality"
-      },
-      "category": {
-        "ar": "فندقي ساحلي",
-        "en": "Coastal Hospitality"
-      },
-      "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491045/gttc/g-retaj/gretaj_pdf2_p10_1982x534_76c0ab.jpg",
-      "src": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491045/gttc/g-retaj/gretaj_pdf2_p10_1982x534_76c0ab.jpg",
-      "width": 1982,
-      "height": 534,
-      "aspectRatio": "landscape",
-      "isVideo": false
-    },
-    {
-      "id": "gallery-item-28",
+      "id": "gallery-item-26",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -780,7 +728,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-29",
+      "id": "gallery-item-27",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -806,7 +754,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-30",
+      "id": "gallery-item-28",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -832,7 +780,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-31",
+      "id": "gallery-item-29",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -858,7 +806,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-32",
+      "id": "gallery-item-30",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -884,7 +832,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-33",
+      "id": "gallery-item-31",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -910,7 +858,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-34",
+      "id": "gallery-item-32",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -936,7 +884,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-35",
+      "id": "gallery-item-33",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -962,7 +910,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-36",
+      "id": "gallery-item-34",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -988,7 +936,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-37",
+      "id": "gallery-item-35",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -1014,7 +962,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-38",
+      "id": "gallery-item-36",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -1040,7 +988,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-39",
+      "id": "gallery-item-37",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -1066,7 +1014,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-40",
+      "id": "gallery-item-38",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -1092,7 +1040,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-41",
+      "id": "gallery-item-39",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -1118,7 +1066,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-42",
+      "id": "gallery-item-40",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -1144,7 +1092,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-43",
+      "id": "gallery-item-41",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -1170,7 +1118,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-44",
+      "id": "gallery-item-42",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -1196,7 +1144,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-45",
+      "id": "gallery-item-43",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -1222,7 +1170,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-46",
+      "id": "gallery-item-44",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -1248,7 +1196,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-47",
+      "id": "gallery-item-45",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -1274,7 +1222,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-48",
+      "id": "gallery-item-46",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -1300,7 +1248,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-49",
+      "id": "gallery-item-47",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -1326,7 +1274,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-50",
+      "id": "gallery-item-48",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -1352,7 +1300,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-51",
+      "id": "gallery-item-49",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -1378,7 +1326,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-52",
+      "id": "gallery-item-50",
       "project": "g-retaj",
       "projectName": {
         "ar": "فندق ومنتجع جي-رتاج",
@@ -1404,7 +1352,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-53",
+      "id": "gallery-item-51",
       "project": "didi-dighomi",
       "projectName": {
         "ar": "برج ديدي ديغومي",
@@ -1430,7 +1378,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-54",
+      "id": "gallery-item-52",
       "project": "didi-dighomi",
       "projectName": {
         "ar": "برج ديدي ديغومي",
@@ -1456,7 +1404,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-55",
+      "id": "gallery-item-53",
       "project": "didi-dighomi",
       "projectName": {
         "ar": "برج ديدي ديغومي",
@@ -1482,7 +1430,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-56",
+      "id": "gallery-item-54",
       "project": "didi-dighomi",
       "projectName": {
         "ar": "برج ديدي ديغومي",
@@ -1508,7 +1456,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-57",
+      "id": "gallery-item-55",
       "project": "sera-retaj",
       "projectName": {
         "ar": "منتجع سيرا رتاج الجبلي",
@@ -1534,7 +1482,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-58",
+      "id": "gallery-item-56",
       "project": "sera-retaj",
       "projectName": {
         "ar": "منتجع سيرا رتاج الجبلي",
@@ -1560,7 +1508,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-59",
+      "id": "gallery-item-57",
       "project": "sera-retaj",
       "projectName": {
         "ar": "منتجع سيرا رتاج الجبلي",
@@ -1586,7 +1534,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-60",
+      "id": "gallery-item-58",
       "project": "sera-retaj",
       "projectName": {
         "ar": "منتجع سيرا رتاج الجبلي",
@@ -1612,7 +1560,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-61",
+      "id": "gallery-item-59",
       "project": "sera-retaj",
       "projectName": {
         "ar": "منتجع سيرا رتاج الجبلي",
@@ -1638,7 +1586,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-62",
+      "id": "gallery-item-60",
       "project": "sera-retaj",
       "projectName": {
         "ar": "منتجع سيرا رتاج الجبلي",
@@ -1664,7 +1612,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-63",
+      "id": "gallery-item-61",
       "project": "sera-retaj",
       "projectName": {
         "ar": "منتجع سيرا رتاج الجبلي",
@@ -1690,7 +1638,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-64",
+      "id": "gallery-item-62",
       "project": "sera-retaj",
       "projectName": {
         "ar": "منتجع سيرا رتاج الجبلي",
@@ -1716,7 +1664,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-65",
+      "id": "gallery-item-63",
       "project": "sera-retaj",
       "projectName": {
         "ar": "منتجع سيرا رتاج الجبلي",
@@ -1742,7 +1690,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-66",
+      "id": "gallery-item-64",
       "project": "sera-retaj",
       "projectName": {
         "ar": "منتجع سيرا رتاج الجبلي",
@@ -1768,7 +1716,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-67",
+      "id": "gallery-item-65",
       "project": "sera-retaj",
       "projectName": {
         "ar": "منتجع سيرا رتاج الجبلي",
@@ -1794,7 +1742,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-68",
+      "id": "gallery-item-66",
       "project": "montbella",
       "projectName": {
         "ar": "منتجع مونتبلا الصحي",
@@ -1820,7 +1768,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-69",
+      "id": "gallery-item-67",
       "project": "montbella",
       "projectName": {
         "ar": "منتجع مونتبلا الصحي",
@@ -1846,7 +1794,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-70",
+      "id": "gallery-item-68",
       "project": "montbella",
       "projectName": {
         "ar": "منتجع مونتبلا الصحي",
@@ -1872,7 +1820,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-71",
+      "id": "gallery-item-69",
       "project": "montbella",
       "projectName": {
         "ar": "منتجع مونتبلا الصحي",
@@ -1898,7 +1846,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-72",
+      "id": "gallery-item-70",
       "project": "montbella",
       "projectName": {
         "ar": "منتجع مونتبلا الصحي",
@@ -1924,7 +1872,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-73",
+      "id": "gallery-item-71",
       "project": "montbella",
       "projectName": {
         "ar": "منتجع مونتبلا الصحي",
@@ -1950,7 +1898,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-74",
+      "id": "gallery-item-72",
       "project": "montbella",
       "projectName": {
         "ar": "منتجع مونتبلا الصحي",
@@ -1976,7 +1924,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-75",
+      "id": "gallery-item-73",
       "project": "montbella",
       "projectName": {
         "ar": "منتجع مونتبلا الصحي",
@@ -2002,7 +1950,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-76",
+      "id": "gallery-item-74",
       "project": "montbella",
       "projectName": {
         "ar": "منتجع مونتبلا الصحي",
@@ -2028,7 +1976,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-77",
+      "id": "gallery-item-75",
       "project": "montbella",
       "projectName": {
         "ar": "منتجع مونتبلا الصحي",
@@ -2054,7 +2002,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-78",
+      "id": "gallery-item-76",
       "project": "montbella",
       "projectName": {
         "ar": "منتجع مونتبلا الصحي",
@@ -2080,7 +2028,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-79",
+      "id": "gallery-item-77",
       "project": "montbella",
       "projectName": {
         "ar": "منتجع مونتبلا الصحي",
@@ -2106,7 +2054,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-80",
+      "id": "gallery-item-78",
       "project": "montbella",
       "projectName": {
         "ar": "منتجع مونتبلا الصحي",
@@ -2132,7 +2080,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-81",
+      "id": "gallery-item-79",
       "project": "montbella",
       "projectName": {
         "ar": "منتجع مونتبلا الصحي",
@@ -2158,7 +2106,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-82",
+      "id": "gallery-item-80",
       "project": "montbella",
       "projectName": {
         "ar": "منتجع مونتبلا الصحي",
@@ -2184,7 +2132,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-83",
+      "id": "gallery-item-81",
       "project": "montbella",
       "projectName": {
         "ar": "منتجع مونتبلا الصحي",
@@ -2210,7 +2158,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-84",
+      "id": "gallery-item-82",
       "project": "montbella",
       "projectName": {
         "ar": "منتجع مونتبلا الصحي",
@@ -2236,7 +2184,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-85",
+      "id": "gallery-item-83",
       "project": "montbella",
       "projectName": {
         "ar": "منتجع مونتبلا الصحي",
@@ -2262,7 +2210,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-86",
+      "id": "gallery-item-84",
       "project": "montbella",
       "projectName": {
         "ar": "منتجع مونتبلا الصحي",
@@ -2288,7 +2236,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-87",
+      "id": "gallery-item-85",
       "project": "montbella",
       "projectName": {
         "ar": "منتجع مونتبلا الصحي",
@@ -2314,7 +2262,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-88",
+      "id": "gallery-item-86",
       "project": "general",
       "projectName": {
         "ar": "مجموعة البرج الذهبي وفنادق رتاج",
@@ -2340,7 +2288,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-89",
+      "id": "gallery-item-87",
       "project": "general",
       "projectName": {
         "ar": "مجموعة البرج الذهبي وفنادق رتاج",
@@ -2366,7 +2314,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-90",
+      "id": "gallery-item-88",
       "project": "general",
       "projectName": {
         "ar": "مجموعة البرج الذهبي وفنادق رتاج",
@@ -2392,7 +2340,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-91",
+      "id": "gallery-item-89",
       "project": "general",
       "projectName": {
         "ar": "مجموعة البرج الذهبي وفنادق رتاج",
@@ -2418,7 +2366,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-92",
+      "id": "gallery-item-90",
       "project": "general",
       "projectName": {
         "ar": "مجموعة البرج الذهبي وفنادق رتاج",
@@ -2444,7 +2392,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-93",
+      "id": "gallery-item-91",
       "project": "general",
       "projectName": {
         "ar": "مجموعة البرج الذهبي وفنادق رتاج",
@@ -2470,7 +2418,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-94",
+      "id": "gallery-item-92",
       "project": "general",
       "projectName": {
         "ar": "مجموعة البرج الذهبي وفنادق رتاج",
@@ -2496,7 +2444,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-95",
+      "id": "gallery-item-93",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -2522,7 +2470,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-96",
+      "id": "gallery-item-94",
       "project": "general",
       "projectName": {
         "ar": "مجموعة البرج الذهبي وفنادق رتاج",
@@ -2548,7 +2496,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-97",
+      "id": "gallery-item-95",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -2574,7 +2522,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-98",
+      "id": "gallery-item-96",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -2600,7 +2548,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-99",
+      "id": "gallery-item-97",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -2626,7 +2574,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-100",
+      "id": "gallery-item-98",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -2652,7 +2600,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-101",
+      "id": "gallery-item-99",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -2678,7 +2626,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-102",
+      "id": "gallery-item-100",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -2704,7 +2652,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-103",
+      "id": "gallery-item-101",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -2730,7 +2678,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-104",
+      "id": "gallery-item-102",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -2756,7 +2704,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-105",
+      "id": "gallery-item-103",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -2782,7 +2730,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-106",
+      "id": "gallery-item-104",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -2808,7 +2756,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-107",
+      "id": "gallery-item-105",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -2834,7 +2782,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-108",
+      "id": "gallery-item-106",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -2860,7 +2808,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-109",
+      "id": "gallery-item-107",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -2886,7 +2834,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-110",
+      "id": "gallery-item-108",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -2912,7 +2860,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-111",
+      "id": "gallery-item-109",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -2938,7 +2886,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-112",
+      "id": "gallery-item-110",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -2964,7 +2912,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-113",
+      "id": "gallery-item-111",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -2990,7 +2938,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-114",
+      "id": "gallery-item-112",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -3016,7 +2964,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-115",
+      "id": "gallery-item-113",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -3042,7 +2990,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-116",
+      "id": "gallery-item-114",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -3068,7 +3016,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-117",
+      "id": "gallery-item-115",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -3094,7 +3042,7 @@
       "isVideo": false
     },
     {
-      "id": "gallery-item-118",
+      "id": "gallery-item-116",
       "project": "site-progress",
       "projectName": {
         "ar": "متابعة أرض الواقع والإنشاءات",
@@ -3118,58 +3066,6 @@
       "height": 1086,
       "aspectRatio": "landscape",
       "isVideo": false
-    },
-    {
-      "id": "gallery-item-119",
-      "project": "site-progress",
-      "projectName": {
-        "ar": "متابعة أرض الواقع والإنشاءات",
-        "en": "On-Site Construction Update"
-      },
-      "title": {
-        "ar": "صور ميدانية واقعية من موقع العمل والإنشاءات",
-        "en": "Live On-Site Progress Photo"
-      },
-      "tag": {
-        "ar": "تطورات ميدانية",
-        "en": "Live Site Update"
-      },
-      "category": {
-        "ar": "تطورات ميدانية",
-        "en": "Live Site Update"
-      },
-      "image": "https://res.cloudinary.com/izrnyvya/video/upload/f_auto,q_auto/v1792491242/gttc/whatsapp/WhatsApp_Video_2026-10-19_at_12_44_12_PM__1_.mp4",
-      "src": "https://res.cloudinary.com/izrnyvya/video/upload/f_auto,q_auto/v1792491242/gttc/whatsapp/WhatsApp_Video_2026-10-19_at_12_44_12_PM__1_.mp4",
-      "width": 464,
-      "height": 832,
-      "aspectRatio": "portrait",
-      "isVideo": true
-    },
-    {
-      "id": "gallery-item-120",
-      "project": "site-progress",
-      "projectName": {
-        "ar": "متابعة أرض الواقع والإنشاءات",
-        "en": "On-Site Construction Update"
-      },
-      "title": {
-        "ar": "صور ميدانية واقعية من موقع العمل والإنشاءات",
-        "en": "Live On-Site Progress Photo"
-      },
-      "tag": {
-        "ar": "تطورات ميدانية",
-        "en": "Live Site Update"
-      },
-      "category": {
-        "ar": "تطورات ميدانية",
-        "en": "Live Site Update"
-      },
-      "image": "https://res.cloudinary.com/izrnyvya/video/upload/f_auto,q_auto/v1792491259/gttc/whatsapp/WhatsApp_Video_2026-10-19_at_12_44_12_PM.mp4",
-      "src": "https://res.cloudinary.com/izrnyvya/video/upload/f_auto,q_auto/v1792491259/gttc/whatsapp/WhatsApp_Video_2026-10-19_at_12_44_12_PM.mp4",
-      "width": 1440,
-      "height": 1920,
-      "aspectRatio": "portrait",
-      "isVideo": true
     }
   ]
 }

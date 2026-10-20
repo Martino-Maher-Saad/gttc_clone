@@ -1,9 +1,10 @@
 "use client";
 
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import Image from "next/image";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import LeadModal from "@/components/LeadModal";
 
 interface Phase {
   id: string;
@@ -32,6 +33,7 @@ export default function ProjectPhasesShowcase({
   units,
   isEn = false,
 }: ProjectPhasesShowcaseProps) {
+  const [isModalOpen, setIsModalOpen] = useState(false);
   const sectionRef = useRef<HTMLElement>(null);
   const langKey = isEn ? "en" : "ar";
 
@@ -161,19 +163,20 @@ export default function ProjectPhasesShowcase({
 
       {/* CTA Button matching live Section 4 */}
       <div className="mx-auto mt-20 flex w-full max-w-7xl justify-center px-6 sm:mt-24 sm:px-10 lg:px-14">
-        <a
-          href="#contact"
-          className="units-cta group relative inline-flex items-center gap-3 overflow-hidden rounded-full bg-brand px-8 py-3.5 text-xs font-medium uppercase tracking-wider text-white transition-[background-color,box-shadow,transform] duration-500 ease-[cubic-bezier(0.5,0,0.1,1)] hover:-translate-y-[2px] hover:bg-brand-hover hover:shadow-[0_18px_40px_-12px_rgba(152,15,15,0.45)] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand cursor-pointer"
+        <button
+          type="button"
+          onClick={() => setIsModalOpen(true)}
+          className="units-cta group relative inline-flex items-center gap-3 overflow-hidden rounded-full bg-brand px-8 py-3.5 text-sm font-semibold uppercase tracking-wider text-white transition-[background-color,box-shadow,transform] duration-500 ease-[cubic-bezier(0.5,0,0.1,1)] hover:-translate-y-[2px] hover:bg-brand-hover hover:shadow-[0_18px_40px_-12px_rgba(166,124,46,0.4)] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand cursor-pointer"
         >
           <span className="relative block overflow-hidden leading-[1.2]">
             <span className="block transition-transform duration-500 ease-[cubic-bezier(0.5,0,0.1,1)] group-hover:-translate-y-full">
-              {isEn ? "Learn More" : "اعرف أكثر"}
+              {isEn ? "Learn More & Request Details" : "اعرف أكثر — طلب استشارة"}
             </span>
             <span
               aria-hidden="true"
               className="absolute inset-0 block translate-y-full transition-transform duration-500 ease-[cubic-bezier(0.5,0,0.1,1)] group-hover:translate-y-0"
             >
-              {isEn ? "Learn More" : "اعرف أكثر"}
+              {isEn ? "Learn More & Request Details" : "اعرف أكثر — طلب استشارة"}
             </span>
           </span>
           <svg
@@ -192,8 +195,14 @@ export default function ProjectPhasesShowcase({
               strokeLinejoin="round"
             />
           </svg>
-        </a>
+        </button>
       </div>
+
+      <LeadModal
+        isOpen={isModalOpen}
+        onClose={() => setIsModalOpen(false)}
+        isEn={isEn}
+      />
     </section>
   );
 }

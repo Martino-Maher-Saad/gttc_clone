@@ -28,22 +28,22 @@ export default function Footer({ isEn = false }: FooterProps) {
                 className="h-12 w-auto object-contain rounded-md p-1 bg-white"
               />
             </Link>
-            <p className="mt-6 max-w-md text-[14px] leading-relaxed text-background/65 sm:text-[15px]">
+            <p className="mt-6 max-w-md text-base sm:text-lg leading-relaxed text-background/80 font-normal">
               {footerData.about[langKey]}
             </p>
           </div>
 
           {/* Quick Links */}
           <div className="col-span-1 md:col-span-3">
-            <h4 className="text-[11px] font-medium uppercase tracking-[0.25em] rtl:tracking-[0.08em] text-background/50">
+            <h4 className="text-sm sm:text-base font-semibold uppercase tracking-[0.2em] rtl:tracking-[0.08em] text-background/70">
               {footerData.quickLinksTitle[langKey]}
             </h4>
-            <ul className="mt-6 space-y-3.5">
+            <ul className="mt-6 space-y-4">
               {navLinks.map((link) => (
                 <li key={link.href}>
                   <Link
                     href={link.href}
-                    className="footer-link inline-block text-[14px] text-background/75 transition-colors hover:text-white font-normal"
+                    className="footer-link inline-block text-base sm:text-lg text-background/85 transition-colors hover:text-white font-medium"
                   >
                     {link.label}
                   </Link>
@@ -54,20 +54,20 @@ export default function Footer({ isEn = false }: FooterProps) {
 
           {/* Contact Information */}
           <div className="col-span-1 md:col-span-4">
-            <h4 className="text-[11px] font-medium uppercase tracking-[0.25em] rtl:tracking-[0.08em] text-background/50">
+            <h4 className="text-sm sm:text-base font-semibold uppercase tracking-[0.2em] rtl:tracking-[0.08em] text-background/70">
               {footerData.contactTitle[langKey]}
             </h4>
-            <ul className="mt-6 space-y-4">
+            <ul className="mt-6 space-y-5">
               <li className="flex items-start gap-3">
-                <Phone className="mt-0.5 shrink-0 text-brand h-4 w-4" strokeWidth={1.5} />
-                <div className="text-[14px]">
-                  <p className="text-[10px] uppercase tracking-[0.2em] rtl:tracking-[0.06em] text-background/45 font-medium">
-                    {isEn ? "Sales" : "المبيعات"}
+                <Phone className="mt-1 shrink-0 text-brand h-5 w-5" strokeWidth={1.5} />
+                <div className="text-base sm:text-lg">
+                  <p className="text-sm uppercase tracking-[0.15em] rtl:tracking-[0.06em] text-background/65 font-semibold">
+                    {isEn ? "Sales & Reservations" : "المبيعات والحجوزات"}
                   </p>
                   <a
                     dir="ltr"
                     href={`tel:${footerData.phone}`}
-                    className="text-background/90 transition-colors hover:text-brand font-medium tabular-nums"
+                    className="text-background/95 transition-colors hover:text-brand font-bold tabular-nums text-base sm:text-lg"
                   >
                     {footerData.phone}
                   </a>
@@ -75,14 +75,14 @@ export default function Footer({ isEn = false }: FooterProps) {
               </li>
 
               <li className="flex items-start gap-3">
-                <Mail className="mt-0.5 shrink-0 text-brand h-4 w-4" strokeWidth={1.5} />
-                <div className="text-[14px]">
-                  <p className="text-[10px] uppercase tracking-[0.2em] rtl:tracking-[0.06em] text-background/45 font-medium">
+                <Mail className="mt-1 shrink-0 text-brand h-5 w-5" strokeWidth={1.5} />
+                <div className="text-base sm:text-lg">
+                  <p className="text-sm uppercase tracking-[0.15em] rtl:tracking-[0.06em] text-background/65 font-semibold">
                     {isEn ? "Email" : "البريد الإلكتروني"}
                   </p>
                   <a
                     href={`mailto:${footerData.email}`}
-                    className="text-background/90 transition-colors hover:text-brand font-normal"
+                    className="text-background/95 transition-colors hover:text-brand font-medium text-base"
                   >
                     {footerData.email}
                   </a>
@@ -90,12 +90,12 @@ export default function Footer({ isEn = false }: FooterProps) {
               </li>
 
               <li className="flex items-start gap-3">
-                <MapPin className="mt-0.5 shrink-0 text-brand h-4 w-4" strokeWidth={1.5} />
-                <div className="text-[14px]">
-                  <p className="text-[10px] uppercase tracking-[0.2em] rtl:tracking-[0.06em] text-background/45 font-medium">
+                <MapPin className="mt-1 shrink-0 text-brand h-5 w-5" strokeWidth={1.5} />
+                <div className="text-base sm:text-lg">
+                  <p className="text-sm uppercase tracking-[0.15em] rtl:tracking-[0.06em] text-background/65 font-semibold">
                     {isEn ? "Location" : "الموقع"}
                   </p>
-                  <span className="text-background/90 font-normal">
+                  <span className="text-background/95 font-medium text-sm sm:text-base">
                     {footerData.address[langKey]}
                   </span>
                 </div>
@@ -106,14 +106,14 @@ export default function Footer({ isEn = false }: FooterProps) {
 
         {/* Bottom Bar: Disclaimer, Social, Copyright */}
         <div className="mt-20 flex flex-col gap-8 border-t border-background/10 pt-8 sm:mt-24 md:flex-row md:items-center md:justify-between lg:mt-28">
-          <p className="order-2 max-w-md text-[11px] leading-relaxed text-background/45 md:order-1">
+          <p className="order-2 max-w-md text-sm leading-relaxed text-background/70 md:order-1 font-normal">
             {isEn
               ? `Official authorized platform for marketing ${siteConfig.brand.name_en} developments.`
               : `منصة رسمية معتمدة لتسويق مشروعات ${siteConfig.brand.name_ar} الفندقية الاستثمارية.`}
           </p>
 
           <div className="order-1 flex items-center gap-2 md:order-2">
-            <span className="me-3 text-[10px] uppercase tracking-[0.32em] text-background/45">
+            <span className="me-3 text-sm uppercase tracking-[0.25em] text-background/70 font-semibold">
               {isEn ? "Follow Us" : "تابعنا"}
             </span>
 
@@ -196,7 +196,7 @@ export default function Footer({ isEn = false }: FooterProps) {
             </a>
           </div>
 
-          <p className="order-3 text-[11px] text-background/55">
+          <p className="order-3 text-xs text-background/60">
             {isEn
               ? `All rights reserved © ${new Date().getFullYear()} — ${siteConfig.brand.name_en}`
               : `جميع الحقوق محفوظة © ${new Date().getFullYear()} — ${siteConfig.brand.name_ar}`}

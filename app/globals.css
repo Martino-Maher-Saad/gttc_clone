@@ -16,20 +16,20 @@
   --text-muted: #736d65;
   --border-color: rgba(23, 20, 16, 0.08);
   
-  /* Golden Tower & Retaj Brand Palette */
-  --brand-primary: #980f0f;
-  --brand-primary-hover: #7b0c0c;
-  --brand-secondary: #f24155;
-  --brand-accent: #c3292c;
-  --brand-accent-hover: #a81e21;
-  --brand-gold: #bfa15f;
+  /* Golden Tower & Retaj Official Saturated Imperial Gold Palette */
+  --brand-primary: #b37812;
+  --brand-primary-hover: #91600b;
+  --brand-secondary: #704706;
+  --brand-accent: #cc8e1b;
+  --brand-accent-hover: #b37812;
+  --brand-gold: #b37812;
   
   --glass-bg: rgba(255, 255, 255, 0.9);
   --glass-border: rgba(23, 20, 16, 0.08);
 }
 
 .dark {
-  /* Dark Mode - Premium Cinematic Onyx */
+  /* Dark Mode - Premium Cinematic Onyx & Saturated Gold */
   --bg-primary: #0a0908;
   --bg-secondary: #141210;
   --bg-card: rgba(20, 18, 16, 0.88);
@@ -38,36 +38,43 @@
   --text-muted: #8c857b;
   --border-color: rgba(255, 255, 255, 0.08);
 
-  /* Golden Tower & Retaj Official Brand Colors */
-  --brand-primary: #f24155;
-  --brand-primary-hover: #ff5e70;
-  --brand-secondary: #980f0f;
-  --brand-accent: #e63246;
-  --brand-accent-hover: #ff4d61;
-  --brand-gold: #d4af37;
+  /* Golden Tower & Retaj Official Gold Colors */
+  --brand-primary: #d49524;
+  --brand-primary-hover: #e8ab38;
+  --brand-secondary: #91600b;
+  --brand-accent: #e8ab38;
+  --brand-accent-hover: #f5c464;
+  --brand-gold: #d49524;
 
   --glass-bg: rgba(20, 18, 16, 0.88);
   --glass-border: rgba(255, 255, 255, 0.08);
 }
 
-/* Selection Styling matching original site */
+/* Selection Styling matching brand gold */
 ::selection,
 *::selection {
-  background-color: #980f0f !important;
+  background-color: #b37812 !important;
   color: #ffffff !important;
 }
 
 ::-moz-selection,
 *::-moz-selection {
-  background-color: #980f0f !important;
+  background-color: #b37812 !important;
   color: #ffffff !important;
 }
 
 html {
+  font-size: 16px;
   scroll-behavior: smooth;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
+}
+
+@media (max-width: 640px) {
+  html {
+    font-size: 17.5px;
+  }
 }
 
 body {

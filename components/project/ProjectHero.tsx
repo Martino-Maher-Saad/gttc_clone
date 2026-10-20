@@ -1,21 +1,21 @@
 "use client";
 
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import Image from "next/image";
 import { gsap } from "gsap";
+import LeadModal from "@/components/LeadModal";
 
 interface ProjectHeroProps {
   project: {
+    slug?: string;
     name: { ar: string; en: string };
+    location?: { ar: string; en: string };
+    status?: { ar: string; en: string };
+    area?: { ar: string; en: string };
     hero: {
       eyebrow: { ar: string; en: string };
       title: { ar: string; en: string };
       subtitle: { ar: string; en: string };
-      startingPriceText: { ar: string; en: string };
-      downPayment: string;
-      installmentYears: number;
-      deliveryYears: number;
-      cashDiscount: string;
       heroImage: string;
       heroVideo?: string;
     };
@@ -24,6 +24,7 @@ interface ProjectHeroProps {
 }
 
 export default function ProjectHero({ project, isEn = false }: ProjectHeroProps) {
+  const [isModalOpen, setIsModalOpen] = useState(false);
   const containerRef = useRef<HTMLElement>(null);
   const langKey = isEn ? "en" : "ar";
   const { hero } = project;
@@ -101,7 +102,7 @@ export default function ProjectHero({ project, isEn = false }: ProjectHeroProps)
           <div className="mx-auto max-w-3xl text-center sm:mx-0 sm:text-start">
             <p
               data-hero-item="true"
-              className="inline-block rounded-sm bg-black/50 backdrop-blur-md px-3.5 py-1.5 text-[11px] font-medium uppercase tracking-[0.25em] rtl:tracking-[0.08em] text-white/90 border border-white/10"
+              className="inline-block rounded-full bg-black/50 backdrop-blur-md px-4 py-1.5 text-xs font-semibold uppercase tracking-[0.25em] rtl:tracking-[0.08em] text-white/90 border border-white/10"
             >
               {hero.eyebrow[langKey]}
             </p>
@@ -127,7 +128,7 @@ export default function ProjectHero({ project, isEn = false }: ProjectHeroProps)
 
             <p
               data-hero-item="true"
-              className="mx-auto mt-6 max-w-xl rounded-sm bg-black/45 backdrop-blur-md px-4 py-3 text-[14px] sm:text-[15px] font-normal leading-relaxed text-white/90 sm:mx-0 sm:mt-7 border border-white/10"
+              className="mx-auto mt-6 max-w-xl rounded-md bg-black/45 backdrop-blur-md px-5 py-3.5 text-sm sm:text-base font-normal leading-relaxed text-white/90 sm:mx-0 sm:mt-7 border border-white/10"
             >
               {hero.subtitle[langKey]}
             </p>
@@ -136,81 +137,76 @@ export default function ProjectHero({ project, isEn = false }: ProjectHeroProps)
               data-hero-item="true"
               className="mt-8 flex justify-center sm:mt-10 sm:justify-start"
             >
-              <a
-                href="#apartments-pricing"
-                className="inline-flex items-center gap-3 rounded-full bg-brand px-7 py-3 text-xs font-medium uppercase tracking-wider text-white shadow-xl transition-all duration-300 hover:bg-brand-hover hover:scale-105 cursor-pointer"
+              <button
+                type="button"
+                onClick={() => setIsModalOpen(true)}
+                className="inline-flex items-center gap-3 rounded-full bg-brand px-8 py-3.5 text-sm sm:text-base font-semibold uppercase tracking-wider text-white shadow-xl transition-all duration-300 hover:bg-brand-hover hover:scale-105 cursor-pointer"
               >
-                <span>{isEn ? "Explore Prices" : "اعرف الأسعار"}</span>
+                <span>{isEn ? "Request Consultation & Booking" : "طلب استشارة وحجز"}</span>
                 <span aria-hidden="true" className="rtl:-scale-x-100">
                   ←
                 </span>
-              </a>
+              </button>
             </div>
           </div>
         </div>
       </section>
 
-      {/* Floating Bottom Card Matching Live Reference Exactly */}
+      {/* Floating Bottom Card Grounded in Authentic PDF Data */}
       <div className="relative z-10 mx-auto -mt-16 w-full max-w-7xl px-6 sm:-mt-24 sm:px-10 lg:px-14">
         <div
           data-hero-item="true"
-          className="mx-auto max-w-3xl rounded-sm border border-black/[0.08] bg-white p-4 text-center text-[#171410] shadow-[0_24px_60px_-20px_rgba(20,17,15,0.2)] sm:mx-0 sm:p-7 sm:text-start"
+          className="mx-auto max-w-3xl rounded-md border border-black/[0.08] dark:border-white/10 bg-white dark:bg-[#141210] p-5 text-center text-[#171410] dark:text-white shadow-[0_24px_60px_-20px_rgba(20,17,15,0.2)] sm:mx-0 sm:p-7 sm:text-start"
         >
           <div className="flex flex-col items-center gap-3 sm:flex-row sm:items-center sm:justify-between sm:gap-4">
             <div>
-              <p className="text-[10px] font-medium uppercase tracking-[0.2em] rtl:tracking-[0.06em] text-neutral-500">
-                {isEn
-                  ? `${project.name.en} Prices 2026`
-                  : `أسعار ${project.name.ar} القاهرة الجديدة 2026`}
+              <p className="text-xs font-semibold uppercase tracking-[0.2em] rtl:tracking-[0.06em] text-neutral-500 dark:text-neutral-400">
+                {isEn ? "Development Overview" : "نظرة عامة على المشروع"}
               </p>
-              <p className="font-display mt-1 text-[clamp(1.25rem,4vw,2.4rem)] leading-none tracking-tight text-brand font-semibold tabular-nums">
-                {isEn
-                  ? `Prices start from ${hero.startingPriceText.en}`
-                  : `أسعار تبدأ من ${hero.startingPriceText.ar}`}
+              <p className="font-display mt-1 text-[clamp(1.2rem,3vw,1.8rem)] leading-snug tracking-tight text-brand font-semibold">
+                {project.location ? project.location[langKey] : (isEn ? "Georgia" : "جورجيا")}
               </p>
             </div>
-            <span className="inline-flex w-fit shrink-0 items-center rounded-full bg-brand px-3.5 py-1.5 text-[11px] sm:text-[12px] font-medium text-white shadow-xs">
-              {isEn
-                ? `Up to ${hero.cashDiscount} Cash Discount`
-                : `خصم يصل إلى ${hero.cashDiscount} كاش`}
+            <span className="inline-flex w-fit shrink-0 items-center rounded-full bg-brand px-4 py-1.5 text-xs font-semibold text-white shadow-xs">
+              {project.status ? project.status[langKey] : (isEn ? "Premium Hospitality" : "ضيافة فندقية فاخرة")}
             </span>
           </div>
 
-          <div className="mt-4 flex flex-col items-center gap-3 border-t border-neutral-100 pt-3.5 sm:flex-row sm:flex-wrap sm:items-center sm:justify-between sm:gap-4 sm:pt-4">
+          <div className="mt-4 flex flex-col items-center gap-3 border-t border-neutral-100 dark:border-white/10 pt-3.5 sm:flex-row sm:flex-wrap sm:items-center sm:justify-between sm:gap-4 sm:pt-4">
             <ul className="flex flex-wrap justify-center gap-1.5 sm:justify-start sm:gap-2">
-              <li className="rounded-full border border-neutral-200/90 bg-neutral-50/60 px-3 py-1 text-[11px] font-medium tracking-[0.02em] text-neutral-700">
-                {isEn
-                  ? `Down payment from ${hero.downPayment}`
-                  : `مقدم يبدأ من ${hero.downPayment}`}
+              <li className="rounded-full border border-neutral-200/90 dark:border-white/10 bg-neutral-50/60 dark:bg-white/5 px-3.5 py-1.5 text-xs font-medium tracking-[0.02em] text-neutral-700 dark:text-neutral-200">
+                {isEn ? "Operator: Retaj Hotels & Hospitality" : "الإدارة: فنادق رتاج العالمية"}
               </li>
-              <li className="rounded-full border border-neutral-200/90 bg-neutral-50/60 px-3 py-1 text-[11px] font-medium tracking-[0.02em] text-neutral-700">
-                {isEn
-                  ? `Installments up to ${hero.installmentYears} years`
-                  : `أقساط حتى ${hero.installmentYears} سنة`}
+              <li className="rounded-full border border-neutral-200/90 dark:border-white/10 bg-neutral-50/60 dark:bg-white/5 px-3.5 py-1.5 text-xs font-medium tracking-[0.02em] text-neutral-700 dark:text-neutral-200">
+                {isEn ? "100% Freehold Foreign Ownership" : "تملك حر 100% للأجانب"}
               </li>
-              <li className="rounded-full border border-neutral-200/90 bg-neutral-50/60 px-3 py-1 text-[11px] font-medium tracking-[0.02em] text-neutral-700">
-                {isEn
-                  ? "Delivered phases & under construction"
-                  : "مراحل متسلمة وأخرى قيد الإنشاء"}
+              <li className="rounded-full border border-neutral-200/90 dark:border-white/10 bg-neutral-50/60 dark:bg-white/5 px-3.5 py-1.5 text-xs font-medium tracking-[0.02em] text-neutral-700 dark:text-neutral-200">
+                {isEn ? "Periodic USD Rental Yields" : "عوائد دورية بالدولار"}
               </li>
-              <li className="rounded-full border border-neutral-200/90 bg-neutral-50/60 px-3 py-1 text-[11px] font-medium tracking-[0.02em] text-neutral-700">
-                {isEn
-                  ? `Delivery from ${hero.deliveryYears} to 4 years`
-                  : `تسليم من سنة إلى 4 سنوات`}
+              <li className="rounded-full border border-neutral-200/90 dark:border-white/10 bg-neutral-50/60 dark:bg-white/5 px-3.5 py-1.5 text-xs font-medium tracking-[0.02em] text-neutral-700 dark:text-neutral-200">
+                {isEn ? "100% Fully Furnished Suites" : "تسليم مفروش بالكامل"}
               </li>
             </ul>
-            <a
-              href="#apartments-pricing"
-              className="hidden items-center gap-2 text-[13px] font-medium text-brand underline-offset-4 hover:underline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand sm:inline-flex cursor-pointer"
+            <button
+              type="button"
+              onClick={() => setIsModalOpen(true)}
+              className="hidden items-center gap-2 text-xs sm:text-sm font-bold text-brand underline-offset-4 hover:underline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand sm:inline-flex cursor-pointer"
             >
-              <span>{isEn ? "Explore Prices" : "اعرف الأسعار"}</span>
+              <span>{isEn ? "Inquire Now" : "استفسر الآن"}</span>
               <span aria-hidden="true" className="rtl:-scale-x-100">
                 ←
               </span>
-            </a>
+            </button>
           </div>
         </div>
       </div>
+
+      <LeadModal
+        isOpen={isModalOpen}
+        onClose={() => setIsModalOpen(false)}
+        isEn={isEn}
+        initialProject={project.slug || "g-retaj"}
+      />
     </>
   );
 }

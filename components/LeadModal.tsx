@@ -118,7 +118,7 @@ export default function LeadModal({
           type="button"
           onClick={onClose}
           aria-label={isEn ? "Close" : "إغلاق"}
-          className="absolute end-4 top-4 inline-flex h-9 w-9 items-center justify-center rounded-full text-[#171410] transition-colors hover:bg-neutral-100 focus-visible:outline-2 focus-visible:outline-[#980f0f] cursor-pointer"
+          className="absolute end-4 top-4 inline-flex h-9 w-9 items-center justify-center rounded-full text-[#171410] transition-colors hover:bg-neutral-100 focus-visible:outline-2 focus-visible:outline-brand cursor-pointer"
         >
           <X className="w-4 h-4" />
         </button>
@@ -131,13 +131,13 @@ export default function LeadModal({
             </h4>
             <p className="text-sm text-neutral-600 font-normal">
               {isEn
-                ? "Our senior investment consultant will contact you shortly with full project details and pricing."
-                : "سيقوم مستشار الاستثمار بالتواصل معك فوراً لتزويدك بكافة تفاصيل المشروع والأسعار وخطط السداد."}
+                ? "Our senior investment consultant will contact you shortly with full project details and brochures."
+                : "سيقوم مستشار الاستثمار بالتواصل معك فوراً لتزويدك بكافة تفاصيل المشروع والمخططات المعتمدة."}
             </p>
           </div>
         ) : (
           <>
-            <p className="text-[11px] font-medium uppercase tracking-[0.25em] rtl:tracking-[0.08em] text-neutral-500">
+            <p className="text-xs font-semibold uppercase tracking-[0.25em] rtl:tracking-[0.08em] text-neutral-500">
               {isEn ? "Register your interest" : "سجل بياناتك للحصول على التفاصيل"}
             </p>
             <h3 className="font-display mt-2 text-2xl font-semibold leading-tight tracking-tight text-[#171410] sm:text-3xl">
@@ -146,7 +146,7 @@ export default function LeadModal({
 
             <form onSubmit={handleSubmit} className="mt-6 flex flex-col gap-5">
               <div>
-                <label className="block text-[11px] font-medium uppercase tracking-[0.18em] rtl:tracking-[0.06em] text-neutral-600 mb-1">
+                <label className="block text-xs font-semibold uppercase tracking-[0.18em] rtl:tracking-[0.06em] text-neutral-600 mb-1">
                   {isEn ? "Full Name" : "اسمك بالكامل"}
                 </label>
                 <input
@@ -155,33 +155,33 @@ export default function LeadModal({
                   placeholder={isEn ? "Full Name" : "اسمك بالكامل"}
                   value={formData.name}
                   onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-                  className="w-full border-b border-neutral-300/80 bg-transparent py-2.5 text-sm text-[#171410] placeholder:text-neutral-400 focus:border-[#980f0f] focus:outline-none transition-colors font-normal"
+                  className="w-full border-b border-neutral-300/80 bg-transparent py-2.5 text-sm text-[#171410] placeholder:text-neutral-400 focus:border-brand focus:outline-none transition-colors font-normal"
                 />
               </div>
 
               <div>
-                <label className="block text-[11px] font-medium uppercase tracking-[0.18em] rtl:tracking-[0.06em] text-neutral-600 mb-1">
-                  {isEn ? "Phone Number (with country code)" : "رقم الموبايل (مع كود الدولة)"}
+                <label className="block text-xs font-semibold uppercase tracking-[0.18em] rtl:tracking-[0.06em] text-neutral-600 mb-1">
+                  {isEn ? "Phone Number" : "رقم الهاتف"}
                 </label>
                 <input
                   type="tel"
                   required
                   dir="ltr"
-                  placeholder="+974 / +995 / +20 ..."
+                  placeholder="01015626755..."
                   value={formData.phone}
                   onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
-                  className="w-full border-b border-neutral-300/80 bg-transparent py-2.5 text-sm text-[#171410] placeholder:text-neutral-400 focus:border-[#980f0f] focus:outline-none transition-colors font-normal"
+                  className="w-full border-b border-neutral-300/80 bg-transparent py-2.5 text-sm text-[#171410] placeholder:text-neutral-400 focus:border-brand focus:outline-none transition-colors font-normal"
                 />
               </div>
 
               <div>
-                <label className="block text-[11px] font-medium uppercase tracking-[0.18em] rtl:tracking-[0.06em] text-neutral-600 mb-1">
+                <label className="block text-xs font-semibold uppercase tracking-[0.18em] rtl:tracking-[0.06em] text-neutral-600 mb-1">
                   {isEn ? "Selected Project" : "المشروع المختار"}
                 </label>
                 <select
                   value={formData.project}
                   onChange={(e) => setFormData({ ...formData, project: e.target.value })}
-                  className="w-full border-b border-neutral-300/80 bg-transparent py-2.5 text-sm text-[#171410] focus:border-[#980f0f] focus:outline-none transition-colors cursor-pointer font-normal"
+                  className="w-full border-b border-neutral-300/80 bg-transparent py-2.5 text-sm text-[#171410] focus:border-brand focus:outline-none transition-colors cursor-pointer font-normal"
                 >
                   <option value="g-retaj">
                     {isEn ? "G-Retaj Hotel & Resort (Black Sea)" : "فندق ومنتجع جي-رتاج (شاطئ البحر الأسود)"}
@@ -201,7 +201,7 @@ export default function LeadModal({
               <button
                 type="submit"
                 disabled={loading}
-                className="mt-4 w-full py-3.5 rounded-full bg-[#980f0f] hover:bg-[#7b0c0c] text-white font-medium text-xs uppercase tracking-wider transition-all shadow-md flex items-center justify-center gap-2 cursor-pointer active:scale-[0.98] disabled:opacity-50"
+                className="mt-4 w-full py-3.5 rounded-full bg-brand hover:bg-brand-hover text-white font-semibold text-xs sm:text-sm uppercase tracking-wider transition-all shadow-md flex items-center justify-center gap-2 cursor-pointer active:scale-[0.98] disabled:opacity-50"
               >
                 <span>{loading ? (isEn ? "Submitting..." : "جاري الإرسال...") : (isEn ? "Submit Request" : "إرسال الطلب")}</span>
               </button>

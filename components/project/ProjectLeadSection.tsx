@@ -63,7 +63,7 @@ export default function ProjectLeadSection({
           y1="0.5"
           x2="1280"
           y2="0.5"
-          stroke="#980f0f"
+          stroke="#a67c2e"
           strokeOpacity="0.55"
           strokeWidth="1"
         />
@@ -71,7 +71,7 @@ export default function ProjectLeadSection({
 
       <div className="relative mx-auto w-full max-w-7xl px-6 sm:px-10 lg:px-14">
         <header className="mx-auto max-w-2xl text-center">
-          <p className="contact-eyebrow text-brand text-[11px] font-medium uppercase tracking-[0.25em] rtl:tracking-[0.08em]">
+          <p className="contact-eyebrow text-brand text-xs font-semibold uppercase tracking-[0.25em] rtl:tracking-[0.08em]">
             {isEn ? "Contact Form" : "نموذج التواصل"}
           </p>
           <h2
@@ -216,7 +216,7 @@ export default function ProjectLeadSection({
           y1="0.5"
           x2="1280"
           y2="0.5"
-          stroke="#980f0f"
+          stroke="#a67c2e"
           strokeOpacity="0.55"
           strokeWidth="1"
         />

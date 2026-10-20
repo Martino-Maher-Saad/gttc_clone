@@ -5,7 +5,6 @@ import { getPageMetadata, type StandardPageKey } from "@/lib/seo";
 
 import ProjectHero from "@/components/project/ProjectHero";
 import ProjectMasterplan from "@/components/project/ProjectMasterplan";
-import ProjectPricingPhases from "@/components/project/ProjectPricingPhases";
 import ProjectPhasesShowcase from "@/components/project/ProjectPhasesShowcase";
 import ProjectDelivered, { type DeliveredSectionData } from "@/components/project/ProjectDelivered";
 import ProjectLeadSection from "@/components/project/ProjectLeadSection";
@@ -45,14 +44,6 @@ export default async function ProjectPageEn({ params }: PageProps) {
     <div className="flex-1 flex flex-col">
       <ProjectHero project={project} isEn={true} />
       <ProjectMasterplan project={project} isEn={true} />
-      <ProjectPricingPhases
-        projectSlug={slug}
-        projectName={project.name}
-        pricingSection={project.pricingSection}
-        phases={project.phases}
-        units={project.units}
-        isEn={true}
-      />
       <ProjectPhasesShowcase
         projectName={project.name}
         phases={project.phases}

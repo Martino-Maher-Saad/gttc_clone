@@ -134,14 +134,14 @@ export default function GalleryView({ isEn = false }: GalleryViewProps) {
                 </div>
 
                 {/* Top Badge */}
-                <span className="absolute start-3 top-3 rounded-full bg-[#14110f]/80 px-3 py-1 text-[10px] font-medium uppercase tracking-[0.15em] text-white backdrop-blur-md">
+                <span className="absolute start-3 top-3 rounded-full bg-[#14110f]/80 px-3.5 py-1 text-xs font-semibold uppercase tracking-[0.15em] text-white backdrop-blur-md">
                   {item.projectName[langKey]}
                 </span>
               </div>
 
               {/* Caption */}
               <div className="p-4 sm:p-5">
-                <span className="text-[11px] font-medium uppercase tracking-wider text-brand">
+                <span className="text-xs font-semibold uppercase tracking-wider text-brand">
                   {item.tag[langKey]}
                 </span>
                 <h3 className="font-display mt-1 text-base sm:text-lg font-semibold text-foreground">

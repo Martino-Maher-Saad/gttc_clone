@@ -37,7 +37,7 @@ export default function ProjectMasterplan({
       <div className="mx-auto w-full max-w-7xl px-6 sm:px-10 lg:px-14">
         {/* Header matching live Section 2 */}
         <header className="mx-auto max-w-3xl text-center">
-          <p className="about-eyebrow text-[11px] font-medium uppercase tracking-[0.25em] rtl:tracking-[0.08em] text-neutral-500">
+          <p className="about-eyebrow text-xs font-semibold uppercase tracking-[0.25em] rtl:tracking-[0.08em] text-neutral-500">
             {isEn ? `About ${project.name.en}` : `عن ${project.name.ar}`}
           </p>
           <h2

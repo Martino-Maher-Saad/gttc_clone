@@ -35,10 +35,11 @@ export const metadata: Metadata = {
   creator: siteConfig.brand.name_ar,
   icons: {
     icon: [
-      { url: "/favicon.ico", sizes: "64x64", type: "image/x-icon" },
+      { url: "/icon.png", sizes: "512x512", type: "image/png" },
+      { url: "/favicon.ico", sizes: "any" },
     ],
-    shortcut: "/favicon.ico",
-    apple: "/favicon.ico",
+    shortcut: "/icon.png",
+    apple: "/apple-icon.png",
   },
 };
 

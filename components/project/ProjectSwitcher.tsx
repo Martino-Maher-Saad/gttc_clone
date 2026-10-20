@@ -26,7 +26,7 @@ export default function ProjectSwitcher({
       <div className="mx-auto max-w-7xl px-6 sm:px-10 lg:px-14">
         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
           <div>
-            <p className="text-[11px] font-medium uppercase tracking-[0.25em] rtl:tracking-[0.08em] text-[#980f0f]">
+            <p className="text-xs font-semibold uppercase tracking-[0.25em] rtl:tracking-[0.08em] text-brand">
               {isEn ? "Georgia Hospitality Portfolio" : "محفظة مشروعات جورجيا الفندقية"}
             </p>
             <h2 className="font-display mt-1 text-lg sm:text-xl font-semibold text-white">
@@ -35,7 +35,7 @@ export default function ProjectSwitcher({
           </div>
           <Link
             href={isEn ? "/en/portfolio" : "/portfolio"}
-            className="text-xs font-medium text-neutral-400 hover:text-white transition-colors underline-offset-4 hover:underline"
+            className="text-xs sm:text-sm font-semibold text-neutral-400 hover:text-brand transition-colors underline-offset-4 hover:underline"
           >
             {isEn ? "View All Portfolio →" : "عرض كل سابقة الأعمال ←"}
           </Link>
@@ -51,9 +51,9 @@ export default function ProjectSwitcher({
               <Link
                 key={p.slug}
                 href={targetHref}
-                className={`group relative overflow-hidden rounded-sm transition-all duration-300 border ${
+                className={`group relative overflow-hidden rounded-md transition-all duration-300 border ${
                   isActive
-                    ? "border-[#980f0f] ring-2 ring-[#980f0f]/40 shadow-lg"
+                    ? "border-brand ring-2 ring-brand/40 shadow-lg"
                     : "border-white/10 hover:border-white/30 opacity-75 hover:opacity-100"
                 }`}
               >
@@ -70,17 +70,17 @@ export default function ProjectSwitcher({
                     className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/85 via-black/40 to-transparent"
                   />
                   {isActive && (
-                    <span className="absolute top-2 start-2 rounded-full bg-[#980f0f] px-2.5 py-0.5 text-[10px] font-medium text-white shadow-xs">
+                    <span className="absolute top-2 start-2 rounded-full bg-brand px-3 py-1 text-xs font-semibold text-white shadow-xs">
                       {isEn ? "Active" : "المعروض حالياً"}
                     </span>
                   )}
                 </div>
 
                 <div className="p-3 bg-[#171411]">
-                  <p className="text-[10px] font-medium text-[#980f0f] truncate">
+                  <p className="text-xs font-semibold text-brand truncate">
                     {p.tag}
                   </p>
-                  <h3 className="font-display mt-0.5 text-xs sm:text-sm font-semibold text-white truncate">
+                  <h3 className="font-display mt-1 text-xs sm:text-sm font-semibold text-white truncate">
                     {p.name}
                   </h3>
                 </div>

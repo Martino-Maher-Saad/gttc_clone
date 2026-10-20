@@ -167,7 +167,7 @@ export default function Header() {
                 <li key={item.href} className="nav-link-item">
                   <Link
                     href={item.href}
-                    className={`nav-link text-[14px] xl:text-[15px] transition-colors py-1 tracking-tight ${
+                    className={`nav-link text-[15px] xl:text-[16px] transition-colors py-1 tracking-tight ${
                       isActive
                         ? "text-brand font-semibold border-b-[1.5px] border-brand"
                         : "font-medium text-foreground/90 hover:text-brand"
@@ -186,9 +186,9 @@ export default function Header() {
               href={langTarget}
               onClick={handleLanguageSwitch}
               aria-label="تبديل اللغة"
-              className="nav-link hidden text-[14px] font-medium tracking-tight text-foreground/90 transition-colors hover:text-brand sm:inline-flex items-center cursor-pointer"
+              className="nav-link hidden text-[15px] font-semibold tracking-tight text-foreground/90 transition-colors hover:text-brand sm:inline-flex items-center cursor-pointer"
             >
-              <span className="inline-block h-1.5 w-1.5 rounded-full bg-brand me-2" />
+              <span className="inline-block h-2 w-2 rounded-full bg-brand me-2" />
               <span>{langLabel}</span>
             </Link>
 
@@ -253,11 +253,11 @@ export default function Header() {
             <Link
               href={langTarget}
               onClick={handleLanguageSwitch}
-              className="text-sm font-medium tracking-wide text-foreground transition-colors hover:text-brand"
+              className="text-base font-medium tracking-wide text-foreground transition-colors hover:text-brand"
             >
               {langLabel}
             </Link>
-            <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-neutral-400">
+            <span className="font-mono text-sm uppercase tracking-wider text-neutral-400">
               {brandName}
             </span>
           </div>
