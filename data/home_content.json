@@ -29,7 +29,7 @@
           "en": "G-RETAJ Resort — Black Sea Beachfront"
         },
         "counter": "01 / 04",
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792490896/gttc/g-retaj/gretaj_pdf1_p05_1536x1024_4dee59.png"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/v1792490898/gttc/g-retaj/gretaj_pdf1_p06_1092x923_38b049.png"
       },
       {
         "id": "didi-dighomi",
@@ -47,7 +47,7 @@
           "en": "Montbella Resort By Retaj — Tskaltubo"
         },
         "counter": "03 / 04",
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491142/gttc/montbella/montbella_p75_2808x1874_87a9f7.jpg"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/v1792491120/gttc/montbella/montbella_p62_750x395_604bbb.jpg"
       },
       {
         "id": "sera-retaj",
@@ -56,7 +56,7 @@
           "en": "Sera Retaj Mountain Resort — Georgia"
         },
         "counter": "04 / 04",
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491103/gttc/sera-retaj/sera_retaj_p44_3000x1688_c594a9.jpg"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/v1792491100/gttc/sera-retaj/sera_retaj_p29_1512x850_7eeba0.jpg"
       }
     ],
     "copyright": "Golden Tower & Retaj · 2026",
@@ -153,16 +153,8 @@
           "en": "100% Fully Furnished"
         },
         "unitTypes": {
-          "ar": [
-            "غرف ديلوكس",
-            "أجنحة تنفيذية",
-            "شرفات بحرية"
-          ],
-          "en": [
-            "Deluxe Rooms",
-            "Executive Suites",
-            "Sea Terraces"
-          ]
+          "ar": ["غرف ديلوكس", "أجنحة تنفيذية", "شرفات بحرية"],
+          "en": ["Deluxe Rooms", "Executive Suites", "Sea Terraces"]
         },
         "description": {
           "ar": "واجهة بحرية مباشرة على شاطئ الرمال المغناطيسية العلاجية، سياحة حلال عائلية، وإدارة وتشغيل فندقي معتمد من رتاج بعوائد دولارية.",
@@ -193,16 +185,8 @@
           "en": "16 Luxury Hotel Floors"
         },
         "unitTypes": {
-          "ar": [
-            "استوديوهات فندقية",
-            "شقق غرفة وصالة",
-            "شقق غرفتين"
-          ],
-          "en": [
-            "Hotel Studios",
-            "1-Bedroom Suites",
-            "2-Bedroom Suites"
-          ]
+          "ar": ["استوديوهات فندقية", "شقق غرفة وصالة", "شقق غرفتين"],
+          "en": ["Hotel Studios", "1-Bedroom Suites", "2-Bedroom Suites"]
         },
         "description": {
           "ar": "برج فندقي ذكي في قلب تبليسي بمساحات تبدأ من 46 م²، مساحات تجارية، ومواقف سيارات متطورة مع نمو رأسمالي سنوي متسارع.",
@@ -233,22 +217,14 @@
           "en": "Thermal Mineral Healing"
         },
         "unitTypes": {
-          "ar": [
-            "غرف فندقية",
-            "أجنحة ملكية",
-            "نادي صحي وسبا"
-          ],
-          "en": [
-            "Guest Rooms",
-            "Royal Suites",
-            "Wellness & Spa"
-          ]
+          "ar": ["غرف فندقية", "أجنحة ملكية", "نادي صحي وسبا"],
+          "en": ["Guest Rooms", "Royal Suites", "Wellness & Spa"]
         },
         "description": {
           "ar": "صرح استشفائي تاريخي عملاق على مساحة 35,995 م² يضم 350 مفتاحاً في موطن الينابيع العلاجية الطبيعية التي تعود للقرن السابع الميلادي.",
           "en": "35,995 m² landmark healing sanatorium featuring 350 keys in historic Tskaltubo, famed since the 7th century for natural radon mineral baths."
         },
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491142/gttc/montbella/montbella_p75_2808x1874_87a9f7.jpg",
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/v1792491148/gttc/montbella/montbella_p76_1202x1603_566015.jpg",
         "href": "/montbella"
       },
       {
@@ -273,20 +249,14 @@
           "en": "Eco-Luxury Chalets"
         },
         "unitTypes": {
-          "ar": [
-            "شاليهات عائلية",
-            "فيلات فندقية"
-          ],
-          "en": [
-            "Family Chalets",
-            "Hotel Villas"
-          ]
+          "ar": ["شاليهات عائلية", "فيلات فندقية"],
+          "en": ["Family Chalets", "Hotel Villas"]
         },
         "description": {
           "ar": "شاليهات بيئية فاخرة وسط الغابات والجبال توفر أعلى درجات الخصوصية والراحة العائلية مع كامل الخدمات الفندقية المتميزة.",
           "en": "Boutique eco-luxury chalets nestled in alpine highlands offering total privacy, serenity, and comprehensive 5-star hotel services."
         },
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491103/gttc/sera-retaj/sera_retaj_p44_3000x1688_c594a9.jpg",
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/v1792491114/gttc/sera-retaj/sera_retaj_p51_3000x1688_1f984f.jpg",
         "href": "/sera-retaj"
       }
     ]
@@ -448,7 +418,7 @@
           "ar": "شواطئ غريغوليتي النادرة الغنية بالمعادن الطبيعية التي تساعد في تنشيط الدورة الدموية وعلاج آلام المفاصل والروماتيزم للكبار والأطفال.",
           "en": "Grigoleti's rare coastal sands rich in natural minerals, stimulating blood circulation and easing joint fatigue for all ages."
         },
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792490709/gttc/g-retaj/gretaj_pdf1_p02_1536x1024_1c2ef9.png"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/v1792490721/gttc/g-retaj/gretaj_pdf1_p02_768x512_53683b.png"
       },
       {
         "title": {
@@ -459,7 +429,7 @@
           "ar": "منتجع مونتبلا في تسخالتوبو التاريخية، موطن المياه الاستشفائية المعالجة ذات الخصائص الطبية العريقة منذ القرن السابع الميلادي.",
           "en": "Montbella Resort in historic Tskaltubo, home to legendary therapeutic mineral radon waters celebrated since the 7th century."
         },
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491006/gttc/g-retaj/gretaj_pdf1_p15_1536x1024_c213de.png"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/v1792491121/gttc/montbella/montbella_p61_1140x565_86be80.jpg"
       },
       {
         "title": {
@@ -481,7 +451,7 @@
           "ar": "تشكيلة من المطاعم الراقية التي تقدم أشهى الأطباق الشرقية والعالمية المحضرة على يد أمهر الطهاة لضمان تجربة فندقية متكاملة.",
           "en": "Fine dining restaurants offering curated Oriental and international culinary journeys crafted by master chefs."
         },
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792490936/gttc/g-retaj/gretaj_pdf1_p09_1536x1024_1caf9b.png"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/v1792491134/gttc/montbella/montbella_p72_805x537_def46f.jpg"
       }
     ]
   },
@@ -501,8 +471,8 @@
     "phone": "01015626755",
     "email": "info@gttc.co",
     "address": {
-      "ar": "برج بروة 1، الطابق التاسع، السد، الدوحة، قطر",
-      "en": "Barwa Tower 1, 9th Floor, Al Sadd, Doha, Qatar"
+      "ar": "2 شارع علي أمين، مدينة نصر، الدور الثامن",
+      "en": "2 Ali Amin, Nasr City, 8th Floor"
     },
     "cta": {
       "headline": {
@@ -559,7 +529,7 @@
           "ar": "شواطئ غريغوليتي النادرة الغنية بالمعادن الطبيعية التي تساعد في تنشيط الدورة الدموية وعلاج آلام المفاصل والروماتيزم للكبار والأطفال.",
           "en": "Grigoleti's rare coastal sands rich in natural minerals, stimulating blood circulation and easing joint fatigue for all ages."
         },
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792490709/gttc/g-retaj/gretaj_pdf1_p02_1536x1024_1c2ef9.png"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/v1792491078/gttc/g-retaj/gretaj_pdf2_p22_818x500_542997.jpg"
       },
       {
         "id": "community",
@@ -571,7 +541,7 @@
           "ar": "منتجع مونتبلا في تسخالتوبو التاريخية، موطن المياه الاستشفائية المعالجة ذات الخصائص الطبية العريقة منذ القرن السابع الميلادي.",
           "en": "Montbella Resort in historic Tskaltubo, home to legendary therapeutic mineral radon waters celebrated since the 7th century."
         },
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792491006/gttc/g-retaj/gretaj_pdf1_p15_1536x1024_c213de.png"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/v1792491121/gttc/montbella/montbella_p61_1140x565_86be80.jpg"
       },
       {
         "id": "finishing",
@@ -595,7 +565,7 @@
           "ar": "تشكيلة من المطاعم الراقية التي تقدم أشهى الأطباق الشرقية والعالمية المحضرة على يد أمهر الطهاة لضمان تجربة فندقية متكاملة.",
           "en": "Fine dining restaurants offering curated Oriental and international culinary journeys crafted by master chefs."
         },
-        "image": "https://res.cloudinary.com/izrnyvya/image/upload/f_auto,q_auto/v1792490936/gttc/g-retaj/gretaj_pdf1_p09_1536x1024_1caf9b.png"
+        "image": "https://res.cloudinary.com/izrnyvya/image/upload/v1792491134/gttc/montbella/montbella_p72_805x537_def46f.jpg"
       }
     ]
   }

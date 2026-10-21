@@ -1,25 +1,25 @@
 {
   "offices": [
     {
-      "id": "executive-hq",
-      "type": "headquarters",
+      "id": "company-office",
+      "type": "office",
       "title": {
-        "en": "Executive Headquarters (Qatar)",
-        "ar": "المقر الرئيسي التنفيذي (دولة قطر)"
+        "en": "Company Office",
+        "ar": "مقر الشركة"
       },
       "address": {
-        "en": "7th Floor, Barwa Tower 1, C-Ring Road, Al Sadd Area, Doha, Qatar",
-        "ar": "الطابق السابع، برج بروة 1، طريق الدائري الثالث، منطقة السد، الدوحة، قطر"
+        "en": "2 Ali Amin, Nasr City, 8th Floor",
+        "ar": "2 شارع علي أمين، مدينة نصر، الدور الثامن"
       },
-      "poBox": "PO Box 9217, Doha - Qatar",
+      "poBox": "Nasr City, Cairo, Egypt",
       "tel": "01015626755",
       "mob": "01146659065",
       "email": "info@gttc.co",
       "workingHours": {
-        "en": "Sunday - Thursday: 8:00 AM - 5:30 PM",
-        "ar": "الأحد - الخميس: 8:00 صباحاً - 5:30 مساءً"
+        "en": "Sunday - Thursday: 9:00 AM - 6:00 PM",
+        "ar": "الأحد - الخميس: 9:00 صباحاً - 6:00 مساءً"
       },
-      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2008.3437547993806!2d51.503183858425054!3d25.28680568069388!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e45dad00e15ee29%3A0xac7fec181909d09b!2sGTTC+-+Golden+Tower+Trading+%26+Cont.+Office!5e0!3m2!1sen!2s!4v1505683828585"
+      "mapEmbedUrl": "https://maps.google.com/maps?q=2+Ali+Amin,+Nasr+City,+Cairo,+Egypt&t=&z=16&ie=UTF8&iwloc=&output=embed"
     },
     {
       "id": "fabrication-workshop",

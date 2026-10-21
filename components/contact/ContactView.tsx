@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Phone, Mail, MapPin, Clock, Building } from "lucide-react";
+import { Phone, MapPin, Clock, Building } from "lucide-react";
 import contactData from "@/data/contact.json";
 
 interface ContactViewProps {
@@ -161,7 +161,7 @@ export default function ContactView({ isEn = false }: ContactViewProps) {
                   </span>
                   <div>
                     <span className="text-xs font-semibold uppercase tracking-wider text-brand">
-                      {isEn ? "Primary Contact Office" : "المقر التنفيذي الرئيسي"}
+                      {isEn ? "Company Office" : "مقر الشركة"}
                     </span>
                     <h3 className="font-display text-xl sm:text-2xl font-semibold text-[#171410] mt-0.5">
                       {office.title[langKey]}
@@ -212,15 +212,7 @@ export default function ContactView({ isEn = false }: ContactViewProps) {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-3 sm:col-span-2">
-                    <Mail className="h-5 w-5 shrink-0 text-brand mt-0.5" />
-                    <div>
-                      <p className="text-xs uppercase font-semibold text-neutral-400 mb-0.5">{isEn ? "Official Email" : "البريد الرسمي"}</p>
-                      <a href={`mailto:${office.email}`} className="hover:text-brand transition-colors text-[#171410] font-medium text-sm sm:text-base">
-                        {office.email}
-                      </a>
-                    </div>
-                  </div>
+
                 </div>
 
                 {office.mapEmbedUrl && (

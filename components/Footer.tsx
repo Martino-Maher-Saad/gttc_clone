@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import { Phone, Mail, MapPin } from "lucide-react";
+import { Phone, MapPin } from "lucide-react";
 import siteConfig from "@/data/site_config.json";
 import homeContent from "@/data/home_content.json";
 
@@ -74,20 +74,7 @@ export default function Footer({ isEn = false }: FooterProps) {
                 </div>
               </li>
 
-              <li className="flex items-start gap-3">
-                <Mail className="mt-1 shrink-0 text-brand h-5 w-5" strokeWidth={1.5} />
-                <div className="text-base sm:text-lg">
-                  <p className="text-sm uppercase tracking-[0.15em] rtl:tracking-[0.06em] text-background/65 font-semibold">
-                    {isEn ? "Email" : "البريد الإلكتروني"}
-                  </p>
-                  <a
-                    href={`mailto:${footerData.email}`}
-                    className="text-background/95 transition-colors hover:text-brand font-medium text-base"
-                  >
-                    {footerData.email}
-                  </a>
-                </div>
-              </li>
+
 
               <li className="flex items-start gap-3">
                 <MapPin className="mt-1 shrink-0 text-brand h-5 w-5" strokeWidth={1.5} />
@@ -104,99 +91,15 @@ export default function Footer({ isEn = false }: FooterProps) {
           </div>
         </div>
 
-        {/* Bottom Bar: Disclaimer, Social, Copyright */}
-        <div className="mt-20 flex flex-col gap-8 border-t border-background/10 pt-8 sm:mt-24 md:flex-row md:items-center md:justify-between lg:mt-28">
-          <p className="order-2 max-w-md text-sm leading-relaxed text-background/70 md:order-1 font-normal">
+        {/* Bottom Bar: Disclaimer & Copyright */}
+        <div className="mt-16 flex flex-col gap-6 border-t border-background/10 pt-8 sm:mt-20 md:flex-row md:items-center md:justify-between lg:mt-24">
+          <p className="max-w-md text-sm leading-relaxed text-background/70 font-normal">
             {isEn
               ? `Official authorized platform for marketing ${siteConfig.brand.name_en} developments.`
               : `منصة رسمية معتمدة لتسويق مشروعات ${siteConfig.brand.name_ar} الفندقية الاستثمارية.`}
           </p>
 
-          <div className="order-1 flex items-center gap-2 md:order-2">
-            <span className="me-3 text-sm uppercase tracking-[0.25em] text-background/70 font-semibold">
-              {isEn ? "Follow Us" : "تابعنا"}
-            </span>
-
-            {/* Instagram */}
-            <a
-              href={siteConfig.social.instagram}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Instagram"
-              className="group inline-flex h-10 w-10 items-center justify-center rounded-full border border-background/15 text-background/85 transition-all duration-300 hover:-translate-y-0.5 hover:border-brand hover:bg-brand hover:text-white"
-            >
-              <svg
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="1.6"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                aria-hidden="true"
-                className="h-4 w-4 transition-transform duration-300 group-hover:scale-110"
-              >
-                <rect x="3" y="3" width="18" height="18" rx="5" />
-                <circle cx="12" cy="12" r="4" />
-                <circle cx="17.5" cy="6.5" r="0.75" fill="currentColor" stroke="none" />
-              </svg>
-            </a>
-
-            {/* Facebook */}
-            <a
-              href={siteConfig.social.facebook}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Facebook"
-              className="group inline-flex h-10 w-10 items-center justify-center rounded-full border border-background/15 text-background/85 transition-all duration-300 hover:-translate-y-0.5 hover:border-brand hover:bg-brand hover:text-white"
-            >
-              <svg
-                viewBox="0 0 24 24"
-                fill="currentColor"
-                aria-hidden="true"
-                className="h-4 w-4 transition-transform duration-300 group-hover:scale-110"
-              >
-                <path d="M13.5 22v-8.5h2.85l.42-3.32h-3.27V8.06c0-.96.27-1.62 1.66-1.62h1.77V3.47A23.5 23.5 0 0 0 14.36 3.3c-2.55 0-4.3 1.56-4.3 4.4v2.48H7.2v3.32h2.86V22h3.44Z" />
-              </svg>
-            </a>
-
-            {/* LinkedIn */}
-            <a
-              href={siteConfig.social.linkedin}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="LinkedIn"
-              className="group inline-flex h-10 w-10 items-center justify-center rounded-full border border-background/15 text-background/85 transition-all duration-300 hover:-translate-y-0.5 hover:border-brand hover:bg-brand hover:text-white"
-            >
-              <svg
-                viewBox="0 0 24 24"
-                fill="currentColor"
-                aria-hidden="true"
-                className="h-4 w-4 transition-transform duration-300 group-hover:scale-110"
-              >
-                <path d="M4.98 3.5C4.98 4.88 3.87 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5ZM5 8H0v15h5V8Zm7.95 0H8.05v15h4.9v-7.88c0-4.55 5.96-4.92 5.96 0V23H24v-9.55c0-7.61-8.7-7.33-11.05-3.58V8Z" />
-              </svg>
-            </a>
-
-            {/* YouTube */}
-            <a
-              href={siteConfig.social.youtube}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="YouTube"
-              className="group inline-flex h-10 w-10 items-center justify-center rounded-full border border-background/15 text-background/85 transition-all duration-300 hover:-translate-y-0.5 hover:border-brand hover:bg-brand hover:text-white"
-            >
-              <svg
-                viewBox="0 0 24 24"
-                fill="currentColor"
-                aria-hidden="true"
-                className="h-4 w-4 transition-transform duration-300 group-hover:scale-110"
-              >
-                <path d="M23.5 6.5c-.27-1.02-1.07-1.82-2.08-2.1C19.6 4 12 4 12 4s-7.6 0-9.42.4c-1 .28-1.81 1.08-2.08 2.1C0 8.34 0 12 0 12s0 3.66.5 5.5c.27 1.02 1.08 1.82 2.08 2.1C4.4 20 12 20 12 20s7.6 0 9.42-.4c1-.28 1.81-1.08 2.08-2.1.5-1.84.5-5.5.5-5.5s0-3.66-.5-5.5ZM9.6 15.6V8.4l6.24 3.6-6.24 3.6Z" />
-              </svg>
-            </a>
-          </div>
-
-          <p className="order-3 text-xs text-background/60">
+          <p className="text-xs text-background/60">
             {isEn
               ? `All rights reserved © ${new Date().getFullYear()} — ${siteConfig.brand.name_en}`
               : `جميع الحقوق محفوظة © ${new Date().getFullYear()} — ${siteConfig.brand.name_ar}`}

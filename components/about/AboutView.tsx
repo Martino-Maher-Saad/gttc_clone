@@ -117,23 +117,7 @@ export default function AboutView({ isEn = false }: AboutViewProps) {
           </div>
         </section>
 
-        {/* Leadership & Founder Word */}
-        <section className="mt-20 sm:mt-28 border border-neutral-200/80 rounded-md bg-white p-8 sm:p-12 lg:p-16 shadow-xs">
-          <div className="max-w-3xl">
-            <span className="text-xs sm:text-sm font-semibold uppercase tracking-[0.2em] text-brand">
-              {isEn ? "Executive Leadership" : "القيادة التنفيذية"}
-            </span>
-            <h2 className="font-display mt-2 text-2xl sm:text-3xl font-semibold text-foreground">
-              {companyData.ceo.name[langKey]}
-            </h2>
-            <p className="text-sm sm:text-base text-neutral-500 font-medium mt-1">
-              {companyData.ceo.title[langKey]}
-            </p>
-            <blockquote className="mt-6 border-s-2 border-brand ps-6 text-base sm:text-lg italic text-[#2b2520] leading-relaxed">
-              &ldquo;{companyData.ceo.quote[langKey]}&rdquo;
-            </blockquote>
-          </div>
-        </section>
+
 
         {/* Corporate Values */}
         <section className="mt-20 sm:mt-28">

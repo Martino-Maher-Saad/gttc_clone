@@ -63,18 +63,12 @@ export default function RootLayout({
         url: siteConfig.contact.site_url,
         logo: `${siteConfig.contact.site_url}/logo.svg`,
         telephone: siteConfig.contact.phone,
-        email: siteConfig.contact.email,
         address: {
           "@type": "PostalAddress",
-          addressLocality: "Doha",
-          addressCountry: "QA",
+          streetAddress: "2 Ali Amin, 8th Floor",
+          addressLocality: "Nasr City, Cairo",
+          addressCountry: "EG",
         },
-        sameAs: [
-          siteConfig.social.facebook,
-          siteConfig.social.instagram,
-          siteConfig.social.linkedin,
-          siteConfig.social.youtube,
-        ],
       },
       {
         "@type": "WebSite",
