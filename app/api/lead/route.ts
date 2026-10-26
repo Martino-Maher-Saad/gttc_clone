@@ -10,7 +10,7 @@ export async function POST(req: Request) {
     if (!phone) {
       return NextResponse.json(
         { error: "Phone number is required" },
-        { status: 400 }
+        { status: 400 },
       );
     }
 
@@ -52,7 +52,7 @@ export async function POST(req: Request) {
     // 2. Google Sheets Webhook integration
     const webhookUrl =
       process.env.GOOGLE_SHEET_WEBHOOK_URL ||
-      "https://script.google.com/macros/s/AKfycbwzJlIw5zB5bOzyOM6FYfSGkMkoFedO561-lkkAEw9ZYl6uvsim68xVfIbEGIo-Lg/exec";
+      "https://script.google.com/macros/s/AKfycbzNIstcaaJjjmeHJZ3GipqHKlGvueYEmjzQSOVN65o7z9hGy3FkKNnBnueLqINpLfI/exec";
     if (webhookUrl) {
       try {
         await fetch(webhookUrl, {
@@ -68,7 +68,8 @@ export async function POST(req: Request) {
 
     return NextResponse.json({ success: true, lead });
   } catch (err: unknown) {
-    const message = err instanceof Error ? err.message : "Internal Server Error";
+    const message =
+      err instanceof Error ? err.message : "Internal Server Error";
     return NextResponse.json({ error: message }, { status: 500 });
   }
 }
