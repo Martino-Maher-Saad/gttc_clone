@@ -114,9 +114,19 @@ export default function ProjectHero({ project, isEn = false }: ProjectHeroProps)
             >
               <span
                 data-hero-item="true"
-                className="block text-[clamp(2.6rem,8.5vw,6.5rem)] font-semibold text-white"
+                className="block text-[clamp(2.1rem,6.5vw,5.5rem)] font-semibold text-white leading-[1.15]"
               >
-                {project.name[langKey]}
+                {!isEn && project.name[langKey].includes("جي - رتاج") ? (
+                  <>
+                    فندق ومنتجع{" "}
+                    <span className="inline-block whitespace-nowrap">
+                      جي - رتاج
+                    </span>{" "}
+                    {project.name[langKey].replace("فندق ومنتجع جي - رتاج", "").trim()}
+                  </>
+                ) : (
+                  project.name[langKey]
+                )}
               </span>
               <span
                 data-hero-item="true"

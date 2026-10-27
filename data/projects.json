@@ -2,11 +2,11 @@
   "g-retaj": {
     "slug": "g-retaj",
     "name": {
-      "ar": "فندق ومنتجع جي-رتاج (غريغوليتي)",
+      "ar": "فندق ومنتجع جي - رتاج (جريجوليتى)",
       "en": "G-RETAJ Resort & Spa (Grigoleti)"
     },
     "location": {
-      "ar": "شاطئ البحر الأسود، غريغوليتي، جورجيا",
+      "ar": "شاطئ البحر الأسود، جريجوليتى، جورجيا",
       "en": "Black Sea Beachfront, Grigoleti, Georgia"
     },
     "status": {
@@ -23,11 +23,11 @@
         "en": "Coastal Hotel Investment · Black Sea"
       },
       "title": {
-        "ar": "فندق ومنتجع جي-رتاج الفاخر على رمال البحر الأسود المغناطيسية",
+        "ar": "فندق ومنتجع جي - رتاج الفاخر على رمال البحر الأسود المغناطيسية",
         "en": "G-RETAJ Luxury Hotel & Resort on Magnetic Black Sea Sands"
       },
       "subtitle": {
-        "ar": "شراكة استراتيجية بين مجموعة البرج الذهبي وفنادق رتاج العالمية. تملك حر 100%، تسليم مفروش بالكامل منتصف 2027، عوائد دورية بالدولار الأمريكي وسياحة استشفائية عائلية راقية.",
+        "ar": "شراكة استراتيجية بين مجموعة جولدن تاور وفنادق رتاج العالمية. تملك حر 100%، تسليم مفروش بالكامل منتصف 2027، عوائد دورية بالدولار الأمريكي وسياحة استشفائية عائلية راقية.",
         "en": "A strategic alliance between Golden Tower Group and Retaj Hotels & Hospitality. 100% Freehold, fully furnished delivery mid-2027, periodic USD yields, and premium halal family wellness."
       },
       "startingPrice": 65000,
@@ -47,7 +47,7 @@
         "en": "A Rare Coastal Sanctuary on Therapeutic Magnetic Sands"
       },
       "description": {
-        "ar": "يقع منتجع جي-رتاج في غريغوليتي على شاطئ البحر الأسود، المشهور عالمياً بغابات الصنوبر المعمرة والرمال السوداء المغناطيسية الغنية بعناصر الماغنيتيت العلاجية لمشاكل المفاصل والدورة الدموية والجهاز العصبي، محاطاً بطبيعة ساحرة تجمع بين نسيم البحر ونقاء الغابات.",
+        "ar": "يقع منتجع جي - رتاج في جريجوليتى على شاطئ البحر الأسود، المشهور عالمياً بغابات الصنوبر المعمرة والرمال السوداء المغناطيسية الغنية بعناصر الماغنيتيت العلاجية لمشاكل المفاصل والدورة الدموية والجهاز العصبي، محاطاً بطبيعة ساحرة تجمع بين نسيم البحر ونقاء الغابات.",
         "en": "G-RETAJ is situated in Grigoleti on the Black Sea coast, world-famous for its perennial pine forests and therapeutic magnetic black sands rich in magnetite, renowned for healing joint, cardiovascular, and nervous conditions within pure coastal pine air."
       },
       "landmarks": [
@@ -389,7 +389,7 @@
         "en": "Over 20 Years of Trust & Landmark Achievements"
       },
       "description": {
-        "ar": "تستند شراكة البرج الذهبي ورتاج إلى تاريخ حافل بالإنجازات في قطر وجورجيا، ومحفظة فندقية تدير آلاف المفاتيح باحترافية مشهود لها عالمياً.",
+        "ar": "تستند شراكة جولدن تاور ورتاج إلى تاريخ حافل بالإنجازات في قطر وجورجيا، ومحفظة فندقية تدير آلاف المفاتيح باحترافية مشهود لها عالمياً.",
         "en": "The Golden Tower & Retaj alliance is underpinned by decades of proven delivery across Qatar and Georgia, stewarding thousands of keys with world-class hospitality."
       }
     },
@@ -426,11 +426,11 @@
       },
       {
         "question": {
-          "ar": "ما هي ميزة رمال غريغوليتي المغناطيسية العلاجية؟",
+          "ar": "ما هي ميزة رمال جريجوليتى المغناطيسية العلاجية؟",
           "en": "What makes Grigoleti's magnetic sands unique?"
         },
         "answer": {
-          "ar": "تعتبر شواطئ غريغوليتي من أندر الشواطئ في العالم، حيث تحتوي رمالها السوداء على نسب طبيعية من خام الماغنيتيت الذي يولد حقلاً كهرومغناطيسياً طبيعياً يساعد في علاج أمراض المفاصل والعظام وتنشيط الدورة الدموية، مما يجعلها مقصداً سياحياً عالمياً للاستشفاء على مدار العام.",
+          "ar": "تعتبر شواطئ جريجوليتى من أندر الشواطئ في العالم، حيث تحتوي رمالها السوداء على نسب طبيعية من خام الماغنيتيت الذي يولد حقلاً كهرومغناطيسياً طبيعياً يساعد في علاج أمراض المفاصل والعظام وتنشيط الدورة الدموية، مما يجعلها مقصداً سياحياً عالمياً للاستشفاء على مدار العام.",
           "en": "Grigoleti is among the rarest beaches on earth; its natural black magnetic sands contain magnetite minerals that generate therapeutic micro-fields assisting arthritis, bone health, and circulatory relief, creating constant year-round wellness tourism demand."
         }
       }
@@ -680,7 +680,7 @@
     "deliveredTrackRecord": [
       {
         "name": {
-          "ar": "مشروعات البنية التحتية لمجموعة البرج الذهبي",
+          "ar": "مشروعات البنية التحتية لمجموعة جولدن تاور",
           "en": "Golden Tower Infrastructure Works"
         },
         "status": {
@@ -928,7 +928,7 @@
     "deliveredTrackRecord": [
       {
         "name": {
-          "ar": "شراكة فنادق رتاج العالمية والبرج الذهبي",
+          "ar": "شراكة فنادق رتاج العالمية وجولدن تاور",
           "en": "Retaj & Golden Tower Alliance"
         },
         "status": {
